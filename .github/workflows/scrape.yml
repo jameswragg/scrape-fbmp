@@ -1,0 +1,48 @@
+name: Scrape FBMP
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  shot-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - uses: actions/cache@v3
+        name: Configure pip caching
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip
+      - name: Cache Playwright browsers
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/ms-playwright/
+          key: ${{ runner.os }}-playwright
+      - name: Install dependencies
+        run: |
+          pip install shot-scraper
+          shot-scraper install
+      - name: Scrape
+        run: |
+          shot-scraper javascript --user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+            "https://www.facebook.com/marketplace/108695472488778/search?sortBy=creation_time_descend&query=Marble fireplace&exact=false" \
+            -i scrape-fbmp.js -o marble-fireplace.json --bypass-csp -a auth.json
+      - name: Commit and push
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "${timestamp}" || exit 0
+          git pull --rebase
+          git push
