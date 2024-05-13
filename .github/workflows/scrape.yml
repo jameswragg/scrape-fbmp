@@ -47,18 +47,18 @@ jobs:
           git add -A
           if git diff --exit-code >/dev/null; then
             curl ntfy.sh \
-            -d '{
-              "tags": ["tada"],
-              "topic": "jdw-fbmp-alerts",
-              "message": "FBMP Search listings changed.",
-              "actions": [
-                {
-                  "action": "view",
-                  "label": "Listing",
-                  "url": "https://jameswragg.github.io/scrape-fbmp/"
-                }
-              ]
-            }'
+              -d '{
+                "tags": ["tada"],
+                "topic": "jdw-fbmp-alerts",
+                "message": "FBMP Search listings changed.",
+                "actions": [
+                  {
+                    "action": "view",
+                    "label": "Listing",
+                    "url": "https://jameswragg.github.io/scrape-fbmp/"
+                  }
+                ]
+              }'
           fi
           timestamp=$(date -u)
           git commit -m "${timestamp}" || exit 0
