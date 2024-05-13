@@ -47,8 +47,8 @@ jobs:
           git add -A
           if git diff --exit-code >/dev/null; then
             curl \
-              curl -H "Tags: tada" \
-              -H "Actions: http, Open door, "https://www.facebook.com/marketplace/108695472488778/search?sortBy=creation_time_descend&query=Marble fireplace&exact=false", clear=true" \
+              -H "Tags: tada" \
+              -H "Actions: http, Visit Facebook Marketplace, https://www.facebook.com/marketplace/108695472488778/search?sortBy=creation_time_descend&query=Marble fireplace&exact=false, clear=true" \
               -d "FBMP Listings changed" \
               ntfy.sh/jdw-fbmp-alerts
           fi
