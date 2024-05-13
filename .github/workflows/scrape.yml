@@ -36,7 +36,7 @@ jobs:
         run: |
           shot-scraper javascript --user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
             "https://www.facebook.com/marketplace/108695472488778/search?sortBy=creation_time_descend&query=Marble fireplace&exact=false" \
-            -i scrape-fbmp.js -o marble-fireplace.json --bypass-csp -a auth.json
+            -i scrape-fbmp.js -o results.json --bypass-csp -a auth.json
       - name: Commit and push
         run: |-
           git config user.name "Automated"
