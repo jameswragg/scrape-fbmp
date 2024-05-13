@@ -1,6 +1,4 @@
 async () => {
-  const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
   const waitForDocumentLoad = () => {
     return new Promise((resolve) => {
       if (document.readyState === "complete") {
@@ -12,17 +10,6 @@ async () => {
   };
 
   await waitForDocumentLoad();
-
-  // const buttonSelector = `[aria-label="Allow all cookies"]`;
-  // // const buttonSelector = `[data-testid="cookie-policy-manage-dialog-accept-button"]`;
-  // const button = document.querySelector(buttonSelector);
-  // if (button) {
-  //   console.log("button found");
-  //   button.click();
-  //   await sleep(2000);
-  // } else {
-  //   console.log("button not seen");
-  // }
 
   const items = Array.from(
     document.querySelectorAll(`a[href^="/marketplace/item/"]`),
@@ -53,14 +40,13 @@ async () => {
           return el.innerText.trim();
         });
 
-        console.log({ price, description, location });
-
         return {
           description,
           price,
           location,
-          url,
-          image,
+          // facebook add hashing to the URLs so every scrape was different & scuppered the usefulness of git scraping
+          // url,
+          // image,
         };
       } catch (e) {
         return e;
