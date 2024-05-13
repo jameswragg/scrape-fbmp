@@ -8,11 +8,17 @@
   </head>
   <body>
     <div class="container">
+      <h1>
+        <a href="https://jameswragg.github.io/scrape-fbmp/">FBMP scraper</a> (<a
+          href="https://github.com/jameswragg/scrape-fbmp"
+          >github</a
+        >)
+      </h1>
       <div id="output" class="relative p-5"></div>
     </div>
 
     <script type="module">
-      const res = await fetch("/results.json");
+      const res = await fetch("/scrape-fbmp/results.json");
       const data = await res.json();
 
       const html = `<ul class="divide-y divide-gray-100">
