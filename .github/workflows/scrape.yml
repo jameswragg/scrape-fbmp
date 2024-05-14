@@ -38,7 +38,7 @@ jobs:
         run: |
           echo "$FB_COOKIE" > auth.json
           shot-scraper javascript --user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
-            "https://www.facebook.com/marketplace/108695472488778/search?sortBy=creation_time_descend&query=Marble fireplace&exact=false" \
+            "https://www.facebook.com/marketplace/108695472488778/search?query=marble%20fireplace&radius=25&sortBy=creation_time_descend&exact=false" \
             -i scrape-fbmp.js -o results.json --bypass-csp -a auth.json
       - name: Commit and push
         run: |-
