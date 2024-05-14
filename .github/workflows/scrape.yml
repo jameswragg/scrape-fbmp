@@ -45,7 +45,7 @@ jobs:
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git add -A
-          if git diff --exit-code >/dev/null; then
+          if [ -n "$(git status --porcelain)" ]; then
             curl ntfy.sh \
               -d '{
                 "tags": ["tada"],
