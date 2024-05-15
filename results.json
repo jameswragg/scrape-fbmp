@@ -1,5 +1,10 @@
 [
     {
+        "description": "Solid wood fireplace surround",
+        "price": "\u00a345",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Antique & repro. Marble fireplace surrounds",
         "price": "\u00a31,234,567",
         "location": "Hassocks"
@@ -113,10 +118,5 @@
         "description": "Marble fire place and surround.",
         "price": "\u00a310",
         "location": "Nuneaton, Warwickshire"
-    },
-    {
-        "description": "Cast iron fire place",
-        "price": "\u00a3100",
-        "location": "Ilford, Redbridge, United Kingdom"
     }
 ]
