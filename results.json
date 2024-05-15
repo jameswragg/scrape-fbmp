@@ -10,6 +10,11 @@
         "location": "Hassocks"
     },
     {
+        "description": "Iron cast fireplace",
+        "price": "\u00a325",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
         "location": "Hassocks"
@@ -113,10 +118,5 @@
         "description": "Fire surround and marble hearth",
         "price": "\u00a3100",
         "location": "Newcastle upon Tyne"
-    },
-    {
-        "description": "Marble fire place and surround.",
-        "price": "\u00a310",
-        "location": "Nuneaton, Warwickshire"
     }
 ]
