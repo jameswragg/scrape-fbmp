@@ -1,8 +1,13 @@
 [
     {
-        "description": "Solid wood fireplace surround",
-        "price": "\u00a345",
-        "location": "Brighton and Hove"
+        "description": "Victorian vintage cast iron with marble top",
+        "price": "\u00a3120",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Fireplace surround",
+        "price": "\u00a350",
+        "location": "Horsham"
     },
     {
         "description": "Antique & repro. Marble fireplace surrounds",
@@ -43,80 +48,5 @@
         "description": "Cast Iron Fireplace Surround",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fire surround",
-        "price": "\u00a3300",
-        "location": "St Helens, Merseyside"
-    },
-    {
-        "description": "Original Victorian fireplace surround with reproduction tiles",
-        "price": "\u00a3150",
-        "location": "New Malden, Bromley, United Kingdom"
-    },
-    {
-        "description": "Fire surround",
-        "price": "\u00a350",
-        "location": "Alnwick, Northumberland"
-    },
-    {
-        "description": "Victorian fireplace surround",
-        "price": "\u00a3100",
-        "location": "Birmingham, United Kingdom"
-    },
-    {
-        "description": "Welsh Slate Victorian Antique Fireplace with Marble Slab Detail & Cast Iron inserts",
-        "price": "\u00a31",
-        "location": "Beaumaris"
-    },
-    {
-        "description": "Heavy Cast Iron Table Base",
-        "price": "\u00a370",
-        "location": "Andover, Hampshire, United Kingdom"
-    },
-    {
-        "description": "Fire surround & grate Antique",
-        "price": "\u00a3100",
-        "location": "Leicester, United Kingdom"
-    },
-    {
-        "description": "Fire place surround with marble hearth",
-        "price": "\u00a325",
-        "location": "Manchester, United Kingdom"
-    },
-    {
-        "description": "x 4 Antique Victorian Cast Iron Fireplaces, \u00a3200 each, 4 available",
-        "price": "\u00a3200",
-        "location": "Nuneaton, Warwickshire"
-    },
-    {
-        "description": "Fireplace with surround",
-        "price": "\u00a3150",
-        "location": "Chichester, West Sussex"
-    },
-    {
-        "description": "Victorian Cast iron fireplace",
-        "price": "\u00a3500",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Victorian fire place and surround",
-        "price": "$150",
-        "location": "Daventry, Northamptonshire"
-    },
-    {
-        "description": "Cast iron Victorian fireplace",
-        "price": "\u00a3100",
-        "location": "Wisbech"
-    },
-    {
-        "description": "Original Victorian cast iron fireplace",
-        "price": "\u00a3300",
-        "location": "Romford, United Kingdom"
-    },
-    {
-        "description": "Fire surround and marble hearth",
-        "price": "\u00a3100",
-        "location": "Newcastle upon Tyne"
     }
 ]
