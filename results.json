@@ -45,6 +45,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Radley Black Cast Iron Insert Fireplace With Surround Victorian Edwardian",
+        "price": "\u00a3100",
+        "location": "East Tilbury"
+    },
+    {
         "description": "Cast Iron Fireplace, Victorian/Edwardian",
         "price": "\u00a3100",
         "location": "London, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Welsh Slate Victorian Antique Fireplace with Marble Slab Detail & Cast Iron inserts",
         "price": "\u00a31",
         "location": "Beaumaris"
-    },
-    {
-        "description": "Heavy Cast Iron Table Base",
-        "price": "\u00a370",
-        "location": "Andover, Hampshire, United Kingdom"
     }
 ]
