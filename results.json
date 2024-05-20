@@ -45,6 +45,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Cast Iron Fireplace, Victorian/Edwardian",
+        "price": "\u00a3100",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "5 French marble roundels",
         "price": "\u00a325",
         "location": "Worcester, Worcestershire"
@@ -113,10 +118,5 @@
         "description": "Heavy Cast Iron Table Base",
         "price": "\u00a370",
         "location": "Andover, Hampshire, United Kingdom"
-    },
-    {
-        "description": "Fire surround & grate Antique",
-        "price": "\u00a3100",
-        "location": "Leicester, United Kingdom"
     }
 ]
