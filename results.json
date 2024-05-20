@@ -45,11 +45,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Marble fire place & solid mahogany surround",
-        "price": "$50",
-        "location": "Bagillt"
-    },
-    {
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
         "price": "\u00a3100",
         "location": "Bishop Auckland"
@@ -70,11 +65,6 @@
         "location": "North Walsham"
     },
     {
-        "description": "Victorian style fireplace and surround",
-        "price": "Free",
-        "location": "Guildford"
-    },
-    {
         "description": "Victorian marble fireplace casing with the podstone",
         "price": "\u00a3650",
         "location": "West Wickham, Bromley, United Kingdom"
@@ -83,6 +73,11 @@
         "description": "Black and Red Marble surround and Cast Iron Fireplace",
         "price": "\u00a3800",
         "location": "London, United Kingdom"
+    },
+    {
+        "description": "Beautiful Art Deco Style Fireplace",
+        "price": "\u00a350",
+        "location": "Durham, Durham"
     },
     {
         "description": "Fire surround",
@@ -117,6 +112,11 @@
     {
         "description": "Fire surround & grate Antique",
         "price": "\u00a3100",
+        "location": "Leicester, United Kingdom"
+    },
+    {
+        "description": "Victorian fireplace surround!",
+        "price": "\u00a350",
         "location": "Leicester, United Kingdom"
     }
 ]
