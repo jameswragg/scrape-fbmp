@@ -55,21 +55,6 @@
         "location": "Bishop Auckland"
     },
     {
-        "description": "Corr's colours",
-        "price": "$150",
-        "location": "Halifax, West Yorkshire"
-    },
-    {
-        "description": "Fire surround cast resin",
-        "price": "\u00a3100",
-        "location": "Wimborne, Dorset, United Kingdom"
-    },
-    {
-        "description": "Victorian Inset Bedroom Fireplace",
-        "price": "\u00a350",
-        "location": "Leigh, Worcestershire"
-    },
-    {
         "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
         "price": "\u00a3120",
         "location": "Redcar"
@@ -118,5 +103,20 @@
         "description": "Victorian fireplace surround",
         "price": "\u00a3100",
         "location": "Birmingham, United Kingdom"
+    },
+    {
+        "description": "Welsh Slate Victorian Antique Fireplace with Marble Slab Detail & Cast Iron inserts",
+        "price": "\u00a31",
+        "location": "Beaumaris"
+    },
+    {
+        "description": "Heavy Cast Iron Table Base",
+        "price": "\u00a370",
+        "location": "Andover, Hampshire, United Kingdom"
+    },
+    {
+        "description": "Fire surround & grate Antique",
+        "price": "\u00a3100",
+        "location": "Leicester, United Kingdom"
     }
 ]
