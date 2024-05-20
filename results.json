@@ -45,6 +45,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "5 French marble roundels",
+        "price": "\u00a325",
+        "location": "Worcester, Worcestershire"
+    },
+    {
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
         "price": "\u00a3100",
         "location": "Bishop Auckland"
@@ -112,11 +117,6 @@
     {
         "description": "Fire surround & grate Antique",
         "price": "\u00a3100",
-        "location": "Leicester, United Kingdom"
-    },
-    {
-        "description": "Victorian fireplace surround!",
-        "price": "\u00a350",
         "location": "Leicester, United Kingdom"
     }
 ]
