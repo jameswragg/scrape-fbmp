@@ -55,16 +55,6 @@
         "location": "Robin Hood, Wakefield"
     },
     {
-        "description": "Radley Black Cast Iron Insert Fireplace With Surround Victorian Edwardian",
-        "price": "\u00a3100",
-        "location": "East Tilbury"
-    },
-    {
-        "description": "Cast Iron Fireplace, Victorian/Edwardian",
-        "price": "\u00a3100",
-        "location": "London, United Kingdom"
-    },
-    {
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
         "price": "\u00a3100",
         "location": "Bishop Auckland"
@@ -85,14 +75,39 @@
         "location": "North Walsham"
     },
     {
+        "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
+        "price": "\u00a3125",
+        "location": "Westgate on Sea"
+    },
+    {
         "description": "Victorian marble fireplace casing with the podstone",
         "price": "\u00a3650",
         "location": "West Wickham, Bromley, United Kingdom"
     },
     {
+        "description": "Restored ornate Victorian fireplace with rare James Thomson seasons minton tiles.",
+        "price": "\u00a3300",
+        "location": "Bracknell"
+    },
+    {
+        "description": "Victorian style cast iron fireplace surround",
+        "price": "\u00a350",
+        "location": "Torksey, Lincolnshire"
+    },
+    {
+        "description": "Cast iron Fire place",
+        "price": "\u00a3200",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Black and Red Marble surround and Cast Iron Fireplace",
         "price": "\u00a3800",
         "location": "London, United Kingdom"
+    },
+    {
+        "description": "1 Victorian Fireplace & 2 Cast Iron Inserts",
+        "price": "\u00a3250",
+        "location": "Chatham, Medway"
     },
     {
         "description": "Beautiful Art Deco Style Fireplace",
@@ -103,20 +118,5 @@
         "description": "Fire surround",
         "price": "\u00a3300",
         "location": "St Helens, Merseyside"
-    },
-    {
-        "description": "Original Victorian fireplace surround with reproduction tiles",
-        "price": "\u00a350",
-        "location": "New Malden, Bromley, United Kingdom"
-    },
-    {
-        "description": "Fire surround",
-        "price": "\u00a350",
-        "location": "Alnwick, Northumberland"
-    },
-    {
-        "description": "Victorian fireplace surround",
-        "price": "\u00a3100",
-        "location": "Birmingham, United Kingdom"
     }
 ]
