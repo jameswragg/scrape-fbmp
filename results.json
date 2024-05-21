@@ -45,6 +45,16 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Cast iron fire place",
+        "price": "\u00a3100",
+        "location": "North Hykeham"
+    },
+    {
+        "description": "Vintage Fire Surround",
+        "price": "\u00a365",
+        "location": "Robin Hood, Wakefield"
+    },
+    {
         "description": "Radley Black Cast Iron Insert Fireplace With Surround Victorian Edwardian",
         "price": "\u00a3100",
         "location": "East Tilbury"
@@ -108,15 +118,5 @@
         "description": "Fire surround",
         "price": "\u00a350",
         "location": "Alnwick, Northumberland"
-    },
-    {
-        "description": "Victorian fireplace surround",
-        "price": "\u00a3100",
-        "location": "Birmingham, United Kingdom"
-    },
-    {
-        "description": "Welsh Slate Victorian Antique Fireplace with Marble Slab Detail & Cast Iron inserts",
-        "price": "\u00a31",
-        "location": "Beaumaris"
     }
 ]
