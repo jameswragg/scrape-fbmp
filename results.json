@@ -65,11 +65,6 @@
         "location": "London, United Kingdom"
     },
     {
-        "description": "5 French marble roundels",
-        "price": "Pending",
-        "location": "Worcester, Worcestershire"
-    },
-    {
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
         "price": "\u00a3100",
         "location": "Bishop Auckland"
@@ -118,5 +113,10 @@
         "description": "Fire surround",
         "price": "\u00a350",
         "location": "Alnwick, Northumberland"
+    },
+    {
+        "description": "Victorian fireplace surround",
+        "price": "\u00a3100",
+        "location": "Birmingham, United Kingdom"
     }
 ]
