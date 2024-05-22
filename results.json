@@ -50,16 +50,6 @@
         "location": "Preston, Lancashire"
     },
     {
-        "description": "Cast iron fire place",
-        "price": "\u00a3100",
-        "location": "North Hykeham"
-    },
-    {
-        "description": "Vintage Fire Surround",
-        "price": "\u00a365",
-        "location": "Robin Hood, Wakefield"
-    },
-    {
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
         "price": "\u00a3100",
         "location": "Bishop Auckland"
@@ -93,6 +83,16 @@
         "description": "Restored ornate Victorian fireplace with rare James Thomson seasons minton tiles.",
         "price": "\u00a3300",
         "location": "Bracknell"
+    },
+    {
+        "description": "Cast Iron Fireplace",
+        "price": "\u00a3150",
+        "location": "Burnley, Lancashire"
+    },
+    {
+        "description": "Victorian marble fireplace with insert",
+        "price": "\u00a3800",
+        "location": "Rickmansworth"
     },
     {
         "description": "Victorian style cast iron fireplace surround",
