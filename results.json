@@ -45,6 +45,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "French / Belguim White Marble Fireplace",
+        "price": "\u00a34,500",
+        "location": "Preston, Lancashire"
+    },
+    {
         "description": "Cast iron fire place",
         "price": "\u00a3100",
         "location": "North Hykeham"
@@ -113,10 +118,5 @@
         "description": "Beautiful Art Deco Style Fireplace",
         "price": "\u00a350",
         "location": "Durham, Durham"
-    },
-    {
-        "description": "Fire surround",
-        "price": "\u00a3300",
-        "location": "St Helens, Merseyside"
     }
 ]
