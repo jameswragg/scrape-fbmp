@@ -45,14 +45,9 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "chimney",
-        "price": "\u00a32,200",
-        "location": "Hartlepool"
-    },
-    {
-        "description": "French / Belguim White Marble Fireplace",
-        "price": "\u00a34,500",
-        "location": "Preston, Lancashire"
+        "description": "Vintage Fire Surround",
+        "price": "\u00a365",
+        "location": "Robin Hood, Wakefield"
     },
     {
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
@@ -118,5 +113,10 @@
         "description": "1 Victorian Fireplace & 2 Cast Iron Inserts",
         "price": "\u00a3250",
         "location": "Chatham, Medway"
+    },
+    {
+        "description": "Beautiful Art Deco Style Fireplace",
+        "price": "\u00a350",
+        "location": "Durham, Durham"
     }
 ]
