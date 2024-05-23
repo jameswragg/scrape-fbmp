@@ -5,6 +5,11 @@
         "location": "Burgess Hill"
     },
     {
+        "description": "CAST IRON GAS FIRE ONO",
+        "price": "\u00a3110",
+        "location": "Littlehampton"
+    },
+    {
         "description": "Fireplace surround",
         "price": "\u00a350",
         "location": "Horsham"
@@ -43,80 +48,5 @@
         "description": "Cast iron fireplace",
         "price": "\u00a355",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Vintage Fire Surround",
-        "price": "\u00a365",
-        "location": "Robin Hood, Wakefield"
-    },
-    {
-        "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
-        "price": "\u00a3100",
-        "location": "Bishop Auckland"
-    },
-    {
-        "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
-        "price": "\u00a3120",
-        "location": "Redcar"
-    },
-    {
-        "description": "Victorian style fireplace and marble hearth",
-        "price": "\u00a370",
-        "location": "Birmingham, United Kingdom"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a345",
-        "location": "North Walsham"
-    },
-    {
-        "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
-        "price": "\u00a3125",
-        "location": "Westgate on Sea"
-    },
-    {
-        "description": "Victorian marble fireplace casing with the podstone",
-        "price": "\u00a3650",
-        "location": "West Wickham, Bromley, United Kingdom"
-    },
-    {
-        "description": "Restored ornate Victorian fireplace with rare James Thomson seasons minton tiles.",
-        "price": "\u00a3300",
-        "location": "Bracknell"
-    },
-    {
-        "description": "Cast Iron Fireplace",
-        "price": "\u00a3150",
-        "location": "Burnley, Lancashire"
-    },
-    {
-        "description": "Victorian marble fireplace with insert",
-        "price": "\u00a3800",
-        "location": "Rickmansworth"
-    },
-    {
-        "description": "Victorian style cast iron fireplace surround",
-        "price": "\u00a350",
-        "location": "Torksey, Lincolnshire"
-    },
-    {
-        "description": "Cast iron Fire place",
-        "price": "\u00a3200",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Black and Red Marble surround and Cast Iron Fireplace",
-        "price": "\u00a3800",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "1 Victorian Fireplace & 2 Cast Iron Inserts",
-        "price": "\u00a3250",
-        "location": "Chatham, Medway"
-    },
-    {
-        "description": "Beautiful Art Deco Style Fireplace",
-        "price": "\u00a350",
-        "location": "Durham, Durham"
     }
 ]
