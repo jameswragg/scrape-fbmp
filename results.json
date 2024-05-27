@@ -60,29 +60,9 @@
         "location": "Bromsgrove"
     },
     {
-        "description": "Victorian Marble Corbel mantle",
-        "price": "\u00a3750",
-        "location": "Waltham Cross"
-    },
-    {
         "description": "Victorian fireplace",
         "price": "\u00a340",
         "location": "Plymouth"
-    },
-    {
-        "description": "Victorian cast iron fireplace",
-        "price": "\u00a350",
-        "location": "Plymouth"
-    },
-    {
-        "description": "Victorian fireplace surround \ufffc",
-        "price": "\u00a380",
-        "location": "Wedmore, Somerset, United Kingdom"
-    },
-    {
-        "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
-        "price": "\u00a3375",
-        "location": "Eastbourne, East Sussex"
     },
     {
         "description": "Cast Iron Fireplace and Surround with Marble Base",
@@ -118,5 +98,25 @@
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
         "price": "\u00a3100",
         "location": "Bishop Auckland"
+    },
+    {
+        "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
+        "price": "\u00a3120",
+        "location": "Redcar"
+    },
+    {
+        "description": "Victorian style fireplace and marble hearth",
+        "price": "\u00a370",
+        "location": "Birmingham, United Kingdom"
+    },
+    {
+        "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
+        "price": "\u00a3125",
+        "location": "Westgate on Sea"
+    },
+    {
+        "description": "Victorian marble fireplace casing with the podstone",
+        "price": "\u00a3650",
+        "location": "West Wickham, Bromley, United Kingdom"
     }
 ]
