@@ -10,11 +10,6 @@
         "location": "Burgess Hill"
     },
     {
-        "description": "Fireplace surround",
-        "price": "\u00a350",
-        "location": "Horsham"
-    },
-    {
         "description": "Antique & repro. Marble fireplace surrounds",
         "price": "\u00a31,234,567",
         "location": "Hassocks"
@@ -48,5 +43,80 @@
         "description": "Cast iron fireplace",
         "price": "\u00a355",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Victorian Marble Corbel mantle",
+        "price": "\u00a3750",
+        "location": "Waltham Cross"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a340",
+        "location": "Plymouth"
+    },
+    {
+        "description": "Victorian cast iron fireplace",
+        "price": "\u00a350",
+        "location": "Plymouth"
+    },
+    {
+        "description": "Victorian fireplace surround \ufffc",
+        "price": "\u00a380",
+        "location": "Wedmore, Somerset, United Kingdom"
+    },
+    {
+        "description": "Cast Iron Fireplace and Surround with Marble Base",
+        "price": "\u00a3100",
+        "location": "Huntingdon"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a3100",
+        "location": "Sidcup, Bexley, United Kingdom"
+    },
+    {
+        "description": "Vintage Fire Surround",
+        "price": "\u00a365",
+        "location": "Robin Hood, Wakefield"
+    },
+    {
+        "description": "Fire place",
+        "price": "\u00a3100",
+        "location": "Middleton, Oldham, United Kingdom"
+    },
+    {
+        "description": "Cast iron fireplace and surround",
+        "price": "\u00a3125",
+        "location": "Coventry, United Kingdom"
+    },
+    {
+        "description": "5 beds 3 bathrooms \u2013 House",
+        "price": "\u00a3745,000",
+        "location": "Kettering, Northamptonshire, United Kingdom"
+    },
+    {
+        "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
+        "price": "\u00a3100",
+        "location": "Bishop Auckland"
+    },
+    {
+        "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
+        "price": "\u00a3120",
+        "location": "Redcar"
+    },
+    {
+        "description": "Victorian style fireplace and marble hearth",
+        "price": "\u00a370",
+        "location": "Birmingham, United Kingdom"
+    },
+    {
+        "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
+        "price": "\u00a3125",
+        "location": "Westgate on Sea"
+    },
+    {
+        "description": "Victorian marble fireplace casing with the podstone",
+        "price": "\u00a3650",
+        "location": "West Wickham, Bromley, United Kingdom"
     }
 ]
