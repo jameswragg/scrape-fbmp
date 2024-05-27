@@ -1,10 +1,5 @@
 [
     {
-        "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
-        "price": "\u00a3375",
-        "location": "Eastbourne, East Sussex"
-    },
-    {
         "description": "Victorian vintage cast iron with marble top",
         "price": "\u00a3120",
         "location": "Burgess Hill"
@@ -45,6 +40,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Tiled Fire surround and marble half",
+        "price": "\u00a350",
+        "location": "Urmston, Lancashire, United Kingdom"
+    },
+    {
         "description": "White Antique Ornate Cast Iron Fireplace Hearth Fender, Guard, Surround",
         "price": "\u00a3200",
         "location": "London, United Kingdom"
@@ -80,6 +80,11 @@
         "location": "Wedmore, Somerset, United Kingdom"
     },
     {
+        "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
+        "price": "\u00a3375",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
         "description": "Cast Iron Fireplace and Surround with Marble Base",
         "price": "\u00a3100",
         "location": "Huntingdon"
@@ -113,10 +118,5 @@
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
         "price": "\u00a3100",
         "location": "Bishop Auckland"
-    },
-    {
-        "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
-        "price": "\u00a3120",
-        "location": "Redcar"
     }
 ]
