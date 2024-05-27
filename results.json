@@ -45,6 +45,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Carved corner wall cabinet",
+        "price": "$300",
+        "location": "Bromsgrove"
+    },
+    {
         "description": "Victorian Marble Corbel mantle",
         "price": "\u00a3750",
         "location": "Waltham Cross"
@@ -113,10 +118,5 @@
         "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
         "price": "\u00a3125",
         "location": "Westgate on Sea"
-    },
-    {
-        "description": "Victorian marble fireplace casing with the podstone",
-        "price": "\u00a3650",
-        "location": "West Wickham, Bromley, United Kingdom"
     }
 ]
