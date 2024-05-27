@@ -45,6 +45,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Victorian / Edwardian fireplace and hearth",
+        "price": "\u00a3100",
+        "location": "Southam, Gloucestershire"
+    },
+    {
         "description": "Carved corner wall cabinet",
         "price": "$300",
         "location": "Bromsgrove"
@@ -113,10 +118,5 @@
         "description": "Victorian style fireplace and marble hearth",
         "price": "\u00a370",
         "location": "Birmingham, United Kingdom"
-    },
-    {
-        "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
-        "price": "\u00a3125",
-        "location": "Westgate on Sea"
     }
 ]
