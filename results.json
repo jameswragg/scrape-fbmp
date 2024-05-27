@@ -45,6 +45,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "White Antique Ornate Cast Iron Fireplace Hearth Fender, Guard, Surround",
+        "price": "\u00a3200",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Victorian / Edwardian fireplace and hearth",
         "price": "\u00a3100",
         "location": "Southam, Gloucestershire"
@@ -113,10 +118,5 @@
         "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
         "price": "\u00a3120",
         "location": "Redcar"
-    },
-    {
-        "description": "Victorian style fireplace and marble hearth",
-        "price": "\u00a370",
-        "location": "Birmingham, United Kingdom"
     }
 ]
