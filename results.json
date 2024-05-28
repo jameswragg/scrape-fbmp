@@ -40,11 +40,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "VICTORIAN CHIMING MANTLE CLOCK JStar / J Unghams finger missing, needs attention - brass key",
-        "price": "\u00a318",
-        "location": "St Ives, Cornwall"
-    },
-    {
         "description": "Tiled Fire surround and marble half",
         "price": "\u00a350",
         "location": "Urmston, Lancashire, United Kingdom"
@@ -118,5 +113,10 @@
         "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
         "price": "\u00a3125",
         "location": "Westgate on Sea"
+    },
+    {
+        "description": "Victorian marble fireplace casing with the podstone",
+        "price": "\u00a3650",
+        "location": "West Wickham, Bromley, United Kingdom"
     }
 ]
