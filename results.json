@@ -75,11 +75,6 @@
         "location": "Robin Hood, Wakefield"
     },
     {
-        "description": "Cast iron fireplace and surround",
-        "price": "\u00a3125",
-        "location": "Coventry, United Kingdom"
-    },
-    {
         "description": "5 beds 3 bathrooms \u2013 House",
         "price": "\u00a3745,000",
         "location": "Kettering, Northamptonshire, United Kingdom"
@@ -118,5 +113,10 @@
         "description": "Victorian Slate Fire Surround plus Cast Surround and Fire Insert and Grate",
         "price": "\u00a3175",
         "location": "Misterton, North Lincolnshire, United Kingdom"
+    },
+    {
+        "description": "Restored ornate Victorian fireplace with rare James Thomson seasons minton tiles.",
+        "price": "\u00a3300",
+        "location": "Bracknell"
     }
 ]
