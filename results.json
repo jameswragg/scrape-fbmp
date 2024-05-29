@@ -1,5 +1,10 @@
 [
     {
+        "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
+        "price": "\u00a3375",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
         "description": "Victorian vintage cast iron with marble top",
         "price": "\u00a3120",
         "location": "Burgess Hill"
@@ -45,14 +50,19 @@
         "location": "South Molton"
     },
     {
-        "description": "Fire surround and cast iron insert",
-        "price": "\u00a3199",
-        "location": "Gloucester, Gloucestershire"
+        "description": "Tiled Fire surround and marble half",
+        "price": "\u00a350",
+        "location": "Urmston, Lancashire, United Kingdom"
     },
     {
         "description": "Victorian fireplace",
         "price": "\u00a340",
         "location": "Plymouth"
+    },
+    {
+        "description": "Victorian fireplace surround \ufffc",
+        "price": "\u00a380",
+        "location": "Wedmore, Somerset, United Kingdom"
     },
     {
         "description": "Antique Pine fire place surround",
@@ -65,9 +75,19 @@
         "location": "Huntingdon"
     },
     {
+        "description": "Victorian fireplace",
+        "price": "\u00a3100",
+        "location": "Bedford, Bedfordshire, United Kingdom"
+    },
+    {
         "description": "Beautiful Italian Calacatta Marble Fireplace Surround",
         "price": "\u00a31,350",
         "location": "Bristol, United Kingdom"
+    },
+    {
+        "description": "Absolutely stunning, ornate, wooden fire surround - ABSOLUTE BARGAIN!",
+        "price": "\u00a3230",
+        "location": "Kingswood, South Gloucestershire"
     },
     {
         "description": "Victorian fireplace",
@@ -98,25 +118,5 @@
         "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
         "price": "\u00a3120",
         "location": "Redcar"
-    },
-    {
-        "description": "Victorian style fireplace and marble hearth",
-        "price": "\u00a370",
-        "location": "Birmingham, United Kingdom"
-    },
-    {
-        "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
-        "price": "\u00a3125",
-        "location": "Westgate on Sea"
-    },
-    {
-        "description": "Victorian marble fireplace casing with the podstone",
-        "price": "\u00a3650",
-        "location": "West Wickham, Bromley, United Kingdom"
-    },
-    {
-        "description": "Victorian Slate Fire Surround plus Cast Surround and Fire Insert and Grate",
-        "price": "\u00a3175",
-        "location": "Misterton, North Lincolnshire, United Kingdom"
     }
 ]
