@@ -95,11 +95,6 @@
         "location": "Sidcup, Bexley, United Kingdom"
     },
     {
-        "description": "Vintage Fire Surround",
-        "price": "\u00a365",
-        "location": "Robin Hood, Wakefield"
-    },
-    {
         "description": "5 beds 3 bathrooms \u2013 House",
         "price": "\u00a3745,000",
         "location": "Kettering, Northamptonshire, United Kingdom"
@@ -118,5 +113,10 @@
         "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
         "price": "\u00a3120",
         "location": "Redcar"
+    },
+    {
+        "description": "Victorian style fireplace and marble hearth",
+        "price": "\u00a370",
+        "location": "Birmingham, United Kingdom"
     }
 ]
