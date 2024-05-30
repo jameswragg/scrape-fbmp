@@ -50,11 +50,6 @@
         "location": "South Molton"
     },
     {
-        "description": "Tiled Fire surround and marble half",
-        "price": "\u00a350",
-        "location": "Urmston, Lancashire, United Kingdom"
-    },
-    {
         "description": "Victorian fireplace",
         "price": "\u00a340",
         "location": "Plymouth"
@@ -118,5 +113,10 @@
         "description": "Victorian style fireplace and marble hearth",
         "price": "\u00a370",
         "location": "Birmingham, United Kingdom"
+    },
+    {
+        "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
+        "price": "\u00a3125",
+        "location": "Westgate on Sea"
     }
 ]
