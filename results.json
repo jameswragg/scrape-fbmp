@@ -40,6 +40,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Vintage Cast Iron, Tile & Timber Victorian/Edwardian Fire Surround - with Hearth & Gas Fire",
+        "price": "\u00a3250",
+        "location": "Mold, Flintshire"
+    },
+    {
         "description": "Vintage barbola chalkware mirror",
         "price": "\u00a360",
         "location": "Telford"
@@ -113,10 +118,5 @@
         "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
         "price": "\u00a3120",
         "location": "Redcar"
-    },
-    {
-        "description": "Victorian style fireplace and marble hearth",
-        "price": "\u00a370",
-        "location": "Birmingham, United Kingdom"
     }
 ]
