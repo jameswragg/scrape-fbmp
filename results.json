@@ -40,6 +40,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "3 beds 1 bath House",
+        "price": "\u00a3900",
+        "location": "City of Salford"
+    },
+    {
         "description": "cast iron fireplace",
         "price": "\u00a340",
         "location": "South Molton"
@@ -113,10 +118,5 @@
         "description": "Victorian marble fireplace casing with the podstone",
         "price": "\u00a3650",
         "location": "West Wickham, Bromley, United Kingdom"
-    },
-    {
-        "description": "200 Year Old Old English Architecture Antique Items",
-        "price": "\u00a31",
-        "location": "Reading, England"
     }
 ]
