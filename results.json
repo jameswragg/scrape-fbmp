@@ -40,6 +40,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Victorian fireplace dismantled",
+        "price": "\u00a3225",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "3 beds 1 bath House",
         "price": "\u00a3900",
         "location": "City of Salford"
@@ -113,10 +118,5 @@
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
         "price": "\u00a375",
         "location": "Bishop Auckland"
-    },
-    {
-        "description": "Cast iron fire place",
-        "price": "\u00a380",
-        "location": "Birmingham, United Kingdom"
     }
 ]
