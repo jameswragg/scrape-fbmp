@@ -50,6 +50,11 @@
         "location": "South Molton"
     },
     {
+        "description": "Cast iron fireplace",
+        "price": "\u00a3100",
+        "location": "Sutton, London"
+    },
+    {
         "description": "Victorian fireplace",
         "price": "\u00a340",
         "location": "Plymouth"
@@ -58,6 +63,11 @@
         "description": "Antique Pine fire place surround",
         "price": "\u00a325",
         "location": "Upton upon Severn"
+    },
+    {
+        "description": "Victorian cast iron fireplace",
+        "price": "\u00a3240",
+        "location": "Bristol, United Kingdom"
     },
     {
         "description": "Victorian fireplace and surround",
@@ -85,6 +95,11 @@
         "location": "Kingswood, South Gloucestershire"
     },
     {
+        "description": "Stone fireplace surround",
+        "price": "\u00a3180",
+        "location": "Stockport"
+    },
+    {
         "description": "Victorian fireplace",
         "price": "\u00a3100",
         "location": "Sidcup, Bexley, United Kingdom"
@@ -100,23 +115,8 @@
         "location": "Bishop Auckland"
     },
     {
-        "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
-        "price": "\u00a3120",
-        "location": "Redcar"
-    },
-    {
-        "description": "Victorian style fireplace and marble hearth",
-        "price": "\u00a370",
+        "description": "Cast iron fire place",
+        "price": "\u00a380",
         "location": "Birmingham, United Kingdom"
-    },
-    {
-        "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
-        "price": "\u00a3125",
-        "location": "Westgate on Sea"
-    },
-    {
-        "description": "Victorian marble fireplace casing with the podstone",
-        "price": "\u00a3650",
-        "location": "West Wickham, Bromley, United Kingdom"
     }
 ]
