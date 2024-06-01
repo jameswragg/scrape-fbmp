@@ -40,21 +40,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Vintage Cast Iron, Tile & Timber Victorian/Edwardian Fire Surround - with Hearth & Gas Fire",
-        "price": "\u00a3250",
-        "location": "Mold, Flintshire"
-    },
-    {
-        "description": "Vintage barbola chalkware mirror",
-        "price": "\u00a360",
-        "location": "Telford"
-    },
-    {
-        "description": "Large french Louis fire surround with marble",
-        "price": "\u00a3160",
-        "location": "Connahs Quay, Flintshire, United Kingdom"
-    },
-    {
         "description": "3 beds 1 bath House",
         "price": "\u00a3900",
         "location": "City of Salford"
@@ -118,5 +103,20 @@
         "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
         "price": "\u00a3120",
         "location": "Redcar"
+    },
+    {
+        "description": "Victorian style fireplace and marble hearth",
+        "price": "\u00a370",
+        "location": "Birmingham, United Kingdom"
+    },
+    {
+        "description": "Reclaimed Victorian / Edwardian fireplace surround with awesome vintage patina",
+        "price": "\u00a3125",
+        "location": "Westgate on Sea"
+    },
+    {
+        "description": "Victorian marble fireplace casing with the podstone",
+        "price": "\u00a3650",
+        "location": "West Wickham, Bromley, United Kingdom"
     }
 ]
