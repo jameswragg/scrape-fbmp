@@ -10,11 +10,6 @@
         "location": "Hassocks"
     },
     {
-        "description": "Iron cast fireplace",
-        "price": "\u00a325",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
         "location": "Hassocks"
@@ -118,5 +113,10 @@
         "description": "Fire place surround and marble fire half\ufffcvintage not reproduction",
         "price": "\u00a375",
         "location": "Bishop Auckland"
+    },
+    {
+        "description": "Cast iron fire place",
+        "price": "\u00a380",
+        "location": "Birmingham, United Kingdom"
     }
 ]
