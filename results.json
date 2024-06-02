@@ -50,11 +50,6 @@
         "location": "South Molton"
     },
     {
-        "description": "Cast iron fireplace",
-        "price": "\u00a3100",
-        "location": "Sutton, London"
-    },
-    {
         "description": "Victorian fireplace",
         "price": "\u00a365",
         "location": "Plymouth"
@@ -118,5 +113,10 @@
         "description": "Cast iron fire place",
         "price": "\u00a380",
         "location": "Birmingham, United Kingdom"
+    },
+    {
+        "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
+        "price": "\u00a3120",
+        "location": "Redcar"
     }
 ]
