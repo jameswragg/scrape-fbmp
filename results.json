@@ -35,6 +35,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
+        "price": "\u00a3250",
+        "location": "Walton-on-Thames"
+    },
+    {
         "description": "Fire front",
         "price": "\u00a340",
         "location": "Ashby de la Zouch"
@@ -113,10 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u00a3100",
         "location": "Sidcup, Bexley, United Kingdom"
-    },
-    {
-        "description": "5 beds 3 baths House",
-        "price": "\u00a3744,000",
-        "location": "Kettering, Northamptonshire, United Kingdom"
     }
 ]
