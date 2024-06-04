@@ -40,19 +40,14 @@
         "location": "Walton-on-Thames"
     },
     {
-        "description": "Fire front",
-        "price": "\u00a340",
-        "location": "Ashby de la Zouch"
-    },
-    {
-        "description": "Fire surround including hearth and back panel",
-        "price": "\u00a3150",
-        "location": "Bickershaw"
-    },
-    {
         "description": "Fireplace (Antique, Marble)",
         "price": "$450",
         "location": "Bolton"
+    },
+    {
+        "description": "Victorian style Cast Iron Fireplace",
+        "price": "\u00a3350",
+        "location": "Rotherham"
     },
     {
         "description": "Victorian fireplace surround only dismantled",
@@ -75,9 +70,24 @@
         "location": "Plymouth"
     },
     {
+        "description": "Marble based fireplace and surround - VGC",
+        "price": "\u00a3250",
+        "location": "Bracknell"
+    },
+    {
         "description": "Antique Pine fire place surround",
         "price": "\u00a325",
         "location": "Upton upon Severn"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a3150",
+        "location": "Dundry"
+    },
+    {
+        "description": "Reclaimed fireplace and surround",
+        "price": "\u00a3200",
+        "location": "London, United Kingdom"
     },
     {
         "description": "Victorian cast iron fireplace",
@@ -90,6 +100,16 @@
         "location": "Plymouth"
     },
     {
+        "description": "FIREPLACE",
+        "price": "\u00a3600",
+        "location": "Hereford, Herefordshire"
+    },
+    {
+        "description": "Old fire place with grate and hearth marble",
+        "price": "\u00a375",
+        "location": "Woking"
+    },
+    {
         "description": "Cast Iron Fireplace and Surround with Marble Base",
         "price": "\u00a3100",
         "location": "Huntingdon"
@@ -98,25 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u00a350",
         "location": "Bedford, Bedfordshire, United Kingdom"
-    },
-    {
-        "description": "Beautiful Italian Calacatta Marble Fireplace Surround",
-        "price": "\u00a31,350",
-        "location": "Bristol, United Kingdom"
-    },
-    {
-        "description": "Absolutely stunning, ornate, wooden fire surround - ABSOLUTE BARGAIN!",
-        "price": "\u00a3230",
-        "location": "Kingswood, South Gloucestershire"
-    },
-    {
-        "description": "Stone fireplace surround",
-        "price": "\u00a3180",
-        "location": "Stockport"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3100",
-        "location": "Sidcup, Bexley, United Kingdom"
     }
 ]
