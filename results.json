@@ -35,6 +35,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Slate Marble Effect Victorian Period Fireplace Surround (poss 1910)",
+        "price": "\u00a3200",
+        "location": "Redruth"
+    },
+    {
         "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
         "price": "\u00a3250",
         "location": "Walton-on-Thames"
@@ -48,6 +53,11 @@
         "description": "Victorian style Cast Iron Fireplace",
         "price": "\u00a3350",
         "location": "Rotherham"
+    },
+    {
+        "description": "Victorian blue and white fireplace",
+        "price": "\u00a3400",
+        "location": "Worcester Park"
     },
     {
         "description": "Victorian fireplace surround only dismantled",
@@ -65,9 +75,19 @@
         "location": "South Molton"
     },
     {
+        "description": "Cast iron fireplace, hearth and wood surround - needs to go asap",
+        "price": "\u00a380",
+        "location": "Portsmouth"
+    },
+    {
         "description": "Victorian fireplace",
         "price": "\u00a365",
         "location": "Plymouth"
+    },
+    {
+        "description": "VICTORIAN FIREPLACE",
+        "price": "\u00a350",
+        "location": "Wolverhampton"
     },
     {
         "description": "Marble based fireplace and surround - VGC",
@@ -98,25 +118,5 @@
         "description": "Victorian fireplace and surround",
         "price": "\u00a3395",
         "location": "Plymouth"
-    },
-    {
-        "description": "FIREPLACE",
-        "price": "\u00a3600",
-        "location": "Hereford, Herefordshire"
-    },
-    {
-        "description": "Cast Iron Fireplace and Surround with Marble Base",
-        "price": "\u00a3100",
-        "location": "Huntingdon"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a350",
-        "location": "Bedford, Bedfordshire, United Kingdom"
-    },
-    {
-        "description": "Beautiful Italian Calacatta Marble Fireplace Surround",
-        "price": "\u00a31,350",
-        "location": "Bristol, United Kingdom"
     }
 ]
