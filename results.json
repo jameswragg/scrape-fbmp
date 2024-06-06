@@ -40,11 +40,6 @@
         "location": "Birmingham, United Kingdom"
     },
     {
-        "description": "Slate Marble Effect Victorian Period Fireplace Surround (poss 1910)",
-        "price": "\u00a3200",
-        "location": "Redruth"
-    },
-    {
         "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
         "price": "\u00a3250",
         "location": "Walton-on-Thames"
@@ -118,5 +113,10 @@
         "description": "Reclaimed fireplace and surround",
         "price": "\u00a3200",
         "location": "London, United Kingdom"
+    },
+    {
+        "description": "Victorian cast iron fireplace",
+        "price": "\u00a3240",
+        "location": "Bristol, United Kingdom"
     }
 ]
