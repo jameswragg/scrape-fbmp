@@ -85,6 +85,11 @@
         "location": "Portsmouth"
     },
     {
+        "description": "Cast iron electric fire",
+        "price": "\u00a345",
+        "location": "Manchester, United Kingdom"
+    },
+    {
         "description": "Victorian fireplace",
         "price": "\u00a365",
         "location": "Plymouth"
@@ -113,10 +118,5 @@
         "description": "Reclaimed fireplace and surround",
         "price": "\u00a3200",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Victorian cast iron fireplace",
-        "price": "\u00a3240",
-        "location": "Bristol, United Kingdom"
     }
 ]
