@@ -35,6 +35,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Mirror massive wooden surround",
+        "price": "\u00a3150",
+        "location": "Birmingham, United Kingdom"
+    },
+    {
         "description": "Slate Marble Effect Victorian Period Fireplace Surround (poss 1910)",
         "price": "\u00a3200",
         "location": "Redruth"
@@ -113,10 +118,5 @@
         "description": "Victorian cast iron fireplace",
         "price": "\u00a3240",
         "location": "Bristol, United Kingdom"
-    },
-    {
-        "description": "Victorian fireplace and surround",
-        "price": "\u00a3395",
-        "location": "Plymouth"
     }
 ]
