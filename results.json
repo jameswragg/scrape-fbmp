@@ -75,11 +75,6 @@
         "location": "South Molton"
     },
     {
-        "description": "Cast iron fireplace, hearth and wood surround - needs to go asap",
-        "price": "\u00a360",
-        "location": "Portsmouth"
-    },
-    {
         "description": "Cast iron electric fire",
         "price": "\u00a345",
         "location": "Manchester, United Kingdom"
@@ -118,5 +113,10 @@
         "description": "Victorian cast iron fireplace",
         "price": "\u00a3240",
         "location": "Bristol, United Kingdom"
+    },
+    {
+        "description": "Victorian fireplace and surround",
+        "price": "\u00a3395",
+        "location": "Plymouth"
     }
 ]
