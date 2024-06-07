@@ -75,6 +75,11 @@
         "location": "South Molton"
     },
     {
+        "description": "Cast iron fireplace open fire/gas fire included. granite hearth. Grate.fret.etc.( SO30 3",
+        "price": "\u00a375",
+        "location": "West End, Southampton, United Kingdom"
+    },
+    {
         "description": "Cast iron electric fire",
         "price": "\u00a345",
         "location": "Manchester, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Victorian cast iron fireplace",
         "price": "\u00a3240",
         "location": "Bristol, United Kingdom"
-    },
-    {
-        "description": "Victorian fireplace and surround",
-        "price": "\u00a3395",
-        "location": "Plymouth"
     }
 ]
