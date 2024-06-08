@@ -35,6 +35,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Plant stand distressed wood",
+        "price": "\u00a317",
+        "location": "Poringland"
+    },
+    {
         "description": "Edwardian Cast Iron Fireplace",
         "price": "\u00a3250",
         "location": "Isleworth"
@@ -113,10 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u00a3150",
         "location": "Dundry"
-    },
-    {
-        "description": "Reclaimed fireplace and surround",
-        "price": "\u00a3200",
-        "location": "London, United Kingdom"
     }
 ]
