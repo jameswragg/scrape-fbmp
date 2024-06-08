@@ -45,14 +45,14 @@
         "location": "Isleworth"
     },
     {
-        "description": "Sideboard",
-        "price": "\u00a3165",
-        "location": "Bridgend"
-    },
-    {
         "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
         "price": "\u00a3150",
         "location": "West Molesey"
+    },
+    {
+        "description": "Cast Iron Fireplace & Surround",
+        "price": "\u00a3100",
+        "location": "London, United Kingdom"
     },
     {
         "description": "Fireplace (Antique, Marble)",
@@ -85,9 +85,14 @@
         "location": "South Molton"
     },
     {
-        "description": "Cast iron fireplace open fire/gas fire included. granite hearth. Grate.fret.etc.( SO30 3",
-        "price": "\u00a375",
-        "location": "West End, Southampton, United Kingdom"
+        "description": "Refurbished fireplace wooden mantle and fireplace",
+        "price": "\u00a3150",
+        "location": "Northampton, Northamptonshire"
+    },
+    {
+        "description": "Edwardian cast iron fireplace, beautiful yellow tiles",
+        "price": "\u00a3200",
+        "location": "New Malden, Bromley, United Kingdom"
     },
     {
         "description": "Cast iron electric fire",
@@ -113,10 +118,5 @@
         "description": "Antique Pine fire place surround",
         "price": "\u00a325",
         "location": "Upton upon Severn"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3150",
-        "location": "Dundry"
     }
 ]
