@@ -35,6 +35,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Edwardian Cast Iron Fireplace",
+        "price": "\u00a3250",
+        "location": "Isleworth"
+    },
+    {
         "description": "Sideboard",
         "price": "\u00a3165",
         "location": "Bridgend"
@@ -113,10 +118,5 @@
         "description": "Reclaimed fireplace and surround",
         "price": "\u00a3200",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Victorian cast iron fireplace",
-        "price": "\u00a3240",
-        "location": "Bristol, United Kingdom"
     }
 ]
