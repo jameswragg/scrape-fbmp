@@ -55,11 +55,6 @@
         "location": "West Molesey"
     },
     {
-        "description": "Cast Iron Fireplace & Surround",
-        "price": "\u00a3100",
-        "location": "London, United Kingdom"
-    },
-    {
         "description": "Fireplace (Antique, Marble)",
         "price": "$450",
         "location": "Bolton"
@@ -118,5 +113,10 @@
         "description": "Marble based fireplace and surround - VGC",
         "price": "\u00a3250",
         "location": "Bracknell"
+    },
+    {
+        "description": "Antique Pine fire place surround",
+        "price": "\u00a325",
+        "location": "Upton upon Severn"
     }
 ]
