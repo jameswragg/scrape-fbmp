@@ -5,16 +5,6 @@
         "location": "Eastbourne, East Sussex"
     },
     {
-        "description": "Fireplace with surround",
-        "price": "\u00a3150",
-        "location": "Chichester, West Sussex"
-    },
-    {
-        "description": "Fireplace surround",
-        "price": "\u00a340",
-        "location": "Woking"
-    },
-    {
         "description": "Antique & repro. Marble fireplace surrounds",
         "price": "\u00a31,234,567",
         "location": "Hassocks"
@@ -23,11 +13,6 @@
         "description": "Victorian fireplace",
         "price": "\u00a3150",
         "location": "Hassocks"
-    },
-    {
-        "description": "cast iron fireplace",
-        "price": "\u00a3100",
-        "location": "Hastings, East Sussex"
     },
     {
         "description": "Fire Place and Surround",
@@ -48,5 +33,90 @@
         "description": "Cast iron fireplace",
         "price": "\u00a355",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Victorian fire surround Marble very heavy!",
+        "price": "\u00a3150",
+        "location": "Gloucester, Gloucestershire"
+    },
+    {
+        "description": "Plant stand distressed wood",
+        "price": "\u00a317",
+        "location": "Poringland"
+    },
+    {
+        "description": "Edwardian Cast Iron Fireplace",
+        "price": "\u00a3250",
+        "location": "Isleworth"
+    },
+    {
+        "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
+        "price": "\u00a3150",
+        "location": "West Molesey"
+    },
+    {
+        "description": "Fireplace (Antique, Marble)",
+        "price": "$450",
+        "location": "Bolton"
+    },
+    {
+        "description": "Victorian blue and white fireplace",
+        "price": "\u00a3400",
+        "location": "Worcester Park"
+    },
+    {
+        "description": "Victorian fireplace surround only dismantled",
+        "price": "\u00a3225",
+        "location": "London, United Kingdom"
+    },
+    {
+        "description": "3 beds 1 bath House",
+        "price": "\u00a3900",
+        "location": "City of Salford"
+    },
+    {
+        "description": "cast iron fireplace",
+        "price": "\u00a340",
+        "location": "South Molton"
+    },
+    {
+        "description": "Refurbished fireplace wooden mantle and fireplace",
+        "price": "\u00a3150",
+        "location": "Northampton, Northamptonshire"
+    },
+    {
+        "description": "Edwardian cast iron fireplace, beautiful yellow tiles",
+        "price": "\u00a3200",
+        "location": "New Malden, Bromley, United Kingdom"
+    },
+    {
+        "description": "Cast iron electric fire",
+        "price": "\u00a345",
+        "location": "Manchester, United Kingdom"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a365",
+        "location": "Plymouth"
+    },
+    {
+        "description": "VICTORIAN FIREPLACE",
+        "price": "\u00a350",
+        "location": "Wolverhampton"
+    },
+    {
+        "description": "Marble based fireplace and surround - VGC",
+        "price": "\u00a3250",
+        "location": "Bracknell"
+    },
+    {
+        "description": "Antique Pine fire place surround",
+        "price": "\u00a310",
+        "location": "Upton upon Severn"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a3150",
+        "location": "Dundry"
     }
 ]
