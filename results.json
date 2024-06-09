@@ -35,6 +35,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Victorian cast iron fire surround, marble hearth, brass fender, ornamental fire.",
+        "price": "\u00a3150",
+        "location": "Leek, Stoke-On-Trent, United Kingdom"
+    },
+    {
         "description": "Ornate Louis plaster fire place, mirror, marble and electric fire",
         "price": "\u00a3200",
         "location": "Gosport"
@@ -113,10 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u00a3150",
         "location": "Dundry"
-    },
-    {
-        "description": "Reclaimed fireplace and surround",
-        "price": "\u00a3200",
-        "location": "London, United Kingdom"
     }
 ]
