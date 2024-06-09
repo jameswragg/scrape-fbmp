@@ -35,6 +35,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Gas fire with marble surround & hearth, mahogany mantle",
+        "price": "Free",
+        "location": "Durham, Durham"
+    },
+    {
         "description": "Victorian fire surround Marble very heavy!",
         "price": "\u00a3150",
         "location": "Gloucester, Gloucestershire"
@@ -113,10 +118,5 @@
         "description": "Antique Pine fire place surround",
         "price": "\u00a310",
         "location": "Upton upon Severn"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3150",
-        "location": "Dundry"
     }
 ]
