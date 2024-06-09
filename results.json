@@ -45,21 +45,6 @@
         "location": "Durham, Durham"
     },
     {
-        "description": "Victorian fire surround Marble very heavy!",
-        "price": "\u00a3150",
-        "location": "Gloucester, Gloucestershire"
-    },
-    {
-        "description": "Plant stand distressed wood",
-        "price": "\u00a317",
-        "location": "Poringland"
-    },
-    {
-        "description": "Edwardian Cast Iron Fireplace",
-        "price": "\u00a3250",
-        "location": "Isleworth"
-    },
-    {
         "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
         "price": "\u00a3150",
         "location": "West Molesey"
@@ -118,5 +103,20 @@
         "description": "Marble based fireplace and surround - VGC",
         "price": "\u00a3250",
         "location": "Bracknell"
+    },
+    {
+        "description": "Antique Pine fire place surround",
+        "price": "\u00a310",
+        "location": "Upton upon Severn"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a3150",
+        "location": "Dundry"
+    },
+    {
+        "description": "Reclaimed fireplace and surround",
+        "price": "\u00a3200",
+        "location": "London, United Kingdom"
     }
 ]
