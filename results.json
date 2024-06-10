@@ -45,6 +45,11 @@
         "location": "Northwich"
     },
     {
+        "description": "4Ft Floor Standing Storm Lanterns Hurricane Lamps Wedding Aisle Prop Church Candle Holder\ud83d\udd6f",
+        "price": "\u00a3295",
+        "location": "Uxbridge"
+    },
+    {
         "description": "Victorian cast iron fire surround, marble hearth, brass fender, ornamental fire.",
         "price": "\u00a3150",
         "location": "Leek, Stoke-On-Trent, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Cast iron electric fire",
         "price": "\u00a345",
         "location": "Manchester, United Kingdom"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a365",
-        "location": "Plymouth"
     }
 ]
