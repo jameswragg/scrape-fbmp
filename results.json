@@ -95,11 +95,6 @@
         "location": "London, United Kingdom"
     },
     {
-        "description": "3 beds 1 bath House",
-        "price": "\u00a3900",
-        "location": "City of Salford"
-    },
-    {
         "description": "cast iron fireplace",
         "price": "\u00a340",
         "location": "South Molton"
@@ -118,5 +113,10 @@
         "description": "Cast iron electric fire",
         "price": "\u00a345",
         "location": "Manchester, United Kingdom"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a365",
+        "location": "Plymouth"
     }
 ]
