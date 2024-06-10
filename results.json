@@ -35,6 +35,16 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Fire place surround and half",
+        "price": "Free",
+        "location": "Redcar"
+    },
+    {
+        "description": "Fireplace mantelpiece",
+        "price": "Free",
+        "location": "Northwich"
+    },
+    {
         "description": "Victorian cast iron fire surround, marble hearth, brass fender, ornamental fire.",
         "price": "\u00a3150",
         "location": "Leek, Stoke-On-Trent, United Kingdom"
@@ -50,6 +60,11 @@
         "location": "Durham, Durham"
     },
     {
+        "description": "CAST IRON TABLE BASE ( with loose top).",
+        "price": "\u00a3120",
+        "location": "Northampton, Northamptonshire"
+    },
+    {
         "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
         "price": "\u00a3150",
         "location": "West Molesey"
@@ -63,6 +78,11 @@
         "description": "Victorian blue and white fireplace",
         "price": "\u00a3400",
         "location": "Worcester Park"
+    },
+    {
+        "description": "Marble and copper art deco fireplace",
+        "price": "\u00a3100",
+        "location": "Penrith, Cumbria"
     },
     {
         "description": "Victorian fireplace surround only dismantled",
@@ -98,25 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u00a365",
         "location": "Plymouth"
-    },
-    {
-        "description": "VICTORIAN FIREPLACE",
-        "price": "\u00a350",
-        "location": "Wolverhampton"
-    },
-    {
-        "description": "Marble based fireplace and surround - VGC",
-        "price": "\u00a3250",
-        "location": "Bracknell"
-    },
-    {
-        "description": "Antique Pine fire place surround",
-        "price": "\u00a310",
-        "location": "Upton upon Severn"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3150",
-        "location": "Dundry"
     }
 ]
