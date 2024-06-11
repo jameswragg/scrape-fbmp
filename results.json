@@ -1,5 +1,10 @@
 [
     {
+        "description": "Victorian fireplace",
+        "price": "\u00a335",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
         "price": "\u00a3375",
         "location": "Eastbourne, East Sussex"
@@ -23,6 +28,11 @@
         "description": "Fireplace surround",
         "price": "\u00a3300",
         "location": "Hassocks"
+    },
+    {
+        "description": "Cast iron Victorian fireplace",
+        "price": "\u00a3120",
+        "location": "Brighton and Hove"
     },
     {
         "description": "Marble fireplace",
@@ -55,16 +65,6 @@
         "location": "City of Salford"
     },
     {
-        "description": "Fire place surround and half",
-        "price": "Free",
-        "location": "Redcar"
-    },
-    {
-        "description": "Fireplace mantelpiece",
-        "price": "Free",
-        "location": "Northwich"
-    },
-    {
         "description": "4Ft Floor Standing Storm Lanterns Hurricane Lamps Wedding Aisle Prop Church Candle Holder\ud83d\udd6f",
         "price": "\u00a3295",
         "location": "Uxbridge"
@@ -73,6 +73,11 @@
         "description": "Victorian cast iron fire surround, marble hearth, brass fender, ornamental fire.",
         "price": "\u00a3150",
         "location": "Leek, Stoke-On-Trent, United Kingdom"
+    },
+    {
+        "description": "Original Victorian metal fireplace insert",
+        "price": "\u00a3100",
+        "location": "London, United Kingdom"
     },
     {
         "description": "Ornate Louis plaster fire place, mirror, marble and electric fire",
@@ -85,6 +90,16 @@
         "location": "Durham, Durham"
     },
     {
+        "description": "Wooden late Victorian fireplace surround",
+        "price": "\u00a3100",
+        "location": "Weston-super-Mare"
+    },
+    {
+        "description": "Victorian Cast Iron Fireplace",
+        "price": "\u00a360",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "CAST IRON TABLE BASE ( with loose top).",
         "price": "\u00a3110",
         "location": "Northampton, Northamptonshire"
@@ -95,28 +110,13 @@
         "location": "West Molesey"
     },
     {
+        "description": "Fireplace",
+        "price": "\u00a350",
+        "location": "Newchurch, Lancashire"
+    },
+    {
         "description": "Fireplace (Antique, Marble)",
         "price": "\u00a3250",
         "location": "Bolton"
-    },
-    {
-        "description": "Victorian blue and white fireplace",
-        "price": "\u00a3400",
-        "location": "Worcester Park"
-    },
-    {
-        "description": "Marble and copper art deco fireplace",
-        "price": "\u00a3100",
-        "location": "Penrith, Cumbria"
-    },
-    {
-        "description": "Victorian fireplace surround only dismantled",
-        "price": "\u00a3175",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "cast iron fireplace",
-        "price": "\u00a340",
-        "location": "South Molton"
     }
 ]
