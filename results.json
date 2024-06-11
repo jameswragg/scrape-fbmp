@@ -35,6 +35,16 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "impressive carved victorian surround.",
+        "price": "\u00a3500",
+        "location": "Loughton"
+    },
+    {
+        "description": "French style pine fire surround",
+        "price": "\u00a3250",
+        "location": "Loughton"
+    },
+    {
         "description": "3 beds 1 bath House",
         "price": "\u00a3900",
         "location": "City of Salford"
@@ -108,15 +118,5 @@
         "description": "Refurbished fireplace wooden mantle and fireplace",
         "price": "\u00a3150",
         "location": "Northampton, Northamptonshire"
-    },
-    {
-        "description": "Edwardian cast iron fireplace, beautiful yellow tiles",
-        "price": "\u00a3200",
-        "location": "New Malden, Bromley, United Kingdom"
-    },
-    {
-        "description": "Cast iron electric fire",
-        "price": "\u00a345",
-        "location": "Manchester, United Kingdom"
     }
 ]
