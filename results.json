@@ -1,5 +1,10 @@
 [
     {
+        "description": "Original Victorian Fireplace",
+        "price": "\u00a330",
+        "location": "Worthing, West Sussex"
+    },
+    {
         "description": "Victorian fireplace",
         "price": "\u00a335",
         "location": "Brighton and Hove"
@@ -40,11 +45,6 @@
         "location": "Worthing, West Sussex"
     },
     {
-        "description": "Cast iron fireplace",
-        "price": "\u00a355",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
         "price": "\u00a3595",
         "location": "City of Sunderland"
@@ -52,11 +52,6 @@
     {
         "description": "impressive carved victorian surround.",
         "price": "\u00a3500",
-        "location": "Loughton"
-    },
-    {
-        "description": "French style pine fire surround",
-        "price": "\u00a3250",
         "location": "Loughton"
     },
     {
@@ -80,6 +75,11 @@
         "location": "London, United Kingdom"
     },
     {
+        "description": "Original Victorian fireplace",
+        "price": "\u00a3450",
+        "location": "Mitcham, Bromley, United Kingdom"
+    },
+    {
         "description": "Ornate Louis plaster fire place, mirror, marble and electric fire",
         "price": "\u00a3200",
         "location": "Gosport"
@@ -90,33 +90,33 @@
         "location": "Durham, Durham"
     },
     {
+        "description": "Antique Victorian iron fireplace with tiles, hearth and pine surround",
+        "price": "\u00a3195",
+        "location": "Abingdon, Oxfordshire"
+    },
+    {
+        "description": "Victorian cast iron fireplace",
+        "price": "\u00a337",
+        "location": "Reading, England"
+    },
+    {
+        "description": "Fireplace surround",
+        "price": "\u00a325",
+        "location": "Marlow, Buckinghamshire"
+    },
+    {
         "description": "Wooden late Victorian fireplace surround",
         "price": "\u00a3100",
         "location": "Weston-super-Mare"
     },
     {
+        "description": "Victorian fireplace",
+        "price": "\u00a3140",
+        "location": "Llanfairpwllgwyngyll"
+    },
+    {
         "description": "Victorian Cast Iron Fireplace",
         "price": "\u00a360",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "CAST IRON TABLE BASE ( with loose top).",
-        "price": "\u00a3110",
-        "location": "Northampton, Northamptonshire"
-    },
-    {
-        "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
-        "price": "\u00a3150",
-        "location": "West Molesey"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a350",
-        "location": "Newchurch, Lancashire"
-    },
-    {
-        "description": "Fireplace (Antique, Marble) COLLECTION ASAP",
-        "price": "\u00a3125",
-        "location": "Bolton"
     }
 ]
