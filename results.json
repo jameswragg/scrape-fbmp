@@ -29,7 +29,11 @@
         "price": "\u00a3300",
         "location": "Hassocks"
     },
-    null,
+    {
+        "description": "Cast iron Victorian fireplace",
+        "price": "\u00a3120",
+        "location": "Brighton and Hove"
+    },
     {
         "description": "Marble fireplace",
         "price": "Free",
