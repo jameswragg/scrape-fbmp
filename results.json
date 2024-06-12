@@ -45,11 +45,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Victorian marble fireplace",
-        "price": "\u00a3275",
-        "location": "Loughton"
-    },
-    {
         "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
         "price": "\u00a3595",
         "location": "City of Sunderland"
@@ -118,5 +113,10 @@
         "description": "Fireplace",
         "price": "\u00a350",
         "location": "Newchurch, Lancashire"
+    },
+    {
+        "description": "Fireplace (Antique, Marble) COLLECTION ASAP",
+        "price": "\u00a3125",
+        "location": "Bolton"
     }
 ]
