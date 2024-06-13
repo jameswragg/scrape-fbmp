@@ -45,6 +45,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Geniune Victorian Fireplace and surround..",
+        "price": "\u00a3250",
+        "location": "Portsmouth"
+    },
+    {
         "description": "Fire surround",
         "price": "$120",
         "location": "Deal, Kent"
@@ -113,10 +118,5 @@
         "description": "Wooden late Victorian fireplace surround",
         "price": "\u00a3100",
         "location": "Weston-super-Mare"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3140",
-        "location": "Llanfairpwllgwyngyll"
     }
 ]
