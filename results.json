@@ -45,6 +45,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Marble Fire Surround and Mirror",
+        "price": "\u00a3250",
+        "location": "Abertillery, Blaenau Gwent"
+    },
+    {
         "description": "Geniune Victorian Fireplace and surround..",
         "price": "\u00a3250",
         "location": "Portsmouth"
@@ -113,10 +118,5 @@
         "description": "Fireplace surround",
         "price": "\u00a325",
         "location": "Marlow, Buckinghamshire"
-    },
-    {
-        "description": "Wooden late Victorian fireplace surround",
-        "price": "\u00a3100",
-        "location": "Weston-super-Mare"
     }
 ]
