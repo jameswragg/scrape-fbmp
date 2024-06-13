@@ -90,11 +90,6 @@
         "location": "Gosport"
     },
     {
-        "description": "Gas fire with marble surround & hearth, mahogany mantle",
-        "price": "Free",
-        "location": "Durham, Durham"
-    },
-    {
         "description": "Antique Victorian iron fireplace with tiles, hearth and pine surround",
         "price": "\u00a3195",
         "location": "Abingdon, Oxfordshire"
@@ -118,5 +113,10 @@
         "description": "Victorian fireplace",
         "price": "\u00a3140",
         "location": "Llanfairpwllgwyngyll"
+    },
+    {
+        "description": "Victorian Cast Iron Fireplace",
+        "price": "\u00a360",
+        "location": "London, United Kingdom"
     }
 ]
