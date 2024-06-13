@@ -45,6 +45,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Fire surround",
+        "price": "$120",
+        "location": "Deal, Kent"
+    },
+    {
         "description": "victorian marble fireplace",
         "price": "\u00a31,234,567",
         "location": "Loughton"
@@ -113,10 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u00a3140",
         "location": "Llanfairpwllgwyngyll"
-    },
-    {
-        "description": "Victorian Cast Iron Fireplace",
-        "price": "\u00a360",
-        "location": "London, United Kingdom"
     }
 ]
