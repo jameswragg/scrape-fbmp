@@ -45,6 +45,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Fireplace Surround/Mantlepiece",
+        "price": "\u00a325",
+        "location": "Preston, Lancashire"
+    },
+    {
         "description": "Marble Fire Surround and Mirror",
         "price": "\u00a3250",
         "location": "Abertillery, Blaenau Gwent"
@@ -113,10 +118,5 @@
         "description": "Victorian Cast Iron Fireplace",
         "price": "\u00a360",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a350",
-        "location": "Newchurch, Lancashire"
     }
 ]
