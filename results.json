@@ -10,6 +10,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "RARE Victorian Female Painted tiles Fireplace, COMPLETE, Solid Slate Mantle Piece, - brush & paint!",
+        "price": "\u00a3285",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
         "price": "\u00a3375",
         "location": "Eastbourne, East Sussex"
@@ -35,11 +40,6 @@
         "location": "Hassocks"
     },
     {
-        "description": "Cast iron Victorian fireplace",
-        "price": "\u00a3120",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Marble fireplace",
         "price": "Free",
         "location": "Worthing, West Sussex"
@@ -55,14 +55,14 @@
         "location": "Portsmouth"
     },
     {
-        "description": "Fire surround",
-        "price": "\u00a3120",
-        "location": "Deal, Kent"
-    },
-    {
         "description": "victorian marble fireplace",
         "price": "\u00a31,234,567",
         "location": "Loughton"
+    },
+    {
+        "description": "Black fire surround",
+        "price": "\u00a330",
+        "location": "Whitley Bay"
     },
     {
         "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
@@ -80,11 +80,6 @@
         "location": "City of Salford"
     },
     {
-        "description": "Fire place surround and hearth",
-        "price": "Free",
-        "location": "Redcar"
-    },
-    {
         "description": "4 Ft Floor Standing Storm Lanterns Hurricane Lamps Wedding Prop Hire Church Candle Holder\ud83d\udd6f \u26ea\ufe0f",
         "price": "\u00a3395",
         "location": "Uxbridge"
@@ -95,28 +90,33 @@
         "location": "Leek, Stoke-On-Trent, United Kingdom"
     },
     {
-        "description": "Original Victorian metal fireplace insert",
-        "price": "\u00a3100",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Original Victorian fireplace",
-        "price": "\u00a3450",
-        "location": "Mitcham, Bromley, United Kingdom"
-    },
-    {
         "description": "Ornate Louis plaster fire place, mirror, marble and electric fire",
         "price": "\u00a3200",
         "location": "Gosport"
     },
     {
-        "description": "Antique Victorian iron fireplace with tiles, hearth and pine surround",
-        "price": "\u00a3195",
-        "location": "Abingdon, Oxfordshire"
+        "description": "Victorian fireplace and surround",
+        "price": "\u00a3350",
+        "location": "Poole, Dorset"
     },
     {
-        "description": "Fireplace surround",
-        "price": "Free",
-        "location": "Marlow, Buckinghamshire"
+        "description": "Real White marble fire surround",
+        "price": "\u00a31,000",
+        "location": "Bridgwater"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a3140",
+        "location": "Llanfairpwllgwyngyll"
+    },
+    {
+        "description": "Victorian Cast Iron Fireplace",
+        "price": "\u00a360",
+        "location": "London, United Kingdom"
+    },
+    {
+        "description": "Fireplace",
+        "price": "\u00a350",
+        "location": "Newchurch, Lancashire"
     }
 ]
