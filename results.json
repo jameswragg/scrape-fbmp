@@ -45,6 +45,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
+        "price": "\u00a3150",
+        "location": "West Molesey"
+    },
+    {
         "description": "Fireplace Surround/Mantlepiece",
         "price": "\u00a325",
         "location": "Preston, Lancashire"
@@ -113,10 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u00a3140",
         "location": "Llanfairpwllgwyngyll"
-    },
-    {
-        "description": "Victorian Cast Iron Fireplace",
-        "price": "\u00a360",
-        "location": "London, United Kingdom"
     }
 ]
