@@ -1,5 +1,10 @@
 [
     {
+        "description": "Geniune Victorian Fireplace and surround..",
+        "price": "\u00a3250",
+        "location": "Portsmouth"
+    },
+    {
         "description": "Original Victorian Fireplace",
         "price": "\u00a330",
         "location": "Worthing, West Sussex"
@@ -20,14 +25,34 @@
         "location": "Eastbourne, East Sussex"
     },
     {
+        "description": "Fireplace with surround",
+        "price": "\u00a3150",
+        "location": "Chichester, West Sussex"
+    },
+    {
         "description": "Antique & repro. Marble fireplace surrounds",
         "price": "\u00a31,234,567",
         "location": "Hassocks"
     },
     {
+        "description": "Victorian fireplace mantle and surround",
+        "price": "\u00a3200",
+        "location": "Tonbridge, Kent"
+    },
+    {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
         "location": "Hassocks"
+    },
+    {
+        "description": "Marble fireplace surround & insert",
+        "price": "\u00a3175",
+        "location": "Hastings, East Sussex"
+    },
+    {
+        "description": "cast iron fireplace",
+        "price": "\u00a3100",
+        "location": "Hastings, East Sussex"
     },
     {
         "description": "Fire Place and Surround",
@@ -43,80 +68,5 @@
         "description": "Marble fireplace",
         "price": "Free",
         "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
-        "price": "\u00a3120",
-        "location": "Redcar"
-    },
-    {
-        "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
-        "price": "\u00a3150",
-        "location": "West Molesey"
-    },
-    {
-        "description": "Fireplace Surround/Mantlepiece",
-        "price": "\u00a325",
-        "location": "Preston, Lancashire"
-    },
-    {
-        "description": "Marble Fire Surround and Mirror",
-        "price": "\u00a3250",
-        "location": "Abertillery, Blaenau Gwent"
-    },
-    {
-        "description": "Geniune Victorian Fireplace and surround..",
-        "price": "\u00a3250",
-        "location": "Portsmouth"
-    },
-    {
-        "description": "victorian marble fireplace",
-        "price": "\u00a31,234,567",
-        "location": "Loughton"
-    },
-    {
-        "description": "Black fire surround",
-        "price": "\u00a330",
-        "location": "Whitley Bay"
-    },
-    {
-        "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
-        "price": "\u00a3595",
-        "location": "City of Sunderland"
-    },
-    {
-        "description": "impressive carved victorian surround.",
-        "price": "\u00a3500",
-        "location": "Loughton"
-    },
-    {
-        "description": "3 beds 1 bath House",
-        "price": "\u00a3900",
-        "location": "City of Salford"
-    },
-    {
-        "description": "4 Ft Floor Standing Storm Lanterns Hurricane Lamps Wedding Prop Hire Church Candle Holder\ud83d\udd6f \u26ea\ufe0f",
-        "price": "\u00a3395",
-        "location": "Uxbridge"
-    },
-    {
-        "description": "Victorian cast iron fire surround, marble hearth, brass fender, ornamental fire.",
-        "price": "\u00a3150",
-        "location": "Leek, Stoke-On-Trent, United Kingdom"
-    },
-    {
-        "description": "Ornate Louis plaster fire place, mirror, marble and electric fire",
-        "price": "\u00a3200",
-        "location": "Gosport"
-    },
-    {
-        "description": "Victorian fireplace and surround",
-        "price": "\u00a3330",
-        "location": "Poole, Dorset"
-    },
-    {
-        "description": "Real White marble fire surround",
-        "price": "\u00a31,000",
-        "location": "Bridgwater"
     }
 ]
