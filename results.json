@@ -63,5 +63,125 @@
         "description": "Marble fireplace",
         "price": "Free",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Antique Victorian cast iron mantle piece fire surround \u00a3200ono",
+        "price": "\u00a3200",
+        "location": "Bexhill, East Sussex"
+    },
+    {
+        "description": "Cast Iron Reproduction Fire Surround",
+        "price": "\u00a3325",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Victorian fire place",
+        "price": "\u00a315",
+        "location": "Hailsham, East Sussex"
+    },
+    {
+        "description": "Fireplace",
+        "price": "\u00a360",
+        "location": "Portsmouth"
+    },
+    {
+        "description": "Black glossy stone fireplace hearth",
+        "price": "Free",
+        "location": "Seaford, East Sussex"
+    },
+    {
+        "description": "Cast iron fire place surround with grate",
+        "price": "\u00a350",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Crystal fire place and fire",
+        "price": "\u00a3150",
+        "location": "Crawley"
+    },
+    {
+        "description": "Electric fireplace",
+        "price": "\u00a330",
+        "location": "Pevensey, East Sussex"
+    },
+    {
+        "description": "Fireplace",
+        "price": "\u00a340",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Antique brass fire tongs.",
+        "price": "\u00a38",
+        "location": "Hayling Island"
+    },
+    {
+        "description": "Solid English Pine Fireplace Surround",
+        "price": "\u00a320",
+        "location": "Waterlooville"
+    },
+    {
+        "description": "Electric fireplace",
+        "price": "\u00a325",
+        "location": "East Grinstead"
+    },
+    {
+        "description": "White wooden fireplace with electric fire",
+        "price": "\u00a3100",
+        "location": "Cranleigh"
+    },
+    {
+        "description": "Complete Fireplace,Mantle & Hearth(granite)",
+        "price": "\u00a3300",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Antique Decorative Fire Screen",
+        "price": "\u00a320",
+        "location": "Camberley"
+    },
+    {
+        "description": "Cast iron fireplace",
+        "price": "\u00a375",
+        "location": "Waterlooville"
+    },
+    {
+        "description": "Electric Fireplace",
+        "price": "\u00a350",
+        "location": "Clapham, West Sussex"
+    },
+    {
+        "description": "Victorian Cast iron fireplace",
+        "price": "\u00a3260",
+        "location": "Cobham, Surrey"
+    },
+    {
+        "description": "Oak Wooden Fireplace Surround",
+        "price": "\u00a380",
+        "location": "Bexhill, East Sussex"
+    },
+    {
+        "description": "LARGE FIREPLACE CLUB FENDER - L215 CM",
+        "price": "\u00a3650",
+        "location": "Cobham, Surrey"
+    },
+    {
+        "description": "Focus HE Coal NG Gas Fireplace",
+        "price": "\u00a375",
+        "location": "Horsham"
+    },
+    {
+        "description": "Rare, concrete French fireplace, refurbished and ready for installation",
+        "price": "\u00a31,450",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Cast Iron fireplace X3",
+        "price": "\u00a345",
+        "location": "Hastings, East Sussex"
+    },
+    {
+        "description": "Victorian fire surround",
+        "price": "\u00a3200",
+        "location": "Tonbridge, Kent"
     }
 ]
