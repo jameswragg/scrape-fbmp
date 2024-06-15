@@ -70,6 +70,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Crystal fire place",
+        "price": "\u00a3150",
+        "location": "Crawley"
+    },
+    {
         "description": "Electric fireplace",
         "price": "\u00a330",
         "location": "Pevensey, East Sussex"
@@ -183,10 +188,5 @@
         "description": "Cast Iron Fireplace",
         "price": "\u00a350",
         "location": "Westerham"
-    },
-    {
-        "description": "Large black glass electric fire",
-        "price": "\u00a3123",
-        "location": "Battle, East Sussex"
     }
 ]
