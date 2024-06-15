@@ -45,6 +45,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
+        "price": "\u00a3120",
+        "location": "Redcar"
+    },
+    {
         "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
         "price": "\u00a3150",
         "location": "West Molesey"
@@ -113,10 +118,5 @@
         "description": "Real White marble fire surround",
         "price": "\u00a31,000",
         "location": "Bridgwater"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3140",
-        "location": "Llanfairpwllgwyngyll"
     }
 ]
