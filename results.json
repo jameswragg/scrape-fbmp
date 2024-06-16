@@ -10,6 +10,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Cast Iron fire surround + Mirror",
+        "price": "\u00a3300",
+        "location": "Leigh, Wigan, United Kingdom"
+    },
+    {
         "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
         "price": "\u00a3120",
         "location": "Redcar"
@@ -113,10 +118,5 @@
         "description": "Victorian blue and white fireplace",
         "price": "\u00a3400",
         "location": "Worcester Park"
-    },
-    {
-        "description": "Marble and copper art deco fireplace",
-        "price": "\u00a3100",
-        "location": "Penrith, Cumbria"
     }
 ]
