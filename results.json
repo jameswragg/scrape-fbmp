@@ -35,11 +35,6 @@
         "location": "Loughton"
     },
     {
-        "description": "Black fire surround",
-        "price": "\u00a330",
-        "location": "Whitley Bay"
-    },
-    {
         "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
         "price": "\u00a3595",
         "location": "City of Sunderland"
@@ -118,5 +113,10 @@
         "description": "Fireplace (Antique, Marble) COLLECTION ASAP",
         "price": "\u00a350",
         "location": "Bolton"
+    },
+    {
+        "description": "Victorian blue and white fireplace",
+        "price": "\u00a3400",
+        "location": "Worcester Park"
     }
 ]
