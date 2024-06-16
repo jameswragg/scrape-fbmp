@@ -70,11 +70,6 @@
         "location": "Gloucester, Gloucestershire"
     },
     {
-        "description": "Ornate Louis plaster fire place, mirror, marble and electric fire",
-        "price": "\u00a3150",
-        "location": "Gosport"
-    },
-    {
         "description": "Victorian fireplace and surround",
         "price": "\u00a3330",
         "location": "Poole, Dorset"
@@ -118,5 +113,10 @@
         "description": "Victorian blue and white fireplace",
         "price": "\u00a3400",
         "location": "Worcester Park"
+    },
+    {
+        "description": "Marble and copper art deco fireplace",
+        "price": "\u00a3100",
+        "location": "Penrith, Cumbria"
     }
 ]
