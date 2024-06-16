@@ -1,10 +1,5 @@
 [
     {
-        "description": "Victorian fireplace",
-        "price": "\u00a335",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "RARE Victorian Female Painted tiles Fireplace, COMPLETE, Solid Slate Mantle Piece, - brush & paint!",
         "price": "\u00a3285",
         "location": "Brighton and Hove"
@@ -25,6 +20,11 @@
         "location": "West Molesey"
     },
     {
+        "description": "Victorian cast iron fireplace",
+        "price": "\u00a3160",
+        "location": "Heanor"
+    },
+    {
         "description": "Marble Fire Surround and Mirror",
         "price": "\u00a3250",
         "location": "Abertillery, Blaenau Gwent"
@@ -38,6 +38,11 @@
         "description": "victorian marble fireplace",
         "price": "\u00a31,234,567",
         "location": "Loughton"
+    },
+    {
+        "description": "Fireplace marble, wooden with slate base.",
+        "price": "\u00a350",
+        "location": "Camberley"
     },
     {
         "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
@@ -75,6 +80,11 @@
         "location": "Gloucester, Gloucestershire"
     },
     {
+        "description": "Victorian cast iron bedroom fireplace",
+        "price": "\u00a350",
+        "location": "Matlock, Derbyshire"
+    },
+    {
         "description": "Victorian fireplace and surround",
         "price": "\u00a3330",
         "location": "Poole, Dorset"
@@ -108,15 +118,5 @@
         "description": "Fireplace",
         "price": "\u00a3200",
         "location": "Norwich, Norfolk"
-    },
-    {
-        "description": "Fireplace (Antique, Marble) COLLECTION ASAP",
-        "price": "\u00a350",
-        "location": "Bolton"
-    },
-    {
-        "description": "Victorian blue and white fireplace",
-        "price": "\u00a3400",
-        "location": "Worcester Park"
     }
 ]
