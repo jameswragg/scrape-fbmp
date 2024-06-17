@@ -20,6 +20,11 @@
         "location": "Hassocks"
     },
     {
+        "description": "Period Cast Iron Fire Place and marble hearth with decorative tiled insert",
+        "price": "\u00a3100",
+        "location": "Armthorpe"
+    },
+    {
         "description": "Cast Iron fire surround + Mirror",
         "price": "\u00a3300",
         "location": "Leigh, Wigan, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u00a3140",
         "location": "Llanfairpwllgwyngyll"
-    },
-    {
-        "description": "Victorian Cast Iron Fireplace",
-        "price": "\u00a360",
-        "location": "London, United Kingdom"
     }
 ]
