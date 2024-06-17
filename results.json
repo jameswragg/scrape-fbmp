@@ -5,6 +5,21 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Antique & repro. Marble fireplace surrounds",
+        "price": "\u00a31,234,567",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a3150",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Fireplace surround",
+        "price": "\u00a3300",
+        "location": "Hassocks"
+    },
+    {
         "description": "Cast Iron fire surround + Mirror",
         "price": "\u00a3300",
         "location": "Leigh, Wigan, United Kingdom"
@@ -103,20 +118,5 @@
         "description": "Victorian Cast Iron Fireplace",
         "price": "\u00a360",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Original Victorian Fireplace",
-        "price": "\u00a330",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a350",
-        "location": "Newchurch, Lancashire"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a3200",
-        "location": "Norwich, Norfolk"
     }
 ]
