@@ -1,5 +1,10 @@
 [
     {
+        "description": "Victorian original fireplace",
+        "price": "\u00a3200",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "RARE Victorian Females on tiles Fireplace, COMPLETE, Solid Slate Mantle Piece, - brush & paint!",
         "price": "\u00a3285",
         "location": "Brighton and Hove"
@@ -23,11 +28,6 @@
         "description": "Period Cast Iron Fire Place and marble hearth with decorative tiled insert",
         "price": "\u00a3100",
         "location": "Armthorpe"
-    },
-    {
-        "description": "Cast Iron fire surround + Mirror",
-        "price": "\u00a3300",
-        "location": "Leigh, Wigan, United Kingdom"
     },
     {
         "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
