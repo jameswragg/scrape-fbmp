@@ -25,6 +25,11 @@
         "location": "Hassocks"
     },
     {
+        "description": "Victorian Green Tiles Fireplace Surround",
+        "price": "\u00a3100",
+        "location": "Twickenham"
+    },
+    {
         "description": "Fireplace Surround with Marble Inlay Top - FOR COLLECTION ONLY PR1 8",
         "price": "\u00a325",
         "location": "Preston, Lancashire"
@@ -113,10 +118,5 @@
         "description": "Victorian fireplace and surround",
         "price": "\u00a3330",
         "location": "Poole, Dorset"
-    },
-    {
-        "description": "Real White marble fire surround",
-        "price": "\u00a31,000",
-        "location": "Bridgwater"
     }
 ]
