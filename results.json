@@ -1,5 +1,10 @@
 [
     {
+        "description": "3 beds 1 bathroom \u2013 House",
+        "price": "\u00a3280,000",
+        "location": "Manningtree"
+    },
+    {
         "description": "Slate Victorian fire place",
         "price": "\u00a3400",
         "location": "Loughton"
@@ -113,10 +118,5 @@
         "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
         "price": "\u00a3375",
         "location": "Eastbourne, East Sussex"
-    },
-    {
-        "description": "Solid Oak Fireplace Surrond - needs to go ASAP",
-        "price": "\u00a350",
-        "location": "London, United Kingdom"
     }
 ]
