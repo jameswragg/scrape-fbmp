@@ -1,5 +1,10 @@
 [
     {
+        "description": "Antique Hand Carved Table & Chair",
+        "price": "\u00a3225",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "3 beds 1 bathroom \u2013 House",
         "price": "\u00a3280,000",
         "location": "Manningtree"
@@ -113,10 +118,5 @@
         "description": "Marble based fireplace and surround - VGC",
         "price": "\u00a3250",
         "location": "Bracknell"
-    },
-    {
-        "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
-        "price": "\u00a3375",
-        "location": "Eastbourne, East Sussex"
     }
 ]
