@@ -1,10 +1,5 @@
 [
     {
-        "description": "Antique Hand Carved Table & Chair",
-        "price": "\u00a3225",
-        "location": "London, United Kingdom"
-    },
-    {
         "description": "3 beds 1 bathroom \u2013 House",
         "price": "\u00a3280,000",
         "location": "Manningtree"
@@ -13,11 +8,6 @@
         "description": "Fireplace, surround and mantelpiece",
         "price": "\u00a3200",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Slate Victorian fire place",
-        "price": "\u00a3400",
-        "location": "Loughton"
     },
     {
         "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
@@ -53,6 +43,11 @@
         "description": "Victorian fireplace and surround",
         "price": "\u00a3330",
         "location": "Poole, Dorset"
+    },
+    {
+        "description": "Fireplaces",
+        "price": "\u00a380",
+        "location": "Bedford, Bedfordshire, United Kingdom"
     },
     {
         "description": "Victorian Cast Iron Fireplace",
@@ -118,5 +113,10 @@
         "description": "Marble based fireplace and surround - VGC",
         "price": "\u00a3250",
         "location": "Bracknell"
+    },
+    {
+        "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
+        "price": "\u00a3375",
+        "location": "Eastbourne, East Sussex"
     }
 ]
