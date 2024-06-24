@@ -15,6 +15,11 @@
         "location": "Hassocks"
     },
     {
+        "description": "Cast iron Victorian fireplace",
+        "price": "\u00a3120",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "3 beds 1 bathroom \u2013 House",
         "price": "\u00a3280,000",
         "location": "Manningtree"
@@ -35,9 +40,19 @@
         "location": "Falmouth, Cornwall"
     },
     {
+        "description": "Beautiful Victorian marbleised slate fireplace with cast iron insert. Will need stripping to restore",
+        "price": "\u00a350",
+        "location": "Taunton, Somerset"
+    },
+    {
         "description": "Cast Iron Tiled Fireplace - Electric or Solid Fuel",
         "price": "\u00a3225",
         "location": "Whickham"
+    },
+    {
+        "description": "cast iron fireplace with marble",
+        "price": "\u00a350",
+        "location": "Walsall"
     },
     {
         "description": "Edwardian Cast Iron Fireplace",
@@ -58,6 +73,11 @@
         "description": "Fireplace with wooden surround",
         "price": "\u00a3100",
         "location": "Rotherham"
+    },
+    {
+        "description": "Slate Victorian fire place",
+        "price": "\u00a3400",
+        "location": "Loughton"
     },
     {
         "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
@@ -98,25 +118,5 @@
         "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
         "price": "\u00a3595",
         "location": "City of Sunderland"
-    },
-    {
-        "description": "impressive carved victorian surround.",
-        "price": "\u00a3500",
-        "location": "Loughton"
-    },
-    {
-        "description": "Victorian FirePlace",
-        "price": "\u00a3150",
-        "location": "Mansfield, Nottinghamshire"
-    },
-    {
-        "description": "4 Ft Floor Standing Storm Lanterns Hurricane Lamps Wedding Prop Hire Church Candle Holder\ud83d\udd6f \u26ea\ufe0f",
-        "price": "\u00a3395",
-        "location": "Uxbridge"
-    },
-    {
-        "description": "Victorian cast iron fire surround, marble hearth, brass fender, ornamental fire.",
-        "price": "\u00a3150",
-        "location": "Leek, Stoke-On-Trent, United Kingdom"
     }
 ]
