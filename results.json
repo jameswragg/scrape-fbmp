@@ -70,11 +70,6 @@
         "location": "London, United Kingdom"
     },
     {
-        "description": "Fireplace with wooden surround",
-        "price": "\u00a3100",
-        "location": "Rotherham"
-    },
-    {
         "description": "Slate Victorian fire place",
         "price": "\u00a3400",
         "location": "Loughton"
@@ -118,5 +113,10 @@
         "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
         "price": "\u00a3595",
         "location": "City of Sunderland"
+    },
+    {
+        "description": "impressive carved victorian surround.",
+        "price": "\u00a3500",
+        "location": "Loughton"
     }
 ]
