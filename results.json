@@ -40,11 +40,6 @@
         "location": "Whickham"
     },
     {
-        "description": "cast iron fireplace with marble",
-        "price": "\u00a350",
-        "location": "Walsall"
-    },
-    {
         "description": "Edwardian Cast Iron Fireplace",
         "price": "\u00a3100",
         "location": "Paignton"
@@ -118,5 +113,10 @@
         "description": "4 Ft Floor Standing Storm Lanterns Hurricane Lamps Wedding Prop Hire Church Candle Holder\ud83d\udd6f \u26ea\ufe0f",
         "price": "\u00a3395",
         "location": "Uxbridge"
+    },
+    {
+        "description": "Victorian cast iron fire surround, marble hearth, brass fender, ornamental fire.",
+        "price": "\u00a3150",
+        "location": "Leek, Stoke-On-Trent, United Kingdom"
     }
 ]
