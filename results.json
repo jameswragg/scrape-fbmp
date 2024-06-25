@@ -25,6 +25,11 @@
         "location": "Droylsden"
     },
     {
+        "description": "Victorian Fireplace surround and inserts",
+        "price": "\u00a3400",
+        "location": "Penarth, Vale of Glamorgan"
+    },
+    {
         "description": "3 beds 1 bathroom \u2013 House",
         "price": "\u00a3280,000",
         "location": "Manningtree"
@@ -70,6 +75,11 @@
         "location": "Stockport"
     },
     {
+        "description": "Bedroom fireplace",
+        "price": "\u00a350",
+        "location": "Staple Hill, South Gloucestershire, United Kingdom"
+    },
+    {
         "description": "Fireplace, surround and mantelpiece",
         "price": "\u00a3200",
         "location": "London, United Kingdom"
@@ -90,6 +100,11 @@
         "location": "West Molesey"
     },
     {
+        "description": "Marble Fireplace Surround",
+        "price": "\u00a3123",
+        "location": "Haverfordwest"
+    },
+    {
         "description": "Victorian cast iron fireplace",
         "price": "\u00a3160",
         "location": "Heanor"
@@ -103,20 +118,5 @@
         "description": "Geniune Victorian Fireplace & surround..",
         "price": "\u00a3250",
         "location": "Fort Wallington, Portsmouth, United Kingdom"
-    },
-    {
-        "description": "victorian marble fireplace",
-        "price": "\u00a31,234,567",
-        "location": "Loughton"
-    },
-    {
-        "description": "Fireplace marble, wooden with slate base.",
-        "price": "\u00a350",
-        "location": "Camberley"
-    },
-    {
-        "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
-        "price": "\u00a3595",
-        "location": "City of Sunderland"
     }
 ]
