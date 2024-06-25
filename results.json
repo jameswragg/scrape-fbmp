@@ -20,6 +20,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Wood Fireplace Surround with Marble Base & Shelf",
+        "price": "\u00a3150",
+        "location": "Droylsden"
+    },
+    {
         "description": "3 beds 1 bathroom \u2013 House",
         "price": "\u00a3280,000",
         "location": "Manningtree"
@@ -113,10 +118,5 @@
         "description": "ANTIQUE VICTORIAN SLATE/MARBLE FIREPLACE",
         "price": "\u00a3595",
         "location": "City of Sunderland"
-    },
-    {
-        "description": "impressive carved victorian surround.",
-        "price": "\u00a3500",
-        "location": "Loughton"
     }
 ]
