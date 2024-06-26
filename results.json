@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace marble, wooden with slate base.",
+        "price": "\u00a350",
+        "location": "Camberley"
+    },
+    {
         "description": "Victorian original fireplace",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
@@ -10,113 +15,53 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Large Beautiful Ornate Cast Iron Fireplace Restored",
+        "price": "\u00a3375",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Fireplace with surround",
+        "price": "\u00a3150",
+        "location": "Chichester, West Sussex"
+    },
+    {
+        "description": "Antique & repro. Marble fireplace surrounds",
+        "price": "\u00a31,234,567",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Victorian fireplace mantle and surround",
+        "price": "\u00a3200",
+        "location": "Tonbridge, Kent"
+    },
+    {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Marble fireplace surround & insert",
+        "price": "\u00a3175",
+        "location": "Hastings, East Sussex"
+    },
+    {
+        "description": "cast iron fireplace",
+        "price": "\u00a3100",
+        "location": "Hastings, East Sussex"
+    },
+    {
+        "description": "Fire Place and Surround",
+        "price": "\u00a350",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Fireplace surround",
+        "price": "\u00a3300",
         "location": "Hassocks"
     },
     {
         "description": "Cast iron Victorian fireplace",
         "price": "\u00a3120",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Geniune Victorian Fireplace & surround..",
-        "price": "\u00a3250",
-        "location": "Fort Wallington, Portsmouth, United Kingdom"
-    },
-    {
-        "description": "Victorian style cast iron fire place for a gas fire",
-        "price": "\u00a380",
-        "location": "Basildon, Essex"
-    },
-    {
-        "description": "Victorian fireplace, Marble Mantle Piece and surround.",
-        "price": "\u00a3450",
-        "location": "Brundall, Norfolk"
-    },
-    {
-        "description": "Wood Fireplace Surround with Marble Base & Shelf",
-        "price": "\u00a3150",
-        "location": "Droylsden"
-    },
-    {
-        "description": "Cast iron fireplace",
-        "price": "\u00a31,000",
-        "location": "High Wycombe, Buckinghamshire"
-    },
-    {
-        "description": "Victorian Fireplace surround and inserts",
-        "price": "\u00a3400",
-        "location": "Penarth, Vale of Glamorgan"
-    },
-    {
-        "description": "Beautifully Tiled Victorian style Cast Iron Fireplace",
-        "price": "\u00a375",
-        "location": "Sheffield"
-    },
-    {
-        "description": "3 beds 1 bathroom \u2013 House",
-        "price": "\u00a3280,000",
-        "location": "Manningtree"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a3120",
-        "location": "Manchester, United Kingdom"
-    },
-    {
-        "description": "Victorian/Edwardian Replica Gas Fire/hearth/surround",
-        "price": "\u00a3125",
-        "location": "Birmingham, United Kingdom"
-    },
-    {
-        "description": "Genuine Victorian fire place",
-        "price": "\u00a3595",
-        "location": "Falmouth, Cornwall"
-    },
-    {
-        "description": "Beautiful Victorian marbleised slate fireplace with cast iron insert. Will need stripping to restore",
-        "price": "\u00a350",
-        "location": "Taunton, Somerset"
-    },
-    {
-        "description": "Cast Iron Fireplace",
-        "price": "\u00a3120",
-        "location": "Stockport"
-    },
-    {
-        "description": "Bedroom fireplace",
-        "price": "\u00a350",
-        "location": "Staple Hill, South Gloucestershire, United Kingdom"
-    },
-    {
-        "description": "Slate Victorian fire place",
-        "price": "\u00a3400",
-        "location": "Loughton"
-    },
-    {
-        "description": "Vintage Cast Iron Fire Log Basket & Victorian Brass Lion Fire Dogs Fireplace Filler",
-        "price": "\u00a3120",
-        "location": "Redcar"
-    },
-    {
-        "description": "Beautiful cast iron Victorian style coal effect gas fire with marble surround",
-        "price": "\u00a3150",
-        "location": "West Molesey"
-    },
-    {
-        "description": "Marble Fireplace Surround",
-        "price": "\u00a3123",
-        "location": "Haverfordwest"
-    },
-    {
-        "description": "Victorian cast iron fireplace",
-        "price": "\u00a3160",
-        "location": "Heanor"
-    },
-    {
-        "description": "Marble Fire Surround and Mirror",
-        "price": "\u00a3200",
-        "location": "Abertillery, Blaenau Gwent"
     }
 ]
