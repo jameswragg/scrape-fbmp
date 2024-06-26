@@ -60,19 +60,9 @@
         "location": "Taunton, Somerset"
     },
     {
-        "description": "Cast Iron Tiled Fireplace - Electric or Solid Fuel",
-        "price": "Sold",
-        "location": "Whickham"
-    },
-    {
         "description": "cast iron fireplace with marble",
         "price": "\u00a350",
         "location": "Walsall"
-    },
-    {
-        "description": "Edwardian Cast Iron Fireplace",
-        "price": "Sold",
-        "location": "Paignton"
     },
     {
         "description": "Cast Iron Fireplace",
@@ -118,5 +108,15 @@
         "description": "Geniune Victorian Fireplace & surround..",
         "price": "\u00a3250",
         "location": "Fort Wallington, Portsmouth, United Kingdom"
+    },
+    {
+        "description": "victorian marble fireplace",
+        "price": "\u00a31,234,567",
+        "location": "Loughton"
+    },
+    {
+        "description": "Fireplace marble, wooden with slate base.",
+        "price": "\u00a350",
+        "location": "Camberley"
     }
 ]
