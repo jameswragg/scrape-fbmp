@@ -20,6 +20,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Victorian fireplace, Marble Mantle Piece and surround.",
+        "price": "\u00a3450",
+        "location": "Brundall, Norfolk"
+    },
+    {
         "description": "Wood Fireplace Surround with Marble Base & Shelf",
         "price": "\u00a3150",
         "location": "Droylsden"
@@ -113,10 +118,5 @@
         "description": "Geniune Victorian Fireplace & surround..",
         "price": "\u00a3250",
         "location": "Fort Wallington, Portsmouth, United Kingdom"
-    },
-    {
-        "description": "victorian marble fireplace",
-        "price": "\u00a31,234,567",
-        "location": "Loughton"
     }
 ]
