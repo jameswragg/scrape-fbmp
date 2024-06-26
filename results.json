@@ -80,11 +80,6 @@
         "location": "Staple Hill, South Gloucestershire, United Kingdom"
     },
     {
-        "description": "Fireplace, surround and mantelpiece",
-        "price": "\u00a3200",
-        "location": "London, United Kingdom"
-    },
-    {
         "description": "Slate Victorian fire place",
         "price": "\u00a3400",
         "location": "Loughton"
@@ -118,5 +113,10 @@
         "description": "Geniune Victorian Fireplace & surround..",
         "price": "\u00a3250",
         "location": "Fort Wallington, Portsmouth, United Kingdom"
+    },
+    {
+        "description": "victorian marble fireplace",
+        "price": "\u00a31,234,567",
+        "location": "Loughton"
     }
 ]
