@@ -20,6 +20,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Geniune Victorian Fireplace & surround..",
+        "price": "\u00a3250",
+        "location": "Fort Wallington, Portsmouth, United Kingdom"
+    },
+    {
         "description": "Victorian style cast iron fire place for a gas fire",
         "price": "\u00a380",
         "location": "Basildon, Essex"
@@ -113,10 +118,5 @@
         "description": "Marble Fire Surround and Mirror",
         "price": "\u00a3200",
         "location": "Abertillery, Blaenau Gwent"
-    },
-    {
-        "description": "Geniune Victorian Fireplace & surround..",
-        "price": "\u00a3250",
-        "location": "Fort Wallington, Portsmouth, United Kingdom"
     }
 ]
