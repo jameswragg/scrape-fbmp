@@ -20,6 +20,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Victorian style cast iron fire place for a gas fire",
+        "price": "\u00a380",
+        "location": "Basildon, Essex"
+    },
+    {
         "description": "Victorian fireplace, Marble Mantle Piece and surround.",
         "price": "\u00a3450",
         "location": "Brundall, Norfolk"
@@ -30,9 +35,19 @@
         "location": "Droylsden"
     },
     {
+        "description": "Cast iron fireplace",
+        "price": "\u00a31,000",
+        "location": "High Wycombe, Buckinghamshire"
+    },
+    {
         "description": "Victorian Fireplace surround and inserts",
         "price": "\u00a3400",
         "location": "Penarth, Vale of Glamorgan"
+    },
+    {
+        "description": "Beautifully Tiled Victorian style Cast Iron Fireplace",
+        "price": "\u00a375",
+        "location": "Sheffield"
     },
     {
         "description": "3 beds 1 bathroom \u2013 House",
@@ -58,11 +73,6 @@
         "description": "Beautiful Victorian marbleised slate fireplace with cast iron insert. Will need stripping to restore",
         "price": "\u00a350",
         "location": "Taunton, Somerset"
-    },
-    {
-        "description": "cast iron fireplace with marble",
-        "price": "\u00a350",
-        "location": "Walsall"
     },
     {
         "description": "Cast Iron Fireplace",
@@ -108,15 +118,5 @@
         "description": "Geniune Victorian Fireplace & surround..",
         "price": "\u00a3250",
         "location": "Fort Wallington, Portsmouth, United Kingdom"
-    },
-    {
-        "description": "victorian marble fireplace",
-        "price": "\u00a31,234,567",
-        "location": "Loughton"
-    },
-    {
-        "description": "Fireplace marble, wooden with slate base.",
-        "price": "\u00a350",
-        "location": "Camberley"
     }
 ]
