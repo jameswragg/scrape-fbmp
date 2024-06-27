@@ -63,5 +63,125 @@
         "description": "Cast iron Victorian fireplace",
         "price": "\u00a3120",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Ornate Cast Iron Fireplace Flat to Wall",
+        "price": "\u00a340",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "VICTORIAN CAST IRON FIREPLACE",
+        "price": "\u00a3280",
+        "location": "Cobham, Surrey"
+    },
+    {
+        "description": "PAIR VICTORIAN CAST IRON FIREPLACES",
+        "price": "\u00a3500",
+        "location": "Cobham, Surrey"
+    },
+    {
+        "description": "Electric fire place",
+        "price": "\u00a350",
+        "location": "Waterlooville"
+    },
+    {
+        "description": "Electric Fireplace",
+        "price": "\u00a350",
+        "location": "Royal Tunbridge Wells"
+    },
+    {
+        "description": "White Fire surround/Fire place.",
+        "price": "\u00a330",
+        "location": "Midhurst, west sussex"
+    },
+    {
+        "description": "Fire place",
+        "price": "\u00a340",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Oak fireplace surround",
+        "price": "\u00a360",
+        "location": "Chichester, West Sussex"
+    },
+    {
+        "description": "Victorian cast iron fire places job lot",
+        "price": "\u00a3160",
+        "location": "Woking"
+    },
+    {
+        "description": "Victorian Cast Iron Fireplace",
+        "price": "\u00a3255",
+        "location": "Cobham, Surrey"
+    },
+    {
+        "description": "Fire place",
+        "price": "\u00a330",
+        "location": "Chichester, West Sussex"
+    },
+    {
+        "description": "Vintage Fireplace Screen",
+        "price": "\u00a340",
+        "location": "Cobham, Surrey"
+    },
+    {
+        "description": "Wooden Free Standing Fireplace with Eletric Firep",
+        "price": "\u00a350",
+        "location": "Saint Leonards, East Sussex, United Kingdom"
+    },
+    {
+        "description": "Wooden Fireplace surround",
+        "price": "\u00a320",
+        "location": "Woking"
+    },
+    {
+        "description": "Electric brass coal effect fireplace",
+        "price": "\u00a335",
+        "location": "Crawley"
+    },
+    {
+        "description": "Two cast iron fire log baskets",
+        "price": "\u00a310",
+        "location": "Hastings, East Sussex"
+    },
+    {
+        "description": "Original restored antique fireplaces",
+        "price": "\u00a31,234,567",
+        "location": "Poynings"
+    },
+    {
+        "description": "Antique original fireplaces",
+        "price": "\u00a31,234,567",
+        "location": "Poynings"
+    },
+    {
+        "description": "Fireplace electric",
+        "price": "\u00a370",
+        "location": "Crawley"
+    },
+    {
+        "description": "Fire Grate",
+        "price": "\u00a345",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace (surround, hearth, back and electric fire)",
+        "price": "\u00a399",
+        "location": "Rye, East Sussex"
+    },
+    {
+        "description": "Vintage Belling electric fire",
+        "price": "\u00a370",
+        "location": "Banstead"
+    },
+    {
+        "description": "Electric fireplace",
+        "price": "\u00a3200",
+        "location": "Havant"
+    },
+    {
+        "description": "Fireplace ethanol",
+        "price": "\u00a380",
+        "location": "Woking"
     }
 ]
