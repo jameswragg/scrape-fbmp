@@ -10,11 +10,6 @@
         "location": "Hastings, East Sussex"
     },
     {
-        "description": "Electric fire and surround",
-        "price": "$300",
-        "location": "Eastbourne, East Sussex"
-    },
-    {
         "description": "Marble Fireplace/ Very heavy marble fireplace/excellent condition",
         "price": "Free",
         "location": "Portsmouth"
@@ -113,5 +108,15 @@
         "description": "Gas Fire",
         "price": "\u00a350",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Marble fire surround",
+        "price": "Free",
+        "location": "Waterlooville"
+    },
+    {
+        "description": "Fireplace surround and hearth",
+        "price": "\u00a350",
+        "location": "Horsham"
     }
 ]
