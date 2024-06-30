@@ -113,10 +113,5 @@
         "description": "Marble fire surround",
         "price": "Free",
         "location": "Waterlooville"
-    },
-    {
-        "description": "Fireplace surround and hearth",
-        "price": "\u00a350",
-        "location": "Horsham"
     }
 ]
