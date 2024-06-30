@@ -1,5 +1,10 @@
 [
     {
+        "description": "Electric fireplace",
+        "price": "\u00a330",
+        "location": "Hastings, East Sussex"
+    },
+    {
         "description": "Electric fire and surround",
         "price": "$300",
         "location": "Eastbourne, East Sussex"
@@ -108,10 +113,5 @@
         "description": "Marble fire surround",
         "price": "Free",
         "location": "Waterlooville"
-    },
-    {
-        "description": "Fireplace surround and hearth",
-        "price": "\u00a350",
-        "location": "Horsham"
     }
 ]
