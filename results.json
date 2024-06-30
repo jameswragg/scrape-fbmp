@@ -1,67 +1,117 @@
 [
     {
-        "description": "Fireplace marble, wooden with slate base.",
-        "price": "\u00a350",
-        "location": "Camberley"
-    },
-    {
-        "description": "Victorian original fireplace",
-        "price": "\u00a3200",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "RARE Victorian Females on tiles Fireplace, COMPLETE, Solid Slate Mantle Piece, - brush & paint!",
-        "price": "\u00a3285",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fireplace with surround",
-        "price": "\u00a3150",
-        "location": "Chichester, West Sussex"
-    },
-    {
-        "description": "Antique & repro. Marble fireplace surrounds",
-        "price": "\u00a31,234,567",
-        "location": "Hassocks"
-    },
-    {
-        "description": "Victorian fireplace mantle and surround",
-        "price": "\u00a3200",
-        "location": "Tonbridge, Kent"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3150",
-        "location": "Hassocks"
-    },
-    {
-        "description": "Marble fireplace surround & insert",
-        "price": "\u00a3175",
-        "location": "Hastings, East Sussex"
-    },
-    {
-        "description": "cast iron fireplace",
-        "price": "\u00a3100",
-        "location": "Hastings, East Sussex"
-    },
-    {
-        "description": "Fire Place and Surround",
-        "price": "\u00a350",
+        "description": "Electric fire and surround",
+        "price": "$300",
         "location": "Eastbourne, East Sussex"
     },
     {
-        "description": "Fireplace surround",
-        "price": "\u00a3300",
-        "location": "Hassocks"
+        "description": "Marble Fireplace/ Very heavy marble fireplace/excellent condition",
+        "price": "Free",
+        "location": "Portsmouth"
     },
     {
-        "description": "Cast iron Victorian fireplace",
-        "price": "\u00a3120",
+        "description": "Free - Marble effect fire surround",
+        "price": "Free",
+        "location": "Waterlooville"
+    },
+    {
+        "description": "Stone surround from fireplace",
+        "price": "Free",
+        "location": "East Grinstead"
+    },
+    {
+        "description": "Fireplace Trivet",
+        "price": "\u00a365",
+        "location": "Robertsbridge"
+    },
+    {
+        "description": "Marble and resin fireplace",
+        "price": "\u00a350",
+        "location": "Guildford"
+    },
+    {
+        "description": "Electric fire place",
+        "price": "\u00a350",
+        "location": "Waterlooville"
+    },
+    {
+        "description": "It's PVC Wall panels Plastic Wooden",
+        "price": "\u00a330",
+        "location": "Portsmouth"
+    },
+    {
+        "description": "Cast iron fireplace, insert, surround Grill, grate, tray and black marble hearth stone.",
+        "price": "\u00a3200",
         "location": "Brighton and Hove"
     },
     {
-        "description": "Edwardian cast iron fireplace",
+        "description": "Fireplace, hearth and surround",
+        "price": "\u00a3100",
+        "location": "Epsom"
+    },
+    {
+        "description": "Marble hearth fireplace and surround",
+        "price": "\u00a3100",
+        "location": "Epsom"
+    },
+    {
+        "description": "Rare, concrete French fireplace, refurbished and ready for installation",
+        "price": "\u00a31,450",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Ornate wooden fireplace surround",
+        "price": "\u00a370",
+        "location": "Portsmouth"
+    },
+    {
+        "description": "Electric fireplace, marble surround",
+        "price": "\u00a380",
+        "location": "Billingshurst, West Sussex"
+    },
+    {
+        "description": "Fireplace surround and marble face.",
+        "price": "\u00a330",
+        "location": "Henfield"
+    },
+    {
+        "description": "Fire surround SLATE",
+        "price": "\u00a335",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Marble fireplace surround and hearth",
         "price": "\u00a340",
-        "location": "Dorking"
+        "location": "Purley, London"
+    },
+    {
+        "description": "Fireplace",
+        "price": "$75",
+        "location": "Crawley"
+    },
+    {
+        "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
+        "price": "\u00a315",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Traditional Lounge Fireplace and wooden fire surround with gas fire and coals",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Gas Fire",
+        "price": "\u00a350",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Marble fire surround",
+        "price": "Free",
+        "location": "Waterlooville"
+    },
+    {
+        "description": "Fireplace surround and hearth",
+        "price": "\u00a350",
+        "location": "Horsham"
     }
 ]
