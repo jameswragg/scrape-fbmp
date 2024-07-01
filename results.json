@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace Back Panel and Hearth",
+        "price": "\u00a320",
+        "location": "Camberley"
+    },
+    {
         "description": "Faux Marble fire surround insert with removable flowers",
         "price": "Free",
         "location": "Hastings, East Sussex"
@@ -108,10 +113,5 @@
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
-    },
-    {
-        "description": "Traditional Lounge Fireplace and wooden fire surround with gas fire and coals",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
     }
 ]
