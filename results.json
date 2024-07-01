@@ -1,5 +1,10 @@
 [
     {
+        "description": "Faux Marble fire surround insert with removable flowers",
+        "price": "Free",
+        "location": "Hastings, East Sussex"
+    },
+    {
         "description": "Fireplace",
         "price": "Free",
         "location": "Waterlooville"
@@ -108,10 +113,5 @@
         "description": "Traditional Lounge Fireplace and wooden fire surround with gas fire and coals",
         "price": "\u00a330",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Gas Fire",
-        "price": "\u00a350",
-        "location": "Worthing, West Sussex"
     }
 ]
