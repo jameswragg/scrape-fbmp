@@ -1,58 +1,8 @@
 [
     {
-        "description": "Fireplace Back Panel and Hearth",
-        "price": "\u00a320",
-        "location": "Camberley"
-    },
-    {
-        "description": "Faux Marble fire surround insert with removable flowers",
-        "price": "Free",
-        "location": "Hastings, East Sussex"
-    },
-    {
-        "description": "Fireplace",
-        "price": "Free",
-        "location": "Waterlooville"
-    },
-    {
-        "description": "Electric fireplace",
-        "price": "\u00a330",
-        "location": "Hastings, East Sussex"
-    },
-    {
-        "description": "Marble Fireplace/ Very heavy marble fireplace/excellent condition",
-        "price": "Free",
-        "location": "Portsmouth"
-    },
-    {
-        "description": "Free - Marble effect fire surround",
-        "price": "Free",
-        "location": "Waterlooville"
-    },
-    {
-        "description": "Stone surround from fireplace",
-        "price": "Free",
-        "location": "East Grinstead"
-    },
-    {
-        "description": "Fireplace Trivet",
-        "price": "\u00a365",
-        "location": "Robertsbridge"
-    },
-    {
-        "description": "Marble and resin fireplace",
-        "price": "\u00a350",
-        "location": "Guildford"
-    },
-    {
-        "description": "Electric fire place",
-        "price": "\u00a350",
-        "location": "Waterlooville"
-    },
-    {
         "description": "It's PVC Wall panels Plastic Wooden",
         "price": "\u00a330",
-        "location": "Portsmouth"
+        "location": "Brighton and Hove"
     },
     {
         "description": "Cast iron fireplace, insert, surround Grill, grate, tray and black marble hearth stone.",
@@ -60,34 +10,9 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Fireplace, hearth and surround",
-        "price": "\u00a3100",
-        "location": "Epsom"
-    },
-    {
-        "description": "Marble hearth fireplace and surround",
-        "price": "\u00a3100",
-        "location": "Epsom"
-    },
-    {
         "description": "Rare, concrete French fireplace, refurbished and ready for installation",
         "price": "\u00a31,450",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Ornate wooden fireplace surround",
-        "price": "\u00a370",
-        "location": "Portsmouth"
-    },
-    {
-        "description": "Electric fireplace, marble surround",
-        "price": "\u00a380",
-        "location": "Billingshurst, West Sussex"
-    },
-    {
-        "description": "Cast Iron Fireplace Surround",
-        "price": "\u00a3150",
-        "location": "Cobham, Surrey"
     },
     {
         "description": "Fireplace surround and marble face.",
@@ -95,23 +20,88 @@
         "location": "Henfield"
     },
     {
-        "description": "Fire surround SLATE",
-        "price": "\u00a335",
-        "location": "Eastbourne, East Sussex"
-    },
-    {
-        "description": "Marble fireplace surround and hearth",
-        "price": "\u00a340",
-        "location": "Purley, London"
-    },
-    {
-        "description": "Fireplace",
-        "price": "$75",
-        "location": "Crawley"
-    },
-    {
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
+    },
+    {
+        "description": "Traditional Lounge Fireplace and wooden fire surround with gas fire and coals",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Ceramic tiles 800x800x10mm 24 pcs",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Art deco oak fire surround. Can be made smaller. 107cm h x 141cm w.",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace hearth, possibly marble/stone",
+        "price": "\u00a330",
+        "location": "Peacehaven"
+    },
+    {
+        "description": "Fireplace surround",
+        "price": "\u00a330",
+        "location": "Peacehaven"
+    },
+    {
+        "description": "Black slate - fireplace hearth 850mm x 420mm x 30mm",
+        "price": "\u00a395",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Original Vintage Victorian/Edwardian Fireplace",
+        "price": "\u00a3175",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Victorian original fireplace",
+        "price": "\u00a3200",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "RARE Victorian Females on tiles Fireplace, COMPLETE, Solid Slate Mantle Piece, - brush & paint!",
+        "price": "\u00a3285",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Complete fireplace and surrounding",
+        "price": "\u00a390",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace Safety Guard",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Quartz, marble and granite",
+        "price": "\u00a31",
+        "location": "Plumpton, East Sussex"
+    },
+    {
+        "description": "Free Marble fireplace hearth",
+        "price": "Free",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Antique & repro. Marble fireplace surrounds",
+        "price": "\u00a31,234,567",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a3150",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Fireplace surround",
+        "price": "\u00a3300",
+        "location": "Hassocks"
     }
 ]
