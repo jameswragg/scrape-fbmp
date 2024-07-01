@@ -1,5 +1,10 @@
 [
     {
+        "description": "Free lime stone fireplace hearth and mantle heavy",
+        "price": "Free",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "It's PVC Wall panels Plastic Wooden",
         "price": "\u00a330",
         "location": "Brighton and Hove"
@@ -97,11 +102,6 @@
     {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
-        "location": "Hassocks"
-    },
-    {
-        "description": "Fireplace surround",
-        "price": "\u00a3300",
         "location": "Hassocks"
     }
 ]
