@@ -5,11 +5,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "It's PVC Wall panels Plastic Wooden",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Cast iron fireplace, insert, surround Grill, grate, tray and black marble hearth stone.",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
@@ -32,11 +27,6 @@
     {
         "description": "Traditional Lounge Fireplace and wooden fire surround with gas fire and coals",
         "price": "\u00a330",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Ceramic tiles 800x800x10mm 24 pcs",
-        "price": "\u00a3150",
         "location": "Brighton and Hove"
     },
     {
@@ -102,6 +92,11 @@
     {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Fireplace surround",
+        "price": "\u00a3300",
         "location": "Hassocks"
     }
 ]
