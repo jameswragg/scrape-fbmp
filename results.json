@@ -25,11 +25,6 @@
         "location": "Burgess Hill"
     },
     {
-        "description": "Traditional Lounge Fireplace and wooden fire surround with gas fire and coals",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Art deco oak fire surround. Can be made smaller. 107cm h x 141cm w.",
         "price": "\u00a330",
         "location": "Brighton and Hove"
@@ -98,5 +93,10 @@
         "description": "Fireplace surround",
         "price": "\u00a3300",
         "location": "Hassocks"
+    },
+    {
+        "description": "Cast iron Victorian fireplace",
+        "price": "\u00a3120",
+        "location": "Brighton and Hove"
     }
 ]
