@@ -1,5 +1,10 @@
 [
     {
+        "description": "Granite terrazzo fireplace surround/hearth",
+        "price": "\u00a350",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Free lime stone fireplace hearth and mantle heavy",
         "price": "Free",
         "location": "Brighton and Hove"
@@ -93,10 +98,5 @@
         "description": "Fireplace surround",
         "price": "\u00a3300",
         "location": "Hassocks"
-    },
-    {
-        "description": "Cast iron Victorian fireplace",
-        "price": "\u00a3120",
-        "location": "Brighton and Hove"
     }
 ]
