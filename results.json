@@ -5,6 +5,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Fireplace in limestone",
+        "price": "\u00a3101",
+        "location": "Hassocks"
+    },
+    {
         "description": "Free lime stone fireplace hearth and mantle heavy",
         "price": "Free",
         "location": "Brighton and Hove"
@@ -92,11 +97,6 @@
     {
         "description": "Cast iron Victorian fireplace",
         "price": "\u00a3120",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fireplace marble",
-        "price": "\u00a3100",
         "location": "Brighton and Hove"
     }
 ]
