@@ -50,16 +50,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Original Vintage Victorian/Edwardian Fireplace",
-        "price": "\u00a3175",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Victorian original fireplace",
-        "price": "\u00a3200",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "RARE Victorian Females on tiles Fireplace, COMPLETE, Solid Slate Mantle Piece, - brush & paint!",
         "price": "\u00a3285",
         "location": "Brighton and Hove"
@@ -98,5 +88,15 @@
         "description": "Fireplace surround",
         "price": "\u00a3300",
         "location": "Hassocks"
+    },
+    {
+        "description": "Cast iron Victorian fireplace",
+        "price": "\u00a3120",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace marble",
+        "price": "\u00a3100",
+        "location": "Brighton and Hove"
     }
 ]
