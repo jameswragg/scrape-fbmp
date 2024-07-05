@@ -98,5 +98,10 @@
         "description": "Cast iron Victorian fireplace",
         "price": "\u00a3120",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace marble",
+        "price": "\u00a3100",
+        "location": "Brighton and Hove"
     }
 ]
