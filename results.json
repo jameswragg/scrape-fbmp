@@ -15,11 +15,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "It's PVC Wall panels Plastic Wooden",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Cast iron fireplace, insert, surround Grill, grate, tray and black marble hearth stone.",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
@@ -102,6 +97,11 @@
     {
         "description": "Fireplace marble",
         "price": "\u00a3100",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Ornate fire surround",
+        "price": "\u00a3200",
         "location": "Brighton and Hove"
     }
 ]
