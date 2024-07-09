@@ -5,18 +5,23 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Cast iron fireplace",
+        "price": "\u00a328",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Granite terrazzo fireplace surround/hearth",
         "price": "\u00a350",
         "location": "Brighton and Hove"
     },
     {
-        "description": "Fireplace in limestone with gas fire",
-        "price": "\u00a380",
-        "location": "Hassocks"
-    },
-    {
         "description": "Cast iron fireplace, insert, surround Grill, grate, tray and black marble hearth stone.",
         "price": "\u00a3200",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace",
+        "price": "Free",
         "location": "Brighton and Hove"
     },
     {
@@ -98,10 +103,5 @@
         "description": "Ornate fire surround",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fireplace",
-        "price": "$100",
-        "location": "Worthing, West Sussex"
     }
 ]
