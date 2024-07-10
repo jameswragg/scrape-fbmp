@@ -79,11 +79,7 @@
         "price": "Free",
         "location": "Brighton and Hove"
     },
-    {
-        "description": "Antique & repro. Marble fireplace surrounds",
-        "price": "\u00a31,234,567",
-        "location": "Hassocks"
-    },
+    null,
     {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
