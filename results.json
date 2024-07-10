@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace/mantle piece and marble surroundings",
+        "price": "\u00a340",
+        "location": "Shoreham-by-Sea"
+    },
+    {
         "description": "Rare, concrete French fireplace, refurbished and ready for installation",
         "price": "\u00a31,450",
         "location": "Brighton and Hove"
@@ -103,10 +108,5 @@
         "description": "Ornate fire surround",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fireplace",
-        "price": "$100",
-        "location": "Worthing, West Sussex"
     }
 ]
