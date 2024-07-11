@@ -95,11 +95,6 @@
         "location": "Hassocks"
     },
     {
-        "description": "Cast iron Victorian fireplace",
-        "price": "\u00a3120",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Fireplace marble",
         "price": "\u00a3100",
         "location": "Brighton and Hove"
@@ -108,5 +103,10 @@
         "description": "Ornate fire surround",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace",
+        "price": "$100",
+        "location": "Worthing, West Sussex"
     }
 ]
