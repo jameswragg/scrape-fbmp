@@ -1,5 +1,10 @@
 [
     {
+        "description": "Gas fireplace and surround",
+        "price": "\u00a320",
+        "location": "Henfield"
+    },
+    {
         "description": "Fireplace/mantle piece and marble surroundings",
         "price": "\u00a340",
         "location": "Shoreham-by-Sea"
@@ -103,10 +108,5 @@
         "description": "Ornate fire surround",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fireplace",
-        "price": "$100",
-        "location": "Worthing, West Sussex"
     }
 ]
