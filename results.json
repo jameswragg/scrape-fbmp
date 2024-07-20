@@ -88,10 +88,5 @@
         "description": "Ornate fire surround",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fireplace",
-        "price": "$100",
-        "location": "Worthing, West Sussex"
     }
 ]
