@@ -5,6 +5,11 @@
         "location": "Burgess Hill"
     },
     {
+        "description": "Fire place",
+        "price": "\u00a3150",
+        "location": "Lewes, East Sussex"
+    },
+    {
         "description": "Absolutely stunning fire surround",
         "price": "\u00a3150",
         "location": "Lancing, West Sussex"
@@ -28,11 +33,6 @@
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
-    },
-    {
-        "description": "Art deco oak fire surround. Can be made smaller. 107cm h x 141cm w.",
-        "price": "\u00a320",
-        "location": "Brighton and Hove"
     },
     {
         "description": "Fireplace surround",
