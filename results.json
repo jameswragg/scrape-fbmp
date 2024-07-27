@@ -1,5 +1,10 @@
 [
     {
+        "description": "Cast iron fire surround and tiles",
+        "price": "\u00a3150",
+        "location": "Shoreham-by-Sea"
+    },
+    {
         "description": "Complete Electric Fireplace with Marble Hearth",
         "price": "\u00a375",
         "location": "Burgess Hill"
@@ -10,6 +15,26 @@
         "location": "Lewes, East Sussex"
     },
     {
+        "description": "Gas coal fire (no surround)",
+        "price": "\u00a35",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Cast iron Victorian fireplace",
+        "price": "\u00a3120",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Cast iron fire place",
+        "price": "\u00a385",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Victorian fire surround",
+        "price": "\u00a3125",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Absolutely stunning fire surround",
         "price": "\u00a3150",
         "location": "Lancing, West Sussex"
@@ -17,6 +42,11 @@
     {
         "description": "Rare, concrete French fireplace, refurbished and ready for installation",
         "price": "\u00a31,450",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Marble",
+        "price": "\u00a330",
         "location": "Brighton and Hove"
     },
     {
@@ -33,6 +63,11 @@
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
+    },
+    {
+        "description": "Complete Cast iron fireplace",
+        "price": "\u00a3300",
+        "location": "Steyning"
     },
     {
         "description": "Fireplace surround",
@@ -78,15 +113,5 @@
         "description": "Fireplace surround",
         "price": "\u00a3300",
         "location": "Hassocks"
-    },
-    {
-        "description": "Fireplace marble",
-        "price": "\u00a3100",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Ornate fire surround",
-        "price": "\u00a3200",
-        "location": "Brighton and Hove"
     }
 ]
