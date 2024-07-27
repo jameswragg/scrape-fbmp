@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace hearth",
+        "price": "\u00a350",
+        "location": "Lancing, West Sussex"
+    },
+    {
         "description": "Cast iron fire surround and tiles",
         "price": "\u00a3150",
         "location": "Shoreham-by-Sea"
@@ -107,11 +112,6 @@
     {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
-        "location": "Hassocks"
-    },
-    {
-        "description": "Fireplace surround",
-        "price": "\u00a3300",
         "location": "Hassocks"
     }
 ]
