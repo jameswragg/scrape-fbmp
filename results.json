@@ -80,11 +80,6 @@
         "location": "Peacehaven"
     },
     {
-        "description": "Black slate - fireplace hearth 850mm x 420mm x 30mm",
-        "price": "\u00a395",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
         "location": "Brighton and Hove"
@@ -112,6 +107,11 @@
     {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Fireplace surround",
+        "price": "\u00a3300",
         "location": "Hassocks"
     }
 ]
