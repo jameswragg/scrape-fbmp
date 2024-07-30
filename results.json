@@ -55,11 +55,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Cast iron fireplace, insert, surround Grill, grate, tray and black marble hearth stone.",
-        "price": "Sold",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Fireplace",
         "price": "Free",
         "location": "Brighton and Hove"
@@ -113,5 +108,10 @@
         "description": "Fireplace surround",
         "price": "\u00a3300",
         "location": "Hassocks"
+    },
+    {
+        "description": "Fireplace marble",
+        "price": "\u00a3100",
+        "location": "Brighton and Hove"
     }
 ]
