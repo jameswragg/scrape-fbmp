@@ -10,6 +10,11 @@
         "location": "Shoreham-by-Sea"
     },
     {
+        "description": "Claybrook Semaphore Tiles",
+        "price": "\u00a315",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Complete Electric Fireplace with Marble Hearth",
         "price": "\u00a320",
         "location": "Burgess Hill"
@@ -18,11 +23,6 @@
         "description": "Fire place",
         "price": "\u00a3150",
         "location": "Lewes, East Sussex"
-    },
-    {
-        "description": "Gas coal fire (no surround)",
-        "price": "\u00a35",
-        "location": "Hassocks"
     },
     {
         "description": "Cast iron Victorian fireplace",
@@ -47,11 +47,6 @@
     {
         "description": "Rare, concrete French fireplace, refurbished and ready for installation",
         "price": "\u00a31,450",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Marble",
-        "price": "\u00a330",
         "location": "Brighton and Hove"
     },
     {
@@ -112,6 +107,11 @@
     {
         "description": "Fireplace marble",
         "price": "\u00a3100",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Ornate fire surround",
+        "price": "\u00a3200",
         "location": "Brighton and Hove"
     }
 ]
