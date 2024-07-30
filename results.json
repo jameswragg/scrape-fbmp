@@ -113,5 +113,125 @@
         "description": "Fireplace surround",
         "price": "\u00a3300",
         "location": "Hassocks"
+    },
+    {
+        "description": "Fireplace and surround -electric",
+        "price": "\u00a320",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Black slate - fireplace hearth 850mm x 420mm x 30mm",
+        "price": "\u00a395",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Insert wall log/flame effect fire! Free! Lost remote",
+        "price": "Free",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Fireside set. New",
+        "price": "\u00a35",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Tiled fireplace 1950s",
+        "price": "\u00a380",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Cast iron Victorian fireplace insert",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Set of three Vintage electric fireplaces collectors items not working",
+        "price": "\u00a320",
+        "location": "Shoreham-by-Sea"
+    },
+    {
+        "description": "Art Deco fireplace fender",
+        "price": "\u00a385",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Electric Heated Fire Place",
+        "price": "\u00a350",
+        "location": "Haywards Heath"
+    },
+    {
+        "description": "A lovely wooden fire place need to be gone asap due to moving out it\u2019s been well looked after .",
+        "price": "\u00a330",
+        "location": "Lancing, West Sussex"
+    },
+    {
+        "description": "Wooden fireplace",
+        "price": "\u00a385",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Electric Fireplace",
+        "price": "\u00a340",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Electric fireplace",
+        "price": "\u00a325",
+        "location": "Haywards Heath"
+    },
+    {
+        "description": "Cast iron fireplace with Wooden mantle",
+        "price": "\u00a3200",
+        "location": "Peacehaven"
+    },
+    {
+        "description": "Electric fire and surround",
+        "price": "\u00a320",
+        "location": "Shoreham-by-Sea"
+    },
+    {
+        "description": "Electric Fireplace",
+        "price": "\u00a350",
+        "location": "Peacehaven"
+    },
+    {
+        "description": "Marble Run",
+        "price": "\u00a310",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Victoriana fireplace",
+        "price": "\u00a3200",
+        "location": "Lewes, East Sussex"
+    },
+    {
+        "description": "Victorian Tiled Cast Iron Fireplace",
+        "price": "\u00a3110",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fire place surround and electric fire",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace tiles",
+        "price": "\u00a350",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Victorian fireplace - cast iron with handmade pine surround",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Original cast iron art nouveau fireplace",
+        "price": "\u00a3300",
+        "location": "Peacehaven"
+    },
+    {
+        "description": "Vintage gas fireplace",
+        "price": "\u00a375",
+        "location": "Worthing, West Sussex"
     }
 ]
