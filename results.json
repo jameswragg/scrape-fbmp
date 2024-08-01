@@ -5,6 +5,11 @@
         "location": "Burgess Hill"
     },
     {
+        "description": "Rare, concrete French fireplace, refurbished and ready for installation",
+        "price": "\u00a31,450",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Fireplace hearth",
         "price": "\u00a350",
         "location": "Lancing, West Sussex"
@@ -28,16 +33,6 @@
         "description": "Fire place",
         "price": "\u00a3150",
         "location": "Lewes, East Sussex"
-    },
-    {
-        "description": "Cast iron Victorian fireplace",
-        "price": "\u00a3120",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Victorian fire surround",
-        "price": "\u00a3125",
-        "location": "Brighton and Hove"
     },
     {
         "description": "Absolutely stunning fire surround",
