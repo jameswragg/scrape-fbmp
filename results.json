@@ -34,11 +34,7 @@
         "price": "\u00a3150",
         "location": "Lancing, West Sussex"
     },
-    {
-        "description": "Marble",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
-    },
+    null,
     {
         "description": "Fireplace",
         "price": "Free",
