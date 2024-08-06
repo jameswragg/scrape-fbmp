@@ -10,6 +10,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Late Victorian / Edwardian vintage original wood fire surround",
+        "price": "\u00a3100",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Fireplace hearth",
         "price": "\u00a350",
         "location": "Lancing, West Sussex"
@@ -97,11 +102,6 @@
     {
         "description": "Fireplace marble",
         "price": "\u00a3100",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Ornate fire surround",
-        "price": "\u00a3200",
         "location": "Brighton and Hove"
     }
 ]
