@@ -15,6 +15,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Late Victorian / Edwardian vintage original wood fire surround",
+        "price": "\u00a3100",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Fireplace hearth",
         "price": "\u00a350",
         "location": "Lancing, West Sussex"
@@ -23,6 +28,11 @@
         "description": "Cast iron fire surround and tiles",
         "price": "\u00a3150",
         "location": "Shoreham-by-Sea"
+    },
+    {
+        "description": "Cast iron fireplace with Wooden mantle",
+        "price": "\u00a3200",
+        "location": "Peacehaven"
     },
     {
         "description": "Complete Electric Fireplace with Marble Hearth",
@@ -40,13 +50,13 @@
         "location": "Lancing, West Sussex"
     },
     {
-        "description": "Antique Copper Fireplace Fender/Hearth Surround",
-        "price": "\u00a350",
+        "description": "Marble",
+        "price": "\u00a330",
         "location": "Brighton and Hove"
     },
     {
-        "description": "Marble",
-        "price": "\u00a330",
+        "description": "Fireplace",
+        "price": "Free",
         "location": "Brighton and Hove"
     },
     {
@@ -108,10 +118,5 @@
         "description": "Fireplace surround",
         "price": "\u00a3300",
         "location": "Hassocks"
-    },
-    {
-        "description": "Fireplace marble",
-        "price": "\u00a3100",
-        "location": "Brighton and Hove"
     }
 ]
