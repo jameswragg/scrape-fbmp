@@ -118,10 +118,5 @@
         "description": "Fireplace surround",
         "price": "\u00a3300",
         "location": "Hassocks"
-    },
-    {
-        "description": "Fireplace marble",
-        "price": "\u00a3100",
-        "location": "Brighton and Hove"
     }
 ]
