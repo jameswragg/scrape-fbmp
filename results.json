@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace surround",
+        "price": "\u00a325",
+        "location": "Peacehaven"
+    },
+    {
         "description": "Marble Hearth",
         "price": "$50",
         "location": "Lancing, West Sussex"
@@ -58,11 +63,6 @@
         "description": "Complete Cast iron fireplace",
         "price": "\u00a3300",
         "location": "Steyning"
-    },
-    {
-        "description": "Fireplace surround",
-        "price": "\u00a325",
-        "location": "Peacehaven"
     },
     {
         "description": "Complete fireplace and surrounding",
