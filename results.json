@@ -1,5 +1,15 @@
 [
     {
+        "description": "Marble slab / was base of fireplace",
+        "price": "\u00a380",
+        "location": "Lancing, West Sussex"
+    },
+    {
+        "description": "Marble fireplace",
+        "price": "\u00a350",
+        "location": "Lancing, West Sussex"
+    },
+    {
         "description": "Pair of bronze antique table lamps on green marble base",
         "price": "\u00a3125",
         "location": "Plumpton, East Sussex"
@@ -102,11 +112,6 @@
     {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
-        "location": "Hassocks"
-    },
-    {
-        "description": "Fireplace surround",
-        "price": "\u00a3300",
         "location": "Hassocks"
     },
     {
