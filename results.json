@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble type fireplace very heavy",
+        "price": "\u00a350",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Dark wood fireplace surround with marble fire place and marble fireplace step",
         "price": "\u00a3140",
         "location": "Lancing, West Sussex"
@@ -112,11 +117,6 @@
     {
         "description": "Antique & repro. Marble fireplace surrounds",
         "price": "\u00a31,234,567",
-        "location": "Hassocks"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3150",
         "location": "Hassocks"
     }
 ]
