@@ -55,11 +55,6 @@
         "location": "Lancing, West Sussex"
     },
     {
-        "description": "Cast iron fire surround and tiles",
-        "price": "\u00a3150",
-        "location": "Shoreham-by-Sea"
-    },
-    {
         "description": "Cast iron fireplace with Wooden mantle",
         "price": "\u00a3200",
         "location": "Peacehaven"
@@ -117,6 +112,11 @@
     {
         "description": "Antique & repro. Marble fireplace surrounds",
         "price": "\u00a31,234,567",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a3150",
         "location": "Hassocks"
     }
 ]
