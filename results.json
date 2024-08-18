@@ -1,5 +1,10 @@
 [
     {
+        "description": "Dark wood fireplace surround with marble fire place and marble fireplace step",
+        "price": "\u00a3140",
+        "location": "Lancing, West Sussex"
+    },
+    {
         "description": "Marble slab / was base of fireplace",
         "price": "\u00a380",
         "location": "Lancing, West Sussex"
@@ -112,11 +117,6 @@
     {
         "description": "Victorian fireplace",
         "price": "\u00a3150",
-        "location": "Hassocks"
-    },
-    {
-        "description": "Fireplace surround",
-        "price": "\u00a3300",
         "location": "Hassocks"
     }
 ]
