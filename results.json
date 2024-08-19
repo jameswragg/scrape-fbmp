@@ -59,11 +59,7 @@
         "price": "\u00a3200",
         "location": "Peacehaven"
     },
-    {
-        "description": "Fire place",
-        "price": "\u00a3150",
-        "location": "Lewes, East Sussex"
-    },
+    null,
     {
         "description": "Absolutely stunning fire surround",
         "price": "\u00a3150",
