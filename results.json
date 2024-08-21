@@ -1,5 +1,20 @@
 [
     {
+        "description": "Marble fireplace hearth",
+        "price": "\u00a310",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Marble decorative chimney",
+        "price": "\u00a340",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Marble decorative chimney",
+        "price": "\u00a340",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Marble type fireplace very heavy",
         "price": "\u00a350",
         "location": "Brighton and Hove"
@@ -103,20 +118,5 @@
         "description": "Free Marble fireplace hearth",
         "price": "Free",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fire place with marble",
-        "price": "\u00a3155",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Antique & repro. Marble fireplace surrounds",
-        "price": "\u00a31,234,567",
-        "location": "Hassocks"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3150",
-        "location": "Hassocks"
     }
 ]
