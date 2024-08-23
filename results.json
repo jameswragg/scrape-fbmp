@@ -1,5 +1,10 @@
 [
     {
+        "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
+        "price": "\u00a3200",
+        "location": "Lancing, West Sussex"
+    },
+    {
         "description": "Marble fireplace hearth",
         "price": "\u00a310",
         "location": "Brighton and Hove"
@@ -113,15 +118,5 @@
         "description": "Free Marble fireplace hearth",
         "price": "Free",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fire place with marble",
-        "price": "\u00a3155",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Antique & repro. Marble fireplace surrounds",
-        "price": "\u00a31,234,567",
-        "location": "Hassocks"
     }
 ]
