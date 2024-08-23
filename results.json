@@ -118,5 +118,10 @@
         "description": "Free Marble fireplace hearth",
         "price": "Free",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fire place with marble",
+        "price": "\u00a3155",
+        "location": "Brighton and Hove"
     }
 ]
