@@ -10,16 +10,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Marble decorative chimney - vgc",
-        "price": "\u00a340",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Marble decorative chimney - vgc",
-        "price": "\u00a340",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Marble type fireplace very heavy",
         "price": "\u00a350",
         "location": "Brighton and Hove"
@@ -118,5 +108,15 @@
         "description": "Quartz, marble and granite",
         "price": "\u00a31",
         "location": "Plumpton, East Sussex"
+    },
+    {
+        "description": "Free Marble fireplace hearth",
+        "price": "Free",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fire place with marble",
+        "price": "\u00a3155",
+        "location": "Brighton and Hove"
     }
 ]
