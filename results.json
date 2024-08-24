@@ -80,11 +80,6 @@
         "location": "Lewes, East Sussex"
     },
     {
-        "description": "Absolutely stunning fire surround",
-        "price": "\u00a3150",
-        "location": "Lancing, West Sussex"
-    },
-    {
         "description": "Marble",
         "price": "\u00a330",
         "location": "Brighton and Hove"
@@ -117,6 +112,11 @@
     {
         "description": "Free Marble fireplace hearth",
         "price": "Free",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fire place with marble",
+        "price": "\u00a3155",
         "location": "Brighton and Hove"
     }
 ]
