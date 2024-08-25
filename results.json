@@ -65,11 +65,6 @@
         "location": "Worthing, West Sussex"
     },
     {
-        "description": "Rare, concrete French fireplace, refurbished and ready for installation",
-        "price": "\u00a31,450",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Fireplace hearth",
         "price": "\u00a350",
         "location": "Lancing, West Sussex"
@@ -117,6 +112,11 @@
     {
         "description": "Free Marble fireplace hearth",
         "price": "Free",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fire place with marble",
+        "price": "\u00a3155",
         "location": "Brighton and Hove"
     }
 ]
