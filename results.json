@@ -25,6 +25,11 @@
         "location": "Lancing, West Sussex"
     },
     {
+        "description": "Fireplace Mid Century Modern MCM",
+        "price": "Free",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Marble slab / was base of fireplace",
         "price": "\u00a380",
         "location": "Lancing, West Sussex"
@@ -42,6 +47,11 @@
     {
         "description": "Electric fire & surround",
         "price": "\u00a350",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Huge French Vintage Wood Mirror",
+        "price": "\u00a31,450",
         "location": "Brighton and Hove"
     },
     {
@@ -108,15 +118,5 @@
         "description": "Quartz, marble and granite",
         "price": "\u00a31",
         "location": "Plumpton, East Sussex"
-    },
-    {
-        "description": "Free Marble fireplace hearth",
-        "price": "Free",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fire place with marble",
-        "price": "\u00a3155",
-        "location": "Brighton and Hove"
     }
 ]
