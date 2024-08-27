@@ -15,6 +15,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Cast Iron Fireplace",
+        "price": "\u00a3200",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Marble type fireplace very heavy",
         "price": "\u00a340",
         "location": "Brighton and Hove"
@@ -113,10 +118,5 @@
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Quartz, marble and granite",
-        "price": "\u00a31",
-        "location": "Plumpton, East Sussex"
     }
 ]
