@@ -60,6 +60,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Antique Victorian firepl",
+        "price": "\u00a3110",
+        "location": "Henfield"
+    },
+    {
         "description": "Fireplace surround",
         "price": "\u00a325",
         "location": "Peacehaven"
@@ -112,11 +117,6 @@
     {
         "description": "Free Marble fireplace hearth",
         "price": "Free",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Fire place with marble",
-        "price": "\u00a3155",
         "location": "Brighton and Hove"
     }
 ]
