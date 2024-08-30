@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble effect fireplace surround and working flame effect electric fire",
+        "price": "$100",
+        "location": "Steyning"
+    },
+    {
         "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
         "price": "\u00a3100",
         "location": "Lancing, West Sussex"
@@ -113,10 +118,5 @@
         "description": "Edwardian tile fire place surrounds",
         "price": "\u00a320",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Quartz, marble and granite",
-        "price": "\u00a31",
-        "location": "Plumpton, East Sussex"
     }
 ]
