@@ -5,11 +5,6 @@
         "location": "Steyning"
     },
     {
-        "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
-        "price": "\u00a3100",
-        "location": "Lancing, West Sussex"
-    },
-    {
         "description": "Marble fireplace hearth",
         "price": "\u00a310",
         "location": "Brighton and Hove"
@@ -100,11 +95,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
-        "price": "\u00a315",
-        "location": "Burgess Hill"
-    },
-    {
         "description": "Complete Cast iron fireplace",
         "price": "\u00a3300",
         "location": "Steyning"
@@ -117,6 +107,16 @@
     {
         "description": "Edwardian tile fire place surrounds",
         "price": "\u00a320",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Quartz, marble and granite",
+        "price": "\u00a31",
+        "location": "Plumpton, East Sussex"
+    },
+    {
+        "description": "Free Marble fireplace hearth",
+        "price": "Free",
         "location": "Brighton and Hove"
     }
 ]
