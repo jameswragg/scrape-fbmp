@@ -104,7 +104,11 @@
         "price": "\u00a315",
         "location": "Burgess Hill"
     },
-    null,
+    {
+        "description": "Complete Cast iron fireplace",
+        "price": "\u00a3300",
+        "location": "Steyning"
+    },
     {
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
