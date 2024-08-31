@@ -70,14 +70,9 @@
         "location": "Henfield"
     },
     {
-        "description": "Fireplace surround",
+        "description": "Electric fire with marble & wood Fireplace surround",
         "price": "\u00a325",
         "location": "Peacehaven"
-    },
-    {
-        "description": "Fireplace insert",
-        "price": "Pending",
-        "location": "Worthing, West Sussex"
     },
     {
         "description": "Cast iron fireplace with Wooden mantle",
@@ -104,7 +99,11 @@
         "price": "\u00a315",
         "location": "Burgess Hill"
     },
-    null,
+    {
+        "description": "Complete Cast iron fireplace",
+        "price": "\u00a3300",
+        "location": "Steyning"
+    },
     {
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
@@ -114,5 +113,10 @@
         "description": "Edwardian tile fire place surrounds",
         "price": "\u00a320",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Quartz, marble and granite",
+        "price": "\u00a31",
+        "location": "Plumpton, East Sussex"
     }
 ]
