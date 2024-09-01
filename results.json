@@ -10,6 +10,11 @@
         "location": "Lancing, West Sussex"
     },
     {
+        "description": "Antique Pine Fireplace Mantel",
+        "price": "\u00a3125",
+        "location": "Horsham"
+    },
+    {
         "description": "Marble fireplace hearth",
         "price": "\u00a310",
         "location": "Brighton and Hove"
@@ -63,11 +68,6 @@
         "description": "Restored Period fireplaces",
         "price": "\u00a3123",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Antique Victorian firepl",
-        "price": "\u00a3110",
-        "location": "Henfield"
     },
     {
         "description": "Electric fire with marble & wood Fireplace surround",
