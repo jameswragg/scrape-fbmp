@@ -30,6 +30,16 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Marble decorative chimney - vgc",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Marble decorative chimney - vgc",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Cast Iron Fireplace",
         "price": "\u00a3150",
         "location": "Brighton and Hove"
@@ -89,11 +99,7 @@
         "price": "\u00a3200",
         "location": "Peacehaven"
     },
-    {
-        "description": "Fire place",
-        "price": "\u00a3150",
-        "location": "Lewes, East Sussex"
-    },
+    null,
     {
         "description": "Marble",
         "price": "\u00a330",
@@ -108,15 +114,5 @@
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
-    },
-    {
-        "description": "Complete Cast iron fireplace",
-        "price": "\u00a3300",
-        "location": "Steyning"
-    },
-    {
-        "description": "Complete fireplace and surrounding",
-        "price": "\u00a390",
-        "location": "Brighton and Hove"
     }
 ]
