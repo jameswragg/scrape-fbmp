@@ -14,7 +14,11 @@
         "price": "\u00a3100",
         "location": "Brighton and Hove"
     },
-    null,
+    {
+        "description": "Iron fireplace surround",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
     {
         "description": "Antique Pine Fireplace Mantel",
         "price": "\u00a3125",
