@@ -10,6 +10,16 @@
         "location": "Lancing, West Sussex"
     },
     {
+        "description": "Fireplace surround",
+        "price": "\u00a3100",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Iron fireplace surround",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Antique Pine Fireplace Mantel",
         "price": "\u00a3125",
         "location": "Horsham"
@@ -108,15 +118,5 @@
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Edwardian tile fire place surrounds",
-        "price": "\u00a320",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Quartz, marble and granite",
-        "price": "\u00a31",
-        "location": "Plumpton, East Sussex"
     }
 ]
