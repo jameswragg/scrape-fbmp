@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble",
+        "price": "\u00a340",
+        "location": "Peacehaven"
+    },
+    {
         "description": "Marble effect fireplace surround and working flame effect electric fire",
         "price": "$100",
         "location": "Steyning"
@@ -113,10 +118,5 @@
         "description": "Complete Cast iron fireplace",
         "price": "\u00a3300",
         "location": "Steyning"
-    },
-    {
-        "description": "Complete fireplace and surrounding",
-        "price": "\u00a390",
-        "location": "Brighton and Hove"
     }
 ]
