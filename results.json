@@ -118,5 +118,10 @@
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Edwardian tile fire place surrounds",
+        "price": "\u00a320",
+        "location": "Brighton and Hove"
     }
 ]
