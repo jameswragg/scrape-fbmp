@@ -25,6 +25,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Marble decorative chimney - vgc",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Cast Iron Fireplace",
         "price": "\u00a3150",
         "location": "Brighton and Hove"
@@ -75,13 +80,13 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Electric fire with marble & wood Fireplace surround",
-        "price": "\u00a325",
-        "location": "Peacehaven"
+        "description": "Antique Victorian firepl",
+        "price": "\u00a3110",
+        "location": "Henfield"
     },
     {
-        "description": "Cast iron fireplace with Wooden mantle",
-        "price": "\u00a3200",
+        "description": "Electric fire with marble & wood Fireplace surround",
+        "price": "\u00a325",
         "location": "Peacehaven"
     },
     {
@@ -113,10 +118,5 @@
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Quartz, marble and granite",
-        "price": "\u00a31",
-        "location": "Plumpton, East Sussex"
     }
 ]
