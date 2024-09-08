@@ -118,5 +118,10 @@
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Quartz, marble and granite",
+        "price": "\u00a31",
+        "location": "Plumpton, East Sussex"
     }
 ]
