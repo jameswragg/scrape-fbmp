@@ -5,11 +5,6 @@
         "location": "Peacehaven"
     },
     {
-        "description": "Marble effect fireplace surround and working flame effect electric fire",
-        "price": "$100",
-        "location": "Steyning"
-    },
-    {
         "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
         "price": "\u00a3100",
         "location": "Lancing, West Sussex"
@@ -22,11 +17,6 @@
     {
         "description": "Iron fireplace surround",
         "price": "\u00a3150",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Marble decorative chimney - vgc",
-        "price": "\u00a330",
         "location": "Brighton and Hove"
     },
     {
@@ -118,5 +108,15 @@
         "description": "Complete Cast iron fireplace",
         "price": "\u00a3300",
         "location": "Steyning"
+    },
+    {
+        "description": "Complete fireplace and surrounding",
+        "price": "\u00a390",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Quartz, marble and granite",
+        "price": "\u00a31",
+        "location": "Plumpton, East Sussex"
     }
 ]
