@@ -25,11 +25,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Marble decorative chimney - vgc",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Cast Iron Fireplace",
         "price": "\u00a3150",
         "location": "Brighton and Hove"
@@ -118,5 +113,10 @@
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Quartz, marble and granite",
+        "price": "\u00a31",
+        "location": "Plumpton, East Sussex"
     }
 ]
