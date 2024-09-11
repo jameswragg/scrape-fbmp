@@ -70,11 +70,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Huge French Vintage Wood Mirror",
-        "price": "\u00a31,450",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Restored Period fireplaces",
         "price": "\u00a3123",
         "location": "Brighton and Hove"
@@ -118,5 +113,10 @@
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Quartz, marble and granite",
+        "price": "\u00a31",
+        "location": "Plumpton, East Sussex"
     }
 ]
