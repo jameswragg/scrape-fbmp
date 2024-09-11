@@ -118,10 +118,5 @@
         "description": "Quartz, marble and granite",
         "price": "\u00a31",
         "location": "Plumpton, East Sussex"
-    },
-    {
-        "description": "Free Marble fireplace hearth",
-        "price": "Free",
-        "location": "Brighton and Hove"
     }
 ]
