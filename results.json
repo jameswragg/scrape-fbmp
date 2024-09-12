@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace with marble hearth",
+        "price": "Free",
+        "location": "Lewes, East Sussex"
+    },
+    {
         "description": "Fireplace and fire",
         "price": "\u00a320",
         "location": "Peacehaven"
@@ -112,16 +117,6 @@
     {
         "description": "Complete fireplace and surrounding",
         "price": "\u00a390",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Quartz, marble and granite",
-        "price": "\u00a31",
-        "location": "Plumpton, East Sussex"
-    },
-    {
-        "description": "Free Marble fireplace hearth",
-        "price": "Free",
         "location": "Brighton and Hove"
     }
 ]
