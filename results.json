@@ -70,11 +70,6 @@
         "location": "Plumpton, East Sussex"
     },
     {
-        "description": "Restored Period fireplaces",
-        "price": "\u00a3123",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Antique Victorian firepl",
         "price": "\u00a3110",
         "location": "Henfield"
@@ -118,5 +113,10 @@
         "description": "Quartz, marble and granite",
         "price": "\u00a31",
         "location": "Plumpton, East Sussex"
+    },
+    {
+        "description": "Free Marble fireplace hearth",
+        "price": "Free",
+        "location": "Brighton and Hove"
     }
 ]
