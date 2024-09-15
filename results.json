@@ -36,7 +36,7 @@
     },
     {
         "description": "Cast Iron Fireplace",
-        "price": "\u00a3150",
+        "price": "\u00a3100",
         "location": "Brighton and Hove"
     },
     {
@@ -118,5 +118,10 @@
         "description": "Fire place with marble",
         "price": "\u00a3155",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Antique & repro. Marble fireplace surrounds",
+        "price": "\u00a31,234,567",
+        "location": "Hassocks"
     }
 ]
