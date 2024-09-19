@@ -35,11 +35,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Marble decorative chimney - vgc",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Cast Iron Fireplace",
         "price": "\u00a3100",
         "location": "Brighton and Hove"
@@ -116,6 +111,11 @@
     },
     {
         "description": "Antique & repro. Marble fireplace surrounds",
+        "price": "\u00a31,234,567",
+        "location": "Hassocks"
+    },
+    {
+        "description": "Antique cast iron fire surrounds, largest stock in Sussex www.mattgibsonfireplaces.co.uk",
         "price": "\u00a31,234,567",
         "location": "Hassocks"
     }
