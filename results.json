@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace Hearth and Surround",
+        "price": "\u00a3100",
+        "location": "Burgess Hill"
+    },
+    {
         "description": "Fireplace with marble hearth",
         "price": "\u00a375",
         "location": "Lewes, East Sussex"
@@ -112,11 +117,6 @@
     {
         "description": "Antique cast iron fire surrounds, largest stock in Sussex www.mattgibsonfireplaces.co.uk",
         "price": "\u00a31,234,567",
-        "location": "Hassocks"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u20ac150",
         "location": "Hassocks"
     }
 ]
