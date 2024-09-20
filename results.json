@@ -118,10 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u20ac150",
         "location": "Hassocks"
-    },
-    {
-        "description": "Fireplace surround",
-        "price": "\u00a3300",
-        "location": "Hassocks"
     }
 ]
