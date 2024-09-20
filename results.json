@@ -118,5 +118,10 @@
         "description": "Antique cast iron fire surrounds, largest stock in Sussex www.mattgibsonfireplaces.co.uk",
         "price": "\u00a31,234,567",
         "location": "Hassocks"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u20ac150",
+        "location": "Hassocks"
     }
 ]
