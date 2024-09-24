@@ -1,5 +1,10 @@
 [
     {
+        "description": "White marble fireplace insert",
+        "price": "\u00a340",
+        "location": "Fleet, Hampshire"
+    },
+    {
         "description": "Fireplace hearth and back slab",
         "price": "\u00a350",
         "location": "Camberley"
@@ -113,10 +118,5 @@
         "description": "Marble and Wood Fireplace/surround",
         "price": "\u00a3150",
         "location": "Bracknell"
-    },
-    {
-        "description": "Marble Antique Fireplace for Sale",
-        "price": "\u00a3750",
-        "location": "London, United Kingdom"
     }
 ]
