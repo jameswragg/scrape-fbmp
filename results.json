@@ -25,9 +25,29 @@
         "location": "Polegate"
     },
     {
+        "description": "Fire surround",
+        "price": "\u00a350",
+        "location": "Warsash"
+    },
+    {
         "description": "Electric fireplace including marble base and wooden surround",
         "price": "\u00a360",
         "location": "Windsor, Berkshire"
+    },
+    {
+        "description": "Marble mantle sill/shelf.",
+        "price": "\u00a325",
+        "location": "Hythe, Kent"
+    },
+    {
+        "description": "Granite fireplace/mantle piece",
+        "price": "\u00a3250",
+        "location": "London, United Kingdom"
+    },
+    {
+        "description": "Fire surround",
+        "price": "\u00a320",
+        "location": "Havant"
     },
     {
         "description": "Mantle piece",
@@ -97,26 +117,6 @@
     {
         "description": "Marble Antique Fireplace for Sale",
         "price": "\u00a3750",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Pair of French, antique rococo marble fireplaces, extremely rare",
-        "price": "\u00a37,000",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "fire place",
-        "price": "\u00a350",
-        "location": "Newport, Isle of Wight"
-    },
-    {
-        "description": "Marble fireplace",
-        "price": "\u00a3150",
-        "location": "Romford, United Kingdom"
-    },
-    {
-        "description": "fireplace",
-        "price": "\u00a350",
         "location": "London, United Kingdom"
     }
 ]
