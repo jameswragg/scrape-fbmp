@@ -10,11 +10,6 @@
         "location": "Crawley"
     },
     {
-        "description": "Bespoke granite marble quartz offcuts",
-        "price": "\u00a31",
-        "location": "Gravesend, Kent"
-    },
-    {
         "description": "Solid marble hearth",
         "price": "\u00a315",
         "location": "London, United Kingdom"
@@ -33,11 +28,6 @@
         "description": "Electric fireplace including marble base and wooden surround",
         "price": "\u00a360",
         "location": "Windsor, Berkshire"
-    },
-    {
-        "description": "Marble mantle sill/shelf.",
-        "price": "\u00a325",
-        "location": "Hythe, Kent"
     },
     {
         "description": "Mantle piece",
@@ -118,5 +108,15 @@
         "description": "fire place",
         "price": "\u00a350",
         "location": "Newport, Isle of Wight"
+    },
+    {
+        "description": "Marble fireplace",
+        "price": "\u00a3150",
+        "location": "Romford, United Kingdom"
+    },
+    {
+        "description": "fireplace",
+        "price": "\u00a350",
+        "location": "London, United Kingdom"
     }
 ]
