@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble fireplace surround and mirror",
+        "price": "\u00a3140",
+        "location": "Southend-on-Sea"
+    },
+    {
         "description": "White marble fireplace insert",
         "price": "\u00a340",
         "location": "Fleet, Hampshire"
@@ -113,10 +118,5 @@
         "description": "Fireplace Hearth and Surround",
         "price": "\u00a3100",
         "location": "Burgess Hill"
-    },
-    {
-        "description": "Marble and Wood Fireplace/surround",
-        "price": "\u00a3150",
-        "location": "Bracknell"
     }
 ]
