@@ -1,5 +1,10 @@
 [
     {
+        "description": "FREE marble fire base",
+        "price": "Free",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Marble Fire Place",
         "price": "\u00a350",
         "location": "Cobham, Surrey"
@@ -113,10 +118,5 @@
         "description": "Hunter Herald Inset 5. Dual fuel stove 15 years old (serviced every year)",
         "price": "\u00a3150",
         "location": "Rainham, Medway"
-    },
-    {
-        "description": "19thC French gilt wood console \u201cjardine\u201d with marble",
-        "price": "\u00a31,595",
-        "location": "London, United Kingdom"
     }
 ]
