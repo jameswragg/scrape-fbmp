@@ -1,5 +1,10 @@
 [
     {
+        "description": "Granite, Marble & Quartz offcuts available at Wrightstone in Meopham",
+        "price": "\u00a350",
+        "location": "Gravesend, Kent"
+    },
+    {
         "description": "Marble surround fireplace",
         "price": "\u00a320",
         "location": "East Grinstead"
@@ -113,10 +118,5 @@
         "description": "19thC French gilt wood console \u201cjardine\u201d with marble",
         "price": "\u00a31,595",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "FREE marble hearth and back pannel",
-        "price": "Free",
-        "location": "Portsmouth"
     }
 ]
