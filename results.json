@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble fire place with Dimplex Electric fire",
+        "price": "\u00a380",
+        "location": "Hythe, Southampton, United Kingdom"
+    },
+    {
         "description": "Marble Coating Grill Pan NEW",
         "price": "\u00a315",
         "location": "Harrow, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Fireplace",
         "price": "\u00a3200",
         "location": "Turners Hill"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a3120",
-        "location": "London, United Kingdom"
     }
 ]
