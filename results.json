@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble Fire Place",
+        "price": "\u00a350",
+        "location": "Cobham, Surrey"
+    },
+    {
         "description": "Granite, Marble & Quartz offcuts available at Wrightstone in Meopham",
         "price": "\u00a350",
         "location": "Gravesend, Kent"
@@ -48,11 +53,6 @@
         "description": "Fire surround",
         "price": "\u00a350",
         "location": "Warsash"
-    },
-    {
-        "description": "Electric fireplace including marble base and wooden surround",
-        "price": "\u00a360",
-        "location": "Windsor, Berkshire"
     },
     {
         "description": "Marble mantle sill/shelf.",
