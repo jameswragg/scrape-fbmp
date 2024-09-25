@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble surround fireplace",
+        "price": "\u00a320",
+        "location": "East Grinstead"
+    },
+    {
         "description": "Marble fireplace surround and mirror",
         "price": "\u00a3140",
         "location": "Southend-on-Sea"
@@ -113,10 +118,5 @@
         "description": "FREE marble hearth and back pannel",
         "price": "Free",
         "location": "Portsmouth"
-    },
-    {
-        "description": "Fireplace Hearth and Surround",
-        "price": "\u00a3100",
-        "location": "Burgess Hill"
     }
 ]
