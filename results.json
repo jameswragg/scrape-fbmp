@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble Coating Grill Pan NEW",
+        "price": "\u00a315",
+        "location": "Harrow, United Kingdom"
+    },
+    {
         "description": "FREE marble fire base",
         "price": "Free",
         "location": "London, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Fireplace",
         "price": "\u00a3120",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Hunter Herald Inset 5. Dual fuel stove 15 years old (serviced every year)",
-        "price": "\u00a3150",
-        "location": "Rainham, Medway"
     }
 ]
