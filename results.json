@@ -50,6 +50,11 @@
         "location": "Crawley"
     },
     {
+        "description": "White fireplace surround",
+        "price": "\u00a340",
+        "location": "Lingfield, Bromley, United Kingdom"
+    },
+    {
         "description": "Solid marble hearth",
         "price": "\u00a315",
         "location": "London, United Kingdom"
@@ -95,28 +100,23 @@
         "location": "Beckenham, Bromley, United Kingdom"
     },
     {
+        "description": "Marble fire surround",
+        "price": "\u00a325",
+        "location": "Sutton, London"
+    },
+    {
+        "description": "White Glass Mosaic Tiles - 1 box = 1 sq.m. Type 1.",
+        "price": "\u00a325",
+        "location": "Cranleigh"
+    },
+    {
         "description": "Polished marble fireplace with electric suite",
         "price": "\u00a3500",
         "location": "Sandhurst"
     },
     {
-        "description": "Fireplace Surround",
-        "price": "\u00a3120",
-        "location": "Chessington"
-    },
-    {
         "description": "Marble fireplace surround",
         "price": "\u00a3200",
         "location": "Hedge End"
-    },
-    {
-        "description": "Marble fireplace surround",
-        "price": "Free",
-        "location": "Bearsted, Kent"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a3200",
-        "location": "Turners Hill"
     }
 ]
