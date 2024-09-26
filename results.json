@@ -1,7 +1,12 @@
 [
     {
+        "description": "Marble fireplace",
+        "price": "\u00a3500",
+        "location": "Kenley, United Kingdom"
+    },
+    {
         "description": "Marble fire place with Dimplex Electric fire",
-        "price": "\u00a380",
+        "price": "\u00a350",
         "location": "Hythe, Southampton, United Kingdom"
     },
     {
@@ -113,10 +118,5 @@
         "description": "Polished marble fireplace with electric suite",
         "price": "\u00a3500",
         "location": "Sandhurst"
-    },
-    {
-        "description": "Marble fireplace surround",
-        "price": "\u00a3200",
-        "location": "Hedge End"
     }
 ]
