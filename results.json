@@ -1,5 +1,10 @@
 [
     {
+        "description": "Antique Victorian Marble fireplace",
+        "price": "\u00a3150",
+        "location": "Hastings, East Sussex"
+    },
+    {
         "description": "Marble fire place",
         "price": "\u00a325",
         "location": "Slough"
@@ -113,10 +118,5 @@
         "description": "Original Victorian/Edwardian Fireplaces",
         "price": "\u00a3100",
         "location": "Beckenham, Bromley, United Kingdom"
-    },
-    {
-        "description": "Marble fire surround",
-        "price": "\u00a325",
-        "location": "Sutton, London"
     }
 ]
