@@ -40,6 +40,11 @@
         "location": "Southend-on-Sea"
     },
     {
+        "description": "Fire place and mantel",
+        "price": "\u00a350",
+        "location": "High Wycombe, Buckinghamshire"
+    },
+    {
         "description": "White marble fireplace insert",
         "price": "\u00a340",
         "location": "Fleet, Hampshire"
@@ -53,6 +58,11 @@
         "description": "Fireplace mantle with electric heater",
         "price": "\u00a330",
         "location": "Crawley"
+    },
+    {
+        "description": "Bespoke granite marble quartz offcuts",
+        "price": "\u00a31",
+        "location": "Gravesend, Kent"
     },
     {
         "description": "White fireplace surround",
@@ -108,15 +118,5 @@
         "description": "Marble fire surround",
         "price": "\u00a325",
         "location": "Sutton, London"
-    },
-    {
-        "description": "White Glass Mosaic Tiles - 1 box = 1 sq.m. Type 1.",
-        "price": "\u00a325",
-        "location": "Cranleigh"
-    },
-    {
-        "description": "Polished marble fireplace with electric suite",
-        "price": "\u00a3500",
-        "location": "Sandhurst"
     }
 ]
