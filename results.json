@@ -118,5 +118,10 @@
         "description": "Marble fire surround",
         "price": "\u00a325",
         "location": "Sutton, London"
+    },
+    {
+        "description": "White Glass Mosaic Tiles - 1 box = 1 sq.m. Type 1.",
+        "price": "\u00a325",
+        "location": "Cranleigh"
     }
 ]
