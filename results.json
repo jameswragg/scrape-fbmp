@@ -1,5 +1,10 @@
 [
     {
+        "description": "Antique fireplace with marble surround",
+        "price": "\u00a3520",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Marble fire place",
         "price": "\u00a3150",
         "location": "Brighton and Hove"
@@ -113,10 +118,5 @@
         "description": "Solid marble fireplace hearth",
         "price": "\u00a310",
         "location": "Polegate"
-    },
-    {
-        "description": "Fire surround",
-        "price": "\u00a330",
-        "location": "Warsash"
     }
 ]
