@@ -1,5 +1,10 @@
 [
     {
+        "description": "Black Marble and wood fireplace",
+        "price": "\u00a380",
+        "location": "Orpington, Bromley, United Kingdom"
+    },
+    {
         "description": "Marble Arch Granite Hearth and Electric Fire - RRP \u00a34600",
         "price": "\u00a32,750",
         "location": "Liss"
@@ -100,6 +105,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Bespoke granite marble quartz offcuts",
+        "price": "\u00a31",
+        "location": "Gravesend, Kent"
+    },
+    {
         "description": "White fireplace surround",
         "price": "\u00a340",
         "location": "Lingfield, Bromley, United Kingdom"
@@ -107,16 +117,6 @@
     {
         "description": "Solid marble hearth",
         "price": "\u00a315",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Wooden stylish TV stand / media unit / chest of drawers from Fy!",
-        "price": "\u00a3179",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Slate and marble clock",
-        "price": "\u00a320",
         "location": "London, United Kingdom"
     }
 ]
