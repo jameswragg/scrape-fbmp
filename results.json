@@ -1,5 +1,20 @@
 [
     {
+        "description": "Fire place Gas - wood & black marble",
+        "price": "\u00a370",
+        "location": "Stanmore"
+    },
+    {
+        "description": "Viktorian marble fire place",
+        "price": "\u00a3900",
+        "location": "Hounslow, Hounslow, United Kingdom"
+    },
+    {
+        "description": "Gazco Logic Inset Gas Fire",
+        "price": "\u00a3200",
+        "location": "Woking"
+    },
+    {
         "description": "Fireplace- free",
         "price": "Free",
         "location": "Farnham"
@@ -75,11 +90,6 @@
         "location": "London, United Kingdom"
     },
     {
-        "description": "Marble Fire Place",
-        "price": "Sold",
-        "location": "Cobham, Surrey"
-    },
-    {
         "description": "Granite, Marble & Quartz offcuts available at Wrightstone in Meopham",
         "price": "\u00a350",
         "location": "Gravesend, Kent"
@@ -108,15 +118,5 @@
         "description": "Fireplace hearth and back slab",
         "price": "\u00a350",
         "location": "Camberley"
-    },
-    {
-        "description": "1 box of porcelain sage green tiles",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "White fireplace surround",
-        "price": "\u00a340",
-        "location": "Lingfield, Bromley, United Kingdom"
     }
 ]
