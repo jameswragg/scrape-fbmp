@@ -75,11 +75,6 @@
         "location": "Kenley, United Kingdom"
     },
     {
-        "description": "Marble fire place with Dimplex Electric fire",
-        "price": "\u00a350",
-        "location": "Hythe, Southampton, United Kingdom"
-    },
-    {
         "description": "Marble Coating Grill Pan NEW",
         "price": "\u00a315",
         "location": "Harrow, United Kingdom"
@@ -118,5 +113,10 @@
         "description": "Fireplace hearth and back slab",
         "price": "\u00a350",
         "location": "Camberley"
+    },
+    {
+        "description": "1 box of porcelain sage green tiles",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
     }
 ]
