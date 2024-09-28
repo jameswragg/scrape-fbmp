@@ -95,11 +95,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Fireplace mantle with marble",
-        "price": "\u00a330",
-        "location": "Crawley"
-    },
-    {
         "description": "White fireplace surround",
         "price": "\u00a340",
         "location": "Lingfield, Bromley, United Kingdom"
@@ -118,5 +113,10 @@
         "description": "Slate and marble clock",
         "price": "\u00a320",
         "location": "London, United Kingdom"
+    },
+    {
+        "description": "Solid marble fireplace hearth",
+        "price": "\u00a310",
+        "location": "Polegate"
     }
 ]
