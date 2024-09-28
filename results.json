@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble fireplace surround and hearth",
+        "price": "\u00a3250",
+        "location": "Windsor, Berkshire"
+    },
+    {
         "description": "Black Marble and wood fireplace",
         "price": "\u00a380",
         "location": "Orpington, Bromley, United Kingdom"
@@ -103,11 +108,6 @@
         "description": "1 box of porcelain sage green tiles",
         "price": "\u00a330",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Bespoke granite marble quartz offcuts",
-        "price": "\u00a31",
-        "location": "Gravesend, Kent"
     },
     {
         "description": "White fireplace surround",
