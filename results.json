@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace- free",
+        "price": "Free",
+        "location": "Farnham"
+    },
+    {
         "description": "Marble fireplace surround and hearth",
         "price": "\u00a3250",
         "location": "Windsor, Berkshire"
@@ -113,10 +118,5 @@
         "description": "White fireplace surround",
         "price": "\u00a340",
         "location": "Lingfield, Bromley, United Kingdom"
-    },
-    {
-        "description": "Solid marble hearth",
-        "price": "\u00a315",
-        "location": "London, United Kingdom"
     }
 ]
