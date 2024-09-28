@@ -1,5 +1,10 @@
 [
     {
+        "description": "Black stone fireplace base",
+        "price": "\u00a350",
+        "location": "Woking"
+    },
+    {
         "description": "Antique fireplace with marble surround",
         "price": "\u00a3520",
         "location": "London, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Slate and marble clock",
         "price": "\u00a320",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Solid marble fireplace hearth",
-        "price": "\u00a310",
-        "location": "Polegate"
     }
 ]
