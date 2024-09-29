@@ -1,5 +1,15 @@
 [
     {
+        "description": "Pair of bronze antique table lamps on green marble base",
+        "price": "\u00a3125",
+        "location": "Plumpton, East Sussex"
+    },
+    {
+        "description": "Marble Hearth",
+        "price": "\u00a315",
+        "location": "Horsham"
+    },
+    {
         "description": "Electric 2kWh fireplace, mantle and marble hearth",
         "price": "\u00a375",
         "location": "Basingstoke"
@@ -103,15 +113,5 @@
         "description": "Marble fire place",
         "price": "\u00a325",
         "location": "Slough"
-    },
-    {
-        "description": "Marble fireplace",
-        "price": "\u00a3500",
-        "location": "Kenley, United Kingdom"
-    },
-    {
-        "description": "Slate fireplace hearth",
-        "price": "\u00a3150",
-        "location": "London, United Kingdom"
     }
 ]
