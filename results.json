@@ -10,11 +10,6 @@
         "location": "Stanmore"
     },
     {
-        "description": "Viktorian marble fire place",
-        "price": "Sold",
-        "location": "Hounslow, Hounslow, United Kingdom"
-    },
-    {
         "description": "Gazco Logic Inset Gas Fire",
         "price": "\u00a3200",
         "location": "Woking"
@@ -113,5 +108,10 @@
         "description": "Marble surround fireplace",
         "price": "\u00a320",
         "location": "East Grinstead"
+    },
+    {
+        "description": "Marble fireplace surround and mirror",
+        "price": "\u00a3140",
+        "location": "Southend-on-Sea"
     }
 ]
