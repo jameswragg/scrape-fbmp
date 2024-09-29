@@ -1,5 +1,10 @@
 [
     {
+        "description": "Electric 2kWh fireplace, mantle and marble hearth",
+        "price": "\u00a375",
+        "location": "Basingstoke"
+    },
+    {
         "description": "Marble Adelaid Fire Place & Surround/Hearth - inset gas fire if reqd untested \u00a3225",
         "price": "\u00a3225",
         "location": "Southend-on-Sea"
@@ -108,10 +113,5 @@
         "description": "Marble surround fireplace",
         "price": "\u00a320",
         "location": "East Grinstead"
-    },
-    {
-        "description": "Marble fireplace surround and mirror",
-        "price": "\u00a3140",
-        "location": "Southend-on-Sea"
     }
 ]
