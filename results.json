@@ -1,5 +1,10 @@
 [
     {
+        "description": "Large Victorian marble mantel piece fireplace",
+        "price": "\u00a3850",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Fire place Gas - wood & black marble",
         "price": "\u00a370",
         "location": "Stanmore"
@@ -108,10 +113,5 @@
         "description": "Large victorian Fireplace surround",
         "price": "\u00a3250",
         "location": "Maidstone, Kent"
-    },
-    {
-        "description": "Fireplace hearth and back slab",
-        "price": "\u00a350",
-        "location": "Camberley"
     }
 ]
