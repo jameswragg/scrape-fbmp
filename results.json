@@ -70,6 +70,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Edwardian Cast Iron Fireplace",
+        "price": "\u00a350",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Marble fire place",
         "price": "\u00a325",
         "location": "Slough"
@@ -78,6 +83,16 @@
         "description": "Marble fireplace",
         "price": "\u00a3500",
         "location": "Kenley, United Kingdom"
+    },
+    {
+        "description": "Slate fireplace hearth",
+        "price": "\u00a3150",
+        "location": "London, United Kingdom"
+    },
+    {
+        "description": "2x cast iron fireplaces",
+        "price": "\u00a3175",
+        "location": "London, United Kingdom"
     },
     {
         "description": "Marble Coating Grill Pan NEW",
@@ -98,20 +113,5 @@
         "description": "Marble surround fireplace",
         "price": "\u00a320",
         "location": "East Grinstead"
-    },
-    {
-        "description": "Marble fireplace surround and mirror",
-        "price": "\u00a3140",
-        "location": "Southend-on-Sea"
-    },
-    {
-        "description": "White marble fireplace insert",
-        "price": "\u00a340",
-        "location": "Fleet, Hampshire"
-    },
-    {
-        "description": "Large victorian Fireplace surround",
-        "price": "\u00a3250",
-        "location": "Maidstone, Kent"
     }
 ]
