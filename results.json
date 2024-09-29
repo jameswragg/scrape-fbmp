@@ -40,11 +40,6 @@
         "location": "Woking"
     },
     {
-        "description": "Antique fireplace with marble surround",
-        "price": "\u00a3520",
-        "location": "London, United Kingdom"
-    },
-    {
         "description": "Marble fire place",
         "price": "\u00a3150",
         "location": "Brighton and Hove"
@@ -113,5 +108,10 @@
         "description": "Marble fireplace surround and mirror",
         "price": "\u00a3140",
         "location": "Southend-on-Sea"
+    },
+    {
+        "description": "White marble fireplace insert",
+        "price": "\u00a330",
+        "location": "Fleet, Hampshire"
     }
 ]
