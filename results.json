@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble Adelaid Fire Place & Surround/Hearth - inset gas fire if reqd untested \u00a3225",
+        "price": "\u00a3225",
+        "location": "Southend-on-Sea"
+    },
+    {
         "description": "Large Victorian marble mantel piece fireplace",
         "price": "\u00a3850",
         "location": "London, United Kingdom"
@@ -108,10 +113,5 @@
         "description": "Marble fireplace surround and mirror",
         "price": "\u00a3140",
         "location": "Southend-on-Sea"
-    },
-    {
-        "description": "White marble fireplace insert",
-        "price": "\u00a330",
-        "location": "Fleet, Hampshire"
     }
 ]
