@@ -1,5 +1,10 @@
 [
     {
+        "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
+        "price": "\u00a3100",
+        "location": "Lancing, West Sussex"
+    },
+    {
         "description": "Marble fireplace & electric fire",
         "price": "\u00a380",
         "location": "Longfield"
@@ -113,10 +118,5 @@
         "description": "Stone fireplace and electric fire",
         "price": "\u00a3100",
         "location": "Bromley, Bromley, United Kingdom"
-    },
-    {
-        "description": "Diamond Crush Fireplace with Illusion Fire and Electric Heater",
-        "price": "\u00a3200",
-        "location": "Worthing, West Sussex"
     }
 ]
