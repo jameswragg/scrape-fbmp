@@ -1,5 +1,10 @@
 [
     {
+        "description": "Louis Pompadour Carrara Marble Fireplace",
+        "price": "\u00a31,500",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Pair of bronze antique table lamps on green marble base",
         "price": "\u00a3125",
         "location": "Plumpton, East Sussex"
@@ -55,6 +60,11 @@
         "location": "Orpington, Bromley, United Kingdom"
     },
     {
+        "description": "Fireplace - Marble and Wood",
+        "price": "\u00a380",
+        "location": "Bexhill, East Sussex"
+    },
+    {
         "description": "Marble Arch Granite Hearth and Electric Fire - RRP \u00a34600",
         "price": "\u00a32,500",
         "location": "Liss"
@@ -108,10 +118,5 @@
         "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
         "price": "\u00a315",
         "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Edwardian Cast Iron Fireplace",
-        "price": "\u00a350",
-        "location": "London, United Kingdom"
     }
 ]
