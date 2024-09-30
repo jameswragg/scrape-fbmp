@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble fireplace surround",
+        "price": "\u00a3150",
+        "location": "Woodley"
+    },
+    {
         "description": "Louis Pompadour Carrara Marble Fireplace",
         "price": "\u00a31,500",
         "location": "London, United Kingdom"
@@ -107,11 +112,6 @@
     {
         "description": "Diamond Crush Fireplace with Illusion Fire and Electric Heater",
         "price": "\u00a3200",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
-        "price": "\u00a315",
         "location": "Worthing, West Sussex"
     },
     {
