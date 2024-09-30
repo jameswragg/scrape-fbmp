@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace",
+        "price": "\u00a320",
+        "location": "Ilford, Redbridge, United Kingdom"
+    },
+    {
         "description": "Marble fireplace surround",
         "price": "\u00a3150",
         "location": "Woodley"
@@ -48,11 +53,6 @@
         "description": "Gazco Logic Inset Gas Fire",
         "price": "\u00a3200",
         "location": "Woking"
-    },
-    {
-        "description": "Fireplace- free",
-        "price": "Free",
-        "location": "Farnham"
     },
     {
         "description": "Marble fireplace surround and hearth",
