@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble fireplace & electric fire",
+        "price": "\u00a380",
+        "location": "Longfield"
+    },
+    {
         "description": "Fireplace",
         "price": "\u00a320",
         "location": "Ilford, Redbridge, United Kingdom"
@@ -112,11 +117,6 @@
     {
         "description": "Diamond Crush Fireplace with Illusion Fire and Electric Heater",
         "price": "\u00a3200",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
-        "price": "\u00a315",
         "location": "Worthing, West Sussex"
     }
 ]
