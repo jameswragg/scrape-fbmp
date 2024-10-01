@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble fireplace surround",
+        "price": "\u00a365",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Marble & resin fireplace",
         "price": "\u00a3150",
         "location": "Hastings, East Sussex"
@@ -113,10 +118,5 @@
         "description": "Black stone fireplace base",
         "price": "\u00a350",
         "location": "Woking"
-    },
-    {
-        "description": "Fireplace surround Free",
-        "price": "Free",
-        "location": "Bursledon"
     }
 ]
