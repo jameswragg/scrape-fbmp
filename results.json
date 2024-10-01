@@ -85,9 +85,19 @@
         "location": "Liss"
     },
     {
+        "description": "Fire place surround",
+        "price": "\u00a3140",
+        "location": "Gosport"
+    },
+    {
         "description": "Black stone fireplace base",
         "price": "\u00a350",
         "location": "Woking"
+    },
+    {
+        "description": "Fireplace surround",
+        "price": "\u00a320",
+        "location": "Bursledon"
     },
     {
         "description": "Marble fire place",
@@ -108,15 +118,5 @@
         "description": "Electric fire with cream surround",
         "price": "\u00a3140",
         "location": "Bognor Regis"
-    },
-    {
-        "description": "Large Edwardian Cast Iron Combination Fireplace/Surround",
-        "price": "\u00a3150",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Stone fireplace and electric fire",
-        "price": "\u00a3100",
-        "location": "Bromley, Bromley, United Kingdom"
     }
 ]
