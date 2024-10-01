@@ -1,5 +1,10 @@
 [
     {
+        "description": "Electric marble fire place",
+        "price": "\u00a3270",
+        "location": "Slough"
+    },
+    {
         "description": "Fireplace",
         "price": "\u00a3250",
         "location": "Eastbourne, East Sussex"
@@ -113,10 +118,5 @@
         "description": "Marble fire place",
         "price": "\u00a3150",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Cast iron fireplace insert",
-        "price": "\u00a3200",
-        "location": "Reigate, Surrey"
     }
 ]
