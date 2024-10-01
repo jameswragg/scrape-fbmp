@@ -45,6 +45,11 @@
         "location": "Horsham"
     },
     {
+        "description": "Fire surround",
+        "price": "\u00a350",
+        "location": "Sonning"
+    },
+    {
         "description": "Electric 2kWh fireplace, mantle and marble hearth",
         "price": "\u00a375",
         "location": "Basingstoke"
@@ -110,13 +115,8 @@
         "location": "Bursledon"
     },
     {
-        "description": "Marble fire place",
-        "price": "\u00a3150",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Marble fire place",
-        "price": "\u00a3150",
-        "location": "Brighton and Hove"
+        "description": "Black Fire Hearth stone slab marble granite",
+        "price": "\u00a350",
+        "location": "Plumpton Green, East Sussex, United Kingdom"
     }
 ]
