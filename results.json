@@ -1,7 +1,12 @@
 [
     {
+        "description": "Marble & resin fireplace",
+        "price": "\u00a3150",
+        "location": "Hastings, East Sussex"
+    },
+    {
         "description": "Electric marble fire place",
-        "price": "\u00a3270",
+        "price": "\u00a3210",
         "location": "Slough"
     },
     {
@@ -113,10 +118,5 @@
         "description": "Fireplace surround Free",
         "price": "Free",
         "location": "Bursledon"
-    },
-    {
-        "description": "Black Fire Hearth stone slab marble granite",
-        "price": "\u00a350",
-        "location": "Plumpton Green, East Sussex, United Kingdom"
     }
 ]
