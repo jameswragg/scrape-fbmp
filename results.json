@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace",
+        "price": "\u00a3250",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
         "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
         "price": "\u00a3100",
         "location": "Lancing, West Sussex"
@@ -113,10 +118,5 @@
         "description": "Cast iron fireplace insert",
         "price": "\u00a3200",
         "location": "Reigate, Surrey"
-    },
-    {
-        "description": "Electric fire with cream surround",
-        "price": "\u00a3140",
-        "location": "Bognor Regis"
     }
 ]
