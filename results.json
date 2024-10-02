@@ -70,9 +70,24 @@
         "location": "Basingstoke"
     },
     {
+        "description": "Fire surround and electric fire",
+        "price": "\u00a3100",
+        "location": "Dartford"
+    },
+    {
         "description": "Marble Adelaid Fire Place & Surround/Hearth - inset gas fire if reqd untested \u00a3225",
         "price": "\u00a3225",
         "location": "Southend-on-Sea"
+    },
+    {
+        "description": "Granite Fire surround",
+        "price": "\u00a3250",
+        "location": "Rickmansworth"
+    },
+    {
+        "description": "Granite Slab",
+        "price": "\u00a350",
+        "location": "Chelmsford, Essex"
     },
     {
         "description": "2 Large Victorian marble mantel piece fireplaces",
@@ -103,20 +118,5 @@
         "description": "Black Marble and wood fireplace",
         "price": "\u00a380",
         "location": "Orpington, Bromley, United Kingdom"
-    },
-    {
-        "description": "Fireplace - Marble and Wood",
-        "price": "\u00a380",
-        "location": "Bexhill, East Sussex"
-    },
-    {
-        "description": "Marble Arch Granite Hearth and Electric Fire - RRP \u00a34600",
-        "price": "\u00a32,500",
-        "location": "Liss"
-    },
-    {
-        "description": "Fire place surround",
-        "price": "\u00a3140",
-        "location": "Gosport"
     }
 ]
