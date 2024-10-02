@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble fire place",
+        "price": "Free",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Marble fireplace",
         "price": "Free",
         "location": "Hassocks"
@@ -113,10 +118,5 @@
         "description": "Marble fireplace surround and hearth",
         "price": "\u00a3250",
         "location": "Windsor, Berkshire"
-    },
-    {
-        "description": "Black Marble and wood fireplace",
-        "price": "\u00a380",
-        "location": "Orpington, Bromley, United Kingdom"
     }
 ]
