@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble Fire Place",
+        "price": "\u00a3100",
+        "location": "Dagenham, United Kingdom"
+    },
+    {
         "description": "Marble fire place",
         "price": "Free",
         "location": "London, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Gazco Logic Inset Gas Fire",
         "price": "\u00a3200",
         "location": "Woking"
-    },
-    {
-        "description": "Marble fireplace surround and hearth",
-        "price": "\u00a3250",
-        "location": "Windsor, Berkshire"
     }
 ]
