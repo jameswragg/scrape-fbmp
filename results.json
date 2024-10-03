@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace & surround",
+        "price": "Free",
+        "location": "Eastleigh"
+    },
+    {
         "description": "Solid Marble Small Fireplace",
         "price": "\u00a375",
         "location": "Winchester, Hampshire"
@@ -113,10 +118,5 @@
         "description": "CARRARA MARBLE INSERT & MARBLE EFFECT CAST FIREPLACE / LOG WOOD BURNER SURROUND",
         "price": "\u00a3500",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Fire place Gas - wood & black marble",
-        "price": "\u00a370",
-        "location": "Stanmore"
     }
 ]
