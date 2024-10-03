@@ -1,5 +1,10 @@
 [
     {
+        "description": "Solid Marble Small Fireplace",
+        "price": "\u00a375",
+        "location": "Winchester, Hampshire"
+    },
+    {
         "description": "Marble Fire Place",
         "price": "\u00a3100",
         "location": "Dagenham, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Fire place Gas - wood & black marble",
         "price": "\u00a370",
         "location": "Stanmore"
-    },
-    {
-        "description": "Gazco Logic Inset Gas Fire",
-        "price": "\u00a3200",
-        "location": "Woking"
     }
 ]
