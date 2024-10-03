@@ -1,5 +1,10 @@
 [
     {
+        "description": "Log Burner with Surrounding Marble Effect Stone",
+        "price": "\u00a3600",
+        "location": "Chichester, West Sussex"
+    },
+    {
         "description": "Marble fire place",
         "price": "\u00a3200",
         "location": "Fareham"
@@ -112,11 +117,6 @@
     {
         "description": "2 Large Victorian marble mantel piece fireplaces",
         "price": "\u00a3850",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "CARRARA MARBLE INSERT & MARBLE EFFECT CAST FIREPLACE / LOG WOOD BURNER SURROUND",
-        "price": "\u00a3500",
         "location": "London, United Kingdom"
     }
 ]
