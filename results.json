@@ -1,5 +1,10 @@
 [
     {
+        "description": "Quartz Granite Marble Kitchen Worktops, Countertops, Islands, Vanity, Fireplaces, BBQ Surrounds, Bar",
+        "price": "\u00a3499",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Log Burner with Surrounding Marble Effect Stone",
         "price": "\u00a3600",
         "location": "Chichester, West Sussex"
@@ -66,7 +71,7 @@
     },
     {
         "description": "Marble fireplace surround",
-        "price": "\u00a3150",
+        "price": "\u00a375",
         "location": "Woodley"
     },
     {
@@ -113,10 +118,5 @@
         "description": "Granite Slab",
         "price": "\u00a350",
         "location": "Chelmsford, Essex"
-    },
-    {
-        "description": "2 Large Victorian marble mantel piece fireplaces",
-        "price": "\u00a3850",
-        "location": "London, United Kingdom"
     }
 ]
