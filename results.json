@@ -20,11 +20,6 @@
         "location": "London, United Kingdom"
     },
     {
-        "description": "Marble fireplace",
-        "price": "Free",
-        "location": "Hassocks"
-    },
-    {
         "description": "Marble fireplace surround",
         "price": "\u00a365",
         "location": "London, United Kingdom"
@@ -118,5 +113,10 @@
         "description": "CARRARA MARBLE INSERT & MARBLE EFFECT CAST FIREPLACE / LOG WOOD BURNER SURROUND",
         "price": "\u00a3500",
         "location": "London, United Kingdom"
+    },
+    {
+        "description": "Fire place Gas - wood & black marble",
+        "price": "\u00a370",
+        "location": "Stanmore"
     }
 ]
