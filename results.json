@@ -10,6 +10,11 @@
         "location": "Chichester, West Sussex"
     },
     {
+        "description": "Fire place",
+        "price": "Free",
+        "location": "Portsmouth"
+    },
+    {
         "description": "Marble fire place",
         "price": "\u00a3200",
         "location": "Fareham"
@@ -113,10 +118,5 @@
         "description": "Granite Fire surround",
         "price": "\u00a3250",
         "location": "Rickmansworth"
-    },
-    {
-        "description": "Granite Slab",
-        "price": "\u00a350",
-        "location": "Chelmsford, Essex"
     }
 ]
