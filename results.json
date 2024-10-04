@@ -40,9 +40,24 @@
         "location": "London, United Kingdom"
     },
     {
+        "description": "Contemporary wood and marble fire surround",
+        "price": "Free",
+        "location": "Seaford, East Sussex"
+    },
+    {
+        "description": "Cast iron arched Fireplace",
+        "price": "\u00a330",
+        "location": "Erith, Greenwich, United Kingdom"
+    },
+    {
         "description": "Marble fireplace surround",
         "price": "\u00a365",
         "location": "London, United Kingdom"
+    },
+    {
+        "description": "Electric fireplace",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
     },
     {
         "description": "Electric marble fire place",
@@ -53,6 +68,11 @@
         "description": "Fireplace",
         "price": "\u00a3250",
         "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Fireplace mantlepiece / shelf",
+        "price": "\u00a3175",
+        "location": "Welling, Bexley, United Kingdom"
     },
     {
         "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
@@ -85,38 +105,18 @@
         "location": "London, United Kingdom"
     },
     {
+        "description": "Victorian Style Arched Cast Iron fireplace",
+        "price": "\u00a3500",
+        "location": "London, United Kingdom"
+    },
+    {
+        "description": "Lime stone fire place surround",
+        "price": "\u00a3200",
+        "location": "Tonbridge, Kent"
+    },
+    {
         "description": "Pair of bronze antique table lamps on green marble base",
         "price": "\u00a3125",
         "location": "Plumpton, East Sussex"
-    },
-    {
-        "description": "Marble Hearth",
-        "price": "\u00a315",
-        "location": "Horsham"
-    },
-    {
-        "description": "Fire surround",
-        "price": "\u00a350",
-        "location": "Sonning"
-    },
-    {
-        "description": "Electric 2kWh fireplace, mantle and marble hearth",
-        "price": "\u00a375",
-        "location": "Basingstoke"
-    },
-    {
-        "description": "Fire surround and electric fire",
-        "price": "\u00a3100",
-        "location": "Dartford"
-    },
-    {
-        "description": "Marble Adelaid Fire Place & Surround/Hearth - inset gas fire if reqd untested \u00a3225",
-        "price": "\u00a3225",
-        "location": "Southend-on-Sea"
-    },
-    {
-        "description": "Granite Fire surround",
-        "price": "\u00a3250",
-        "location": "Rickmansworth"
     }
 ]
