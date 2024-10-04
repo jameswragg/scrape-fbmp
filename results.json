@@ -1,5 +1,15 @@
 [
     {
+        "description": "Whole fireplace",
+        "price": "\u00a3650",
+        "location": "Bognor Regis"
+    },
+    {
+        "description": "Real marble fireplace back panel and hearth",
+        "price": "\u00a3150",
+        "location": "Bognor Regis"
+    },
+    {
         "description": "Wooden surround with marble back",
         "price": "\u00a360",
         "location": "Hythe, Southampton, United Kingdom"
@@ -108,15 +118,5 @@
         "description": "Fireplace",
         "price": "\u00a320",
         "location": "Ilford, Redbridge, United Kingdom"
-    },
-    {
-        "description": "Marble fireplace surround",
-        "price": "\u00a375",
-        "location": "Woodley"
-    },
-    {
-        "description": "Stone fireplace surround",
-        "price": "\u00a3120",
-        "location": "Wickford, Essex"
     }
 ]
