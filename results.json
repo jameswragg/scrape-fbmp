@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble Surround",
+        "price": "\u00a3375",
+        "location": "Godalming"
+    },
+    {
         "description": "Quartz Granite Marble Kitchen Worktops, Countertops, Islands, Vanity, Fireplaces, BBQ Surrounds, Bar",
         "price": "\u00a3499",
         "location": "London, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Lime stone fire place surround",
         "price": "\u00a3200",
         "location": "Tonbridge, Kent"
-    },
-    {
-        "description": "Pair of bronze antique table lamps on green marble base",
-        "price": "\u00a3125",
-        "location": "Plumpton, East Sussex"
     }
 ]
