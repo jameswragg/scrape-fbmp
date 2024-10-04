@@ -1,5 +1,10 @@
 [
     {
+        "description": "Antique French Marble painted Mantlepiece",
+        "price": "\u00a360",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Marble Surround",
         "price": "\u00a3375",
         "location": "Godalming"
@@ -113,10 +118,5 @@
         "description": "Victorian Style Arched Cast Iron fireplace",
         "price": "\u00a3500",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Lime stone fire place surround",
-        "price": "\u00a3200",
-        "location": "Tonbridge, Kent"
     }
 ]
