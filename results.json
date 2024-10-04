@@ -1,12 +1,17 @@
 [
     {
+        "description": "Fireplace e",
+        "price": "\u00a360",
+        "location": "Sandown, Isle Of Wight, United Kingdom"
+    },
+    {
         "description": "Whole fireplace",
-        "price": "\u00a3650",
+        "price": "\u00a3450",
         "location": "Bognor Regis"
     },
     {
         "description": "Real marble fireplace back panel and hearth",
-        "price": "\u00a3150",
+        "price": "\u00a3100",
         "location": "Bognor Regis"
     },
     {
@@ -73,11 +78,6 @@
         "description": "Contemporary wood and marble fire surround",
         "price": "Free",
         "location": "Seaford, East Sussex"
-    },
-    {
-        "description": "Cast iron arched Fireplace",
-        "price": "\u00a330",
-        "location": "Erith, Greenwich, United Kingdom"
     },
     {
         "description": "Marble fireplace surround",
