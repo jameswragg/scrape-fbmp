@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble fireplace surround and surround frame",
+        "price": "\u00a350",
+        "location": "Hedge End"
+    },
+    {
         "description": "Antique French Marble painted Mantlepiece",
         "price": "\u00a360",
         "location": "London, United Kingdom"
@@ -112,11 +117,6 @@
     {
         "description": "Louis Pompadour Carrara Marble Fireplace( Collection Wandsworth)",
         "price": "\u00a31,500",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Victorian Style Arched Cast Iron fireplace",
-        "price": "\u00a3500",
         "location": "London, United Kingdom"
     }
 ]
