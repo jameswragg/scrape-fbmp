@@ -1,5 +1,10 @@
 [
     {
+        "description": "Wooden surround with marble back",
+        "price": "\u00a360",
+        "location": "Hythe, Southampton, United Kingdom"
+    },
+    {
         "description": "Marble fireplace surround and surround frame",
         "price": "\u00a350",
         "location": "Hedge End"
@@ -113,10 +118,5 @@
         "description": "Stone fireplace surround",
         "price": "\u00a3120",
         "location": "Wickford, Essex"
-    },
-    {
-        "description": "Louis Pompadour Carrara Marble Fireplace( Collection Wandsworth)",
-        "price": "\u00a31,500",
-        "location": "London, United Kingdom"
     }
 ]
