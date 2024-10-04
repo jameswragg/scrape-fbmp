@@ -75,6 +75,11 @@
         "location": "Woodley"
     },
     {
+        "description": "Stone fireplace surround",
+        "price": "\u00a3120",
+        "location": "Wickford, Essex"
+    },
+    {
         "description": "Louis Pompadour Carrara Marble Fireplace( Collection Wandsworth)",
         "price": "\u00a31,500",
         "location": "London, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Granite Fire surround",
         "price": "\u00a3250",
         "location": "Rickmansworth"
-    },
-    {
-        "description": "Granite Slab",
-        "price": "\u00a350",
-        "location": "Chelmsford, Essex"
     }
 ]
