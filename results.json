@@ -65,6 +65,11 @@
         "location": "Havant"
     },
     {
+        "description": "Fire surround",
+        "price": "\u00a340",
+        "location": "Southampton"
+    },
+    {
         "description": "Fireplace & surround",
         "price": "Free",
         "location": "Eastleigh"
@@ -73,6 +78,11 @@
         "description": "Solid Marble Small Fireplace",
         "price": "\u00a375",
         "location": "Winchester, Hampshire"
+    },
+    {
+        "description": "Fireplace",
+        "price": "\u00a3150",
+        "location": "Rickmansworth"
     },
     {
         "description": "Marble Fire Place",
@@ -95,11 +105,6 @@
         "location": "London, United Kingdom"
     },
     {
-        "description": "Electric fireplace",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Electric marble fire place",
         "price": "\u00a3175",
         "location": "Slough"
@@ -113,10 +118,5 @@
         "description": "Fireplace mantlepiece / shelf",
         "price": "\u00a3175",
         "location": "Welling, Bexley, United Kingdom"
-    },
-    {
-        "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
-        "price": "\u00a350",
-        "location": "Lancing, West Sussex"
     }
 ]
