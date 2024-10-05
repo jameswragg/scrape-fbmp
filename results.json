@@ -1,5 +1,10 @@
 [
     {
+        "description": "Black marble fireplace surround and hearth",
+        "price": "\u00a3300",
+        "location": "London, United Kingdom"
+    },
+    {
         "description": "Fireplace e",
         "price": "\u00a360",
         "location": "Sandown, Isle Of Wight, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Marble fireplace & electric fire",
         "price": "\u00a380",
         "location": "Longfield"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a320",
-        "location": "Ilford, Redbridge, United Kingdom"
     }
 ]
