@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace (gas fire, marble surround and mantle).",
+        "price": "Free",
+        "location": "Wargrave"
+    },
+    {
         "description": "FREE\u2026..Wooden fire place with marble surround.",
         "price": "Free",
         "location": "Peacehaven"
@@ -113,10 +118,5 @@
         "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
         "price": "\u00a350",
         "location": "Lancing, West Sussex"
-    },
-    {
-        "description": "Marble fireplace & electric fire",
-        "price": "\u00a380",
-        "location": "Longfield"
     }
 ]
