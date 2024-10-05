@@ -55,11 +55,6 @@
         "location": "Chichester, West Sussex"
     },
     {
-        "description": "Marble fire place",
-        "price": "\u00a3200",
-        "location": "Fareham"
-    },
-    {
         "description": "Dalton Solid Matt Oak Fireplace Surround, Marble Hearth, Logic HE Balanced flue gas fire",
         "price": "\u00a3150",
         "location": "Havant"
@@ -118,5 +113,10 @@
         "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
         "price": "\u00a350",
         "location": "Lancing, West Sussex"
+    },
+    {
+        "description": "Marble fireplace & electric fire",
+        "price": "\u00a380",
+        "location": "Longfield"
     }
 ]
