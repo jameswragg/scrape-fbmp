@@ -1,5 +1,15 @@
 [
     {
+        "description": "Fireplace",
+        "price": "\u00a350",
+        "location": "West Malling, Kent"
+    },
+    {
+        "description": "Fire place - surround, fire & marble hearth",
+        "price": "\u00a3100",
+        "location": "Dartford"
+    },
+    {
         "description": "Fireplace (gas fire, marble surround and mantle).",
         "price": "Free",
         "location": "Wargrave"
@@ -80,11 +90,6 @@
         "location": "Winchester, Hampshire"
     },
     {
-        "description": "Fireplace",
-        "price": "Pending",
-        "location": "Rickmansworth"
-    },
-    {
         "description": "Marble Fire Place",
         "price": "\u00a3100",
         "location": "Dagenham, United Kingdom"
@@ -113,10 +118,5 @@
         "description": "Fireplace",
         "price": "\u00a395",
         "location": "Eastbourne, East Sussex"
-    },
-    {
-        "description": "Fireplace mantlepiece / shelf",
-        "price": "\u00a3175",
-        "location": "Welling, Bexley, United Kingdom"
     }
 ]
