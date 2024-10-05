@@ -1,5 +1,10 @@
 [
     {
+        "description": "Electric fireplace",
+        "price": "\u00a350",
+        "location": "Fleet, Hampshire"
+    },
+    {
         "description": "Fireplace",
         "price": "\u00a350",
         "location": "West Malling, Kent"
@@ -113,10 +118,5 @@
         "description": "Electric marble fire place",
         "price": "\u00a3175",
         "location": "Slough"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a395",
-        "location": "Eastbourne, East Sussex"
     }
 ]
