@@ -1,113 +1,8 @@
 [
     {
-        "description": "Marble fireplace surround and base",
-        "price": "\u00a370",
-        "location": "Hythe, Southampton, United Kingdom"
-    },
-    {
-        "description": "Electric fireplace",
-        "price": "\u00a350",
-        "location": "Fleet, Hampshire"
-    },
-    {
-        "description": "Fireplace",
-        "price": "\u00a350",
-        "location": "West Malling, Kent"
-    },
-    {
-        "description": "Fire place - surround, fire & marble hearth",
-        "price": "\u00a3100",
-        "location": "Dartford"
-    },
-    {
-        "description": "Fireplace (gas fire, marble surround and mantle).",
-        "price": "Free",
-        "location": "Wargrave"
-    },
-    {
         "description": "FREE\u2026..Wooden fire place with marble surround.",
         "price": "Free",
         "location": "Peacehaven"
-    },
-    {
-        "description": "Black marble fireplace surround and hearth",
-        "price": "\u00a3300",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Fireplace e",
-        "price": "\u00a360",
-        "location": "Sandown, Isle Of Wight, United Kingdom"
-    },
-    {
-        "description": "Whole fireplace",
-        "price": "\u00a3330",
-        "location": "Bognor Regis"
-    },
-    {
-        "description": "Real marble fireplace back panel and hearth",
-        "price": "\u00a380",
-        "location": "Bognor Regis"
-    },
-    {
-        "description": "Wooden surround with marble back",
-        "price": "\u00a360",
-        "location": "Hythe, Southampton, United Kingdom"
-    },
-    {
-        "description": "Marble fireplace surround and surround frame",
-        "price": "\u00a350",
-        "location": "Hedge End"
-    },
-    {
-        "description": "Antique French Marble painted Mantlepiece",
-        "price": "\u00a360",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Marble Surround",
-        "price": "\u00a3375",
-        "location": "Godalming"
-    },
-    {
-        "description": "Quartz Granite Marble Kitchen Worktops, Countertops, Islands, Vanity, Fireplaces, BBQ Surrounds, Bar",
-        "price": "\u00a3499",
-        "location": "London, United Kingdom"
-    },
-    {
-        "description": "Log Burner with Surrounding Marble Effect Stone",
-        "price": "\u00a3600",
-        "location": "Chichester, West Sussex"
-    },
-    {
-        "description": "Dalton Solid Matt Oak Fireplace Surround, Marble Hearth, Logic HE Balanced flue gas fire",
-        "price": "\u00a3150",
-        "location": "Havant"
-    },
-    {
-        "description": "Fire surround",
-        "price": "\u00a340",
-        "location": "Southampton"
-    },
-    {
-        "description": "Fireplace & surround",
-        "price": "Free",
-        "location": "Eastleigh"
-    },
-    {
-        "description": "Solid Marble Small Fireplace",
-        "price": "\u00a375",
-        "location": "Winchester, Hampshire"
-    },
-    {
-        "description": "Marble Fire Place",
-        "price": "\u00a3100",
-        "location": "Dagenham, United Kingdom"
-    },
-    {
-        "description": "Marble fire place",
-        "price": "Free",
-        "location": "London, United Kingdom"
     },
     {
         "description": "Contemporary wood and marble fire surround",
@@ -115,8 +10,113 @@
         "location": "Seaford, East Sussex"
     },
     {
-        "description": "Marble fireplace surround",
-        "price": "\u00a365",
-        "location": "London, United Kingdom"
+        "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
+        "price": "\u00a350",
+        "location": "Lancing, West Sussex"
+    },
+    {
+        "description": "Wooden fireplace surround",
+        "price": "\u00a320",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Pair of bronze antique table lamps on green marble base",
+        "price": "\u00a3125",
+        "location": "Plumpton, East Sussex"
+    },
+    {
+        "description": "Marble fire hearth back panel and basket",
+        "price": "\u00a320",
+        "location": "Seaford, East Sussex"
+    },
+    {
+        "description": "Marble Hearth",
+        "price": "\u00a330",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Marble fire place",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Marble fire place",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
+        "price": "\u00a315",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
+        "price": "\u00a315",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "1 box of porcelain sage green tiles",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace Hearth and Surround",
+        "price": "\u00a3120",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Dimplex Fireplace & Surround",
+        "price": "\u00a350",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Fireplace",
+        "price": "\u00a3200",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace with marble hearth",
+        "price": "\u00a375",
+        "location": "Lewes, East Sussex"
+    },
+    {
+        "description": "Stone Fire Surround",
+        "price": "Free",
+        "location": "Uckfield"
+    },
+    {
+        "description": "Marble Fire place with electric fire",
+        "price": "\u00a3380",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Marble",
+        "price": "Free",
+        "location": "Peacehaven"
+    },
+    {
+        "description": "Antique Victorian firepl",
+        "price": "\u00a3110",
+        "location": "Henfield"
+    },
+    {
+        "description": "Victorian cast iron fireplace",
+        "price": "\u00a3150",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Electric fire",
+        "price": "\u00a325",
+        "location": "Peacehaven"
+    },
+    {
+        "description": "Wooden and marble fire surround",
+        "price": "\u00a330",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Complete Fireplace,Mantle & Hearth(granite)",
+        "price": "\u00a3250",
+        "location": "Worthing, West Sussex"
     }
 ]
