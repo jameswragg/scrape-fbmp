@@ -5,6 +5,11 @@
         "location": "Peacehaven"
     },
     {
+        "description": "Repro Cast iron Victorian fireplace fully intact with fireback",
+        "price": "\u00a3500",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Contemporary wood and marble fire surround",
         "price": "Free",
         "location": "Seaford, East Sussex"
@@ -112,11 +117,6 @@
     {
         "description": "Wooden and marble fire surround",
         "price": "\u00a330",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Complete Fireplace,Mantle & Hearth(granite)",
-        "price": "\u00a3250",
         "location": "Worthing, West Sussex"
     }
 ]
