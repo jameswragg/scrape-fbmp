@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble fireplace surround and base",
+        "price": "\u00a370",
+        "location": "Hythe, Southampton, United Kingdom"
+    },
+    {
         "description": "Electric fireplace",
         "price": "\u00a350",
         "location": "Fleet, Hampshire"
@@ -113,10 +118,5 @@
         "description": "Marble fireplace surround",
         "price": "\u00a365",
         "location": "London, United Kingdom"
-    },
-    {
-        "description": "Electric marble fire place",
-        "price": "\u00a3175",
-        "location": "Slough"
     }
 ]
