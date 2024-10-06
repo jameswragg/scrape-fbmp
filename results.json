@@ -30,11 +30,6 @@
         "location": "Plumpton, East Sussex"
     },
     {
-        "description": "Marble fire hearth back panel and basket",
-        "price": "Sold",
-        "location": "Seaford, East Sussex"
-    },
-    {
         "description": "Marble Hearth",
         "price": "\u00a330",
         "location": "Worthing, West Sussex"
@@ -117,6 +112,11 @@
     {
         "description": "Wooden and marble fire surround",
         "price": "\u00a330",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Complete Fireplace,Mantle & Hearth(granite)",
+        "price": "\u00a3250",
         "location": "Worthing, West Sussex"
     }
 ]
