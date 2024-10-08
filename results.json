@@ -25,6 +25,11 @@
         "location": "Plumpton, East Sussex"
     },
     {
+        "description": "Granite Worktop taken from a kitchen",
+        "price": "\u00a350",
+        "location": "Worthing, West Sussex"
+    },
+    {
         "description": "Marble Hearth",
         "price": "\u00a330",
         "location": "Worthing, West Sussex"
@@ -107,11 +112,6 @@
     {
         "description": "Wooden and marble fire surround",
         "price": "\u00a330",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Complete Fireplace,Mantle & Hearth(granite)",
-        "price": "\u00a3250",
         "location": "Worthing, West Sussex"
     },
     {
