@@ -1,10 +1,5 @@
 [
     {
-        "description": "FREE\u2026..Wooden fire place with marble surround.",
-        "price": "Free",
-        "location": "Peacehaven"
-    },
-    {
         "description": "Repro Cast iron Victorian fireplace fully intact with fireback",
         "price": "\u00a3500",
         "location": "Brighton and Hove"
@@ -105,11 +100,6 @@
         "location": "Worthing, West Sussex"
     },
     {
-        "description": "Electric fire",
-        "price": "\u00a325",
-        "location": "Peacehaven"
-    },
-    {
         "description": "Wooden and marble fire surround",
         "price": "\u00a330",
         "location": "Worthing, West Sussex"
@@ -118,5 +108,15 @@
         "description": "Fire place",
         "price": "\u00a3150",
         "location": "Lewes, East Sussex"
+    },
+    {
+        "description": "Marble",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
+        "price": "\u00a315",
+        "location": "Burgess Hill"
     }
 ]
