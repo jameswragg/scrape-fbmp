@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace",
+        "price": "\u00a360",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Repro Cast iron Victorian fireplace fully intact with fireback",
         "price": "\u00a3500",
         "location": "Brighton and Hove"
@@ -113,10 +118,5 @@
         "description": "Marble",
         "price": "\u00a330",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
-        "price": "\u00a315",
-        "location": "Burgess Hill"
     }
 ]
