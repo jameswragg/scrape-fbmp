@@ -19,11 +19,7 @@
         "price": "\u00a315",
         "location": "Burgess Hill"
     },
-    {
-        "description": "Pair of bronze antique table lamps on green marble base",
-        "price": "\u00a3125",
-        "location": "Plumpton, East Sussex"
-    },
+    null,
     {
         "description": "Granite Worktop taken from a kitchen",
         "price": "\u00a350",
