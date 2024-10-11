@@ -109,11 +109,7 @@
         "price": "\u00a330",
         "location": "Worthing, West Sussex"
     },
-    {
-        "description": "Fire place",
-        "price": "\u00a3150",
-        "location": "Lewes, East Sussex"
-    },
+    null,
     {
         "description": "Marble",
         "price": "\u00a330",
