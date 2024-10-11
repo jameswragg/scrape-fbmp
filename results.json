@@ -4,11 +4,7 @@
         "price": "\u00a360",
         "location": "Brighton and Hove"
     },
-    {
-        "description": "Repro Cast iron Victorian fireplace fully intact with fireback",
-        "price": "\u00a3500",
-        "location": "Brighton and Hove"
-    },
+    null,
     {
         "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
         "price": "\u00a350",
@@ -34,11 +30,7 @@
         "price": "\u00a330",
         "location": "Worthing, West Sussex"
     },
-    {
-        "description": "Marble fire place",
-        "price": "\u00a3150",
-        "location": "Brighton and Hove"
-    },
+    null,
     {
         "description": "Marble fire place",
         "price": "\u00a3150",
