@@ -1,5 +1,10 @@
 [
     {
+        "description": "Gas fire and surroundings",
+        "price": "\u00a350",
+        "location": "Shoreham-by-Sea"
+    },
+    {
         "description": "Repro Cast iron Victorian fireplace fully intact with fireback",
         "price": "\u00a3500",
         "location": "Brighton and Hove"
@@ -113,10 +118,5 @@
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
-    },
-    {
-        "description": "Minster fireplace surround",
-        "price": "\u00a3150",
-        "location": "Worthing, West Sussex"
     }
 ]
