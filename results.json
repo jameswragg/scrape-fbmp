@@ -10,11 +10,6 @@
         "location": "Lancing, West Sussex"
     },
     {
-        "description": "Wooden fireplace surround",
-        "price": "\u00a315",
-        "location": "Burgess Hill"
-    },
-    {
         "description": "Pair of bronze antique table lamps on green marble base",
         "price": "\u00a3125",
         "location": "Plumpton, East Sussex"
@@ -118,5 +113,10 @@
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
+    },
+    {
+        "description": "Minster fireplace surround",
+        "price": "\u00a3150",
+        "location": "Worthing, West Sussex"
     }
 ]
