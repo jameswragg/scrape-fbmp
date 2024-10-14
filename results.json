@@ -1,5 +1,10 @@
 [
     {
+        "description": "Ceramic Fire Surround, Mantle Piece and Hearth",
+        "price": "Free",
+        "location": "Storrington, West Sussex"
+    },
+    {
         "description": "Repro Cast iron Victorian fireplace fully intact with fireback",
         "price": "\u00a3500",
         "location": "Brighton and Hove"
@@ -90,14 +95,14 @@
         "location": "Henfield"
     },
     {
-        "description": "Victorian cast iron fireplace",
-        "price": "\u00a3150",
-        "location": "Worthing, West Sussex"
-    },
-    {
         "description": "Wooden and marble fire surround",
         "price": "\u00a330",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Black slate - fireplace hearth 850mm x 420mm x 30mm",
+        "price": "\u00a395",
+        "location": "Brighton and Hove"
     },
     {
         "description": "Fire place",
@@ -113,10 +118,5 @@
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
-    },
-    {
-        "description": "Minster fireplace surround",
-        "price": "\u00a3150",
-        "location": "Worthing, West Sussex"
     }
 ]
