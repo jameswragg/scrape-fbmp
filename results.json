@@ -35,11 +35,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Marble fire place",
-        "price": "\u00a3150",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
         "price": "\u00a315",
         "location": "Worthing, West Sussex"
@@ -118,5 +113,10 @@
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
+    },
+    {
+        "description": "Minster fireplace surround",
+        "price": "\u00a3150",
+        "location": "Worthing, West Sussex"
     }
 ]
