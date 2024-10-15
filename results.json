@@ -85,11 +85,6 @@
         "location": "Lewes, East Sussex"
     },
     {
-        "description": "Stone Fire Surround",
-        "price": "Sold",
-        "location": "Uckfield"
-    },
-    {
         "description": "Marble Fire place with electric fire",
         "price": "\u00a3380",
         "location": "Worthing, West Sussex"
@@ -118,5 +113,10 @@
         "description": "Marble",
         "price": "\u00a330",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
+        "price": "\u00a315",
+        "location": "Burgess Hill"
     }
 ]
