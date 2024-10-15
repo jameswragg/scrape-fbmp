@@ -1,5 +1,10 @@
 [
     {
+        "description": "Antique Marble Fireplace (approx 1840)",
+        "price": "\u00a32,000",
+        "location": "Worthing, West Sussex"
+    },
+    {
         "description": "Gas fire and surroundings",
         "price": "\u00a350",
         "location": "Shoreham-by-Sea"
@@ -113,10 +118,5 @@
         "description": "Marble",
         "price": "\u00a330",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
-        "price": "\u00a315",
-        "location": "Burgess Hill"
     }
 ]
