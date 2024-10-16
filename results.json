@@ -105,6 +105,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Black slate - fireplace hearth 850mm x 420mm x 30mm",
+        "price": "\u00a395",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Fire place",
         "price": "\u00a3150",
         "location": "Lewes, East Sussex"
@@ -113,10 +118,5 @@
         "description": "Marble",
         "price": "\u00a330",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
-        "price": "\u00a315",
-        "location": "Burgess Hill"
     }
 ]
