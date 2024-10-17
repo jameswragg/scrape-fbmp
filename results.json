@@ -1,10 +1,5 @@
 [
     {
-        "description": "Fire place",
-        "price": "\u00a3150",
-        "location": "Burgess Hill"
-    },
-    {
         "description": "3 pcs of pink marble",
         "price": "\u00a320",
         "location": "Brighton and Hove"
@@ -118,5 +113,10 @@
         "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
         "price": "\u00a315",
         "location": "Burgess Hill"
+    },
+    {
+        "description": "Minster fireplace surround",
+        "price": "\u00a3150",
+        "location": "Worthing, West Sussex"
     }
 ]
