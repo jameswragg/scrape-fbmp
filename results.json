@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fire place",
+        "price": "\u00a3150",
+        "location": "Burgess Hill"
+    },
+    {
         "description": "3 pcs of pink marble",
         "price": "\u00a320",
         "location": "Brighton and Hove"
@@ -33,11 +38,6 @@
         "description": "Pair of bronze antique table lamps on green marble base",
         "price": "\u00a3125",
         "location": "Plumpton, East Sussex"
-    },
-    {
-        "description": "Granite Worktop taken from a kitchen",
-        "price": "\u00a350",
-        "location": "Worthing, West Sussex"
     },
     {
         "description": "Marble Hearth",
