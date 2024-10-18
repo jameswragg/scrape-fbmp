@@ -10,11 +10,6 @@
         "location": "Peacehaven"
     },
     {
-        "description": "Fire place",
-        "price": "\u00a3150",
-        "location": "Burgess Hill"
-    },
-    {
         "description": "3 pcs of pink marble",
         "price": "\u00a320",
         "location": "Brighton and Hove"
@@ -118,5 +113,10 @@
         "description": "Fire place",
         "price": "\u00a3150",
         "location": "Lewes, East Sussex"
+    },
+    {
+        "description": "Marble",
+        "price": "\u00a330",
+        "location": "Brighton and Hove"
     }
 ]
