@@ -10,6 +10,11 @@
         "location": "Peacehaven"
     },
     {
+        "description": "Fire place",
+        "price": "\u00a3150",
+        "location": "Burgess Hill"
+    },
+    {
         "description": "Antique Marble Fireplace (approx 1840)",
         "price": "\u00a32,000",
         "location": "Worthing, West Sussex"
@@ -113,10 +118,5 @@
         "description": "Marble",
         "price": "\u00a330",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Vintage Natural Polished Rose/Pink Marble Fire Place Surround",
-        "price": "\u00a315",
-        "location": "Burgess Hill"
     }
 ]
