@@ -70,6 +70,11 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Wooden mantelpiece",
+        "price": "\u00a360",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "1 box of porcelain sage green tiles",
         "price": "\u00a330",
         "location": "Brighton and Hove"
@@ -113,10 +118,5 @@
         "description": "Fire place",
         "price": "\u00a3150",
         "location": "Lewes, East Sussex"
-    },
-    {
-        "description": "Marble",
-        "price": "\u00a330",
-        "location": "Brighton and Hove"
     }
 ]
