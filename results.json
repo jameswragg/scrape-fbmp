@@ -20,13 +20,18 @@
         "location": "Worthing, West Sussex"
     },
     {
+        "description": "Victorian cast iron fireplace",
+        "price": "\u00a375",
+        "location": "Haslemere"
+    },
+    {
         "description": "Fireplace suite",
         "price": "\u00a3100",
         "location": "Peacehaven"
     },
     {
         "description": "Real marble fireplace back panel",
-        "price": "\u00a340",
+        "price": "\u00a330",
         "location": "Haslemere"
     },
     {
@@ -83,11 +88,6 @@
         "description": "Marble fire place surround with electric fire",
         "price": "\u00a320",
         "location": "Chichester, West Sussex"
-    },
-    {
-        "description": "Black marble floor slab",
-        "price": "\u00a340",
-        "location": "Portsmouth"
     },
     {
         "description": "Gas Fireplace",
