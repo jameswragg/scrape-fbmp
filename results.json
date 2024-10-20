@@ -1,5 +1,10 @@
 [
     {
+        "description": "Marble Fireplace",
+        "price": "\u00a3550",
+        "location": "Byfleet"
+    },
+    {
         "description": "Marble Fireplace Back Panel & Hearth and Wooden Mantle Piece - Free",
         "price": "Free",
         "location": "Crawley"
@@ -113,10 +118,5 @@
         "description": "Log Burner with Surrounding Marble Effect Stone",
         "price": "\u00a3400",
         "location": "Chichester, West Sussex"
-    },
-    {
-        "description": "Mandarin Stone Calacatta vein honed marble tiles",
-        "price": "\u00a310",
-        "location": "Banstead"
     }
 ]
