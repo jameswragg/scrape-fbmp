@@ -35,11 +35,6 @@
         "location": "Burgess Hill"
     },
     {
-        "description": "Fireplace surround and Hearth",
-        "price": "\u00a360",
-        "location": "Horley"
-    },
-    {
         "description": "Antique Marble Fireplace (approx 1840)",
         "price": "\u00a32,000",
         "location": "Worthing, West Sussex"
@@ -118,5 +113,10 @@
         "description": "Marble Surround",
         "price": "\u00a3375",
         "location": "Godalming"
+    },
+    {
+        "description": "Log Burner with Surrounding Marble Effect Stone",
+        "price": "\u00a3400",
+        "location": "Chichester, West Sussex"
     }
 ]
