@@ -90,6 +90,11 @@
         "location": "Chichester, West Sussex"
     },
     {
+        "description": "Black marble floor slab",
+        "price": "\u00a340",
+        "location": "Portsmouth"
+    },
+    {
         "description": "Gas Fireplace",
         "price": "\u00a3150",
         "location": "Horley"
@@ -113,10 +118,5 @@
         "description": "Marble Surround",
         "price": "\u00a3375",
         "location": "Godalming"
-    },
-    {
-        "description": "Log Burner with Surrounding Marble Effect Stone",
-        "price": "\u00a3400",
-        "location": "Chichester, West Sussex"
     }
 ]
