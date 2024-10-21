@@ -29,11 +29,7 @@
         "price": "\u00a360",
         "location": "Brighton and Hove"
     },
-    {
-        "description": "Fireplace with marble hearth",
-        "price": "\u00a375",
-        "location": "Lewes, East Sussex"
-    },
+    null,
     {
         "description": "Fire place",
         "price": "\u00a3150",
