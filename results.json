@@ -9,7 +9,11 @@
         "price": "\u00a3200",
         "location": "Brighton and Hove"
     },
-    null,
+    {
+        "description": "Pair of bronze antique table lamps on green marble base",
+        "price": "\u00a3125",
+        "location": "Plumpton, East Sussex"
+    },
     {
         "description": "Marble fire place",
         "price": "\u00a3150",
@@ -26,6 +30,11 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Fireplace",
+        "price": "\u00a3200",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Fireplace with marble hearth",
         "price": "\u00a375",
         "location": "Lewes, East Sussex"
@@ -38,6 +47,11 @@
     {
         "description": "Marble",
         "price": "\u00a330",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace free collection today",
+        "price": "Free",
         "location": "Brighton and Hove"
     }
 ]
