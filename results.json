@@ -5,14 +5,34 @@
         "location": "Peacehaven"
     },
     {
+        "description": "Fire place",
+        "price": "\u00a3150",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Gas fire and surroundings",
+        "price": "\u00a350",
+        "location": "Shoreham-by-Sea"
+    },
+    {
         "description": "Repro Cast iron Victorian fireplace fully intact with fireback",
         "price": "\u00a3200",
         "location": "Brighton and Hove"
     },
     {
+        "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
+        "price": "\u00a350",
+        "location": "Lancing, West Sussex"
+    },
+    {
         "description": "Pair of bronze antique table lamps on green marble base",
         "price": "\u00a3125",
         "location": "Plumpton, East Sussex"
+    },
+    {
+        "description": "Marble Hearth",
+        "price": "\u00a330",
+        "location": "Worthing, West Sussex"
     },
     {
         "description": "Marble fire place",
@@ -30,9 +50,24 @@
         "location": "Brighton and Hove"
     },
     {
+        "description": "Fireplace Hearth and Surround",
+        "price": "\u00a3120",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Dimplex Fireplace & Surround",
+        "price": "\u00a350",
+        "location": "Worthing, West Sussex"
+    },
+    {
         "description": "Fireplace with marble hearth",
         "price": "\u00a375",
         "location": "Lewes, East Sussex"
+    },
+    {
+        "description": "Antique Victorian firepl",
+        "price": "\u00a3110",
+        "location": "Henfield"
     },
     {
         "description": "Fire place",
