@@ -1,5 +1,10 @@
 [
     {
+        "description": "Electric Fireplace",
+        "price": "\u00a3150",
+        "location": "Haywards Heath"
+    },
+    {
         "description": "Clock mantle solid marble",
         "price": "\u00a335",
         "location": "Brighton and Hove"
