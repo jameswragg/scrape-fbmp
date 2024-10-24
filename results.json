@@ -35,11 +35,6 @@
         "location": "Worthing, West Sussex"
     },
     {
-        "description": "Marble Fireplace Back Panel & Hearth and Wooden Mantle Piece - Free",
-        "price": "Free",
-        "location": "Crawley"
-    },
-    {
         "description": "Colin Parker Marble Fire Surround & Hearth",
         "price": "\u00a3300",
         "location": "Worthing, West Sussex"
@@ -103,5 +98,25 @@
         "description": "Marble fire place",
         "price": "\u00a3150",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Marble fire place",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Wooden mantelpiece",
+        "price": "\u00a360",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Fireplace Hearth and Surround",
+        "price": "\u00a3120",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Dimplex Fireplace & Surround",
+        "price": "\u00a350",
+        "location": "Worthing, West Sussex"
     }
 ]
