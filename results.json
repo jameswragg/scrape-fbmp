@@ -103,5 +103,20 @@
         "description": "Marble Hearth",
         "price": "\u00a330",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Marble fire place",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Marble fire place",
+        "price": "\u00a3150",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Wooden mantelpiece",
+        "price": "\u00a360",
+        "location": "Brighton and Hove"
     }
 ]
