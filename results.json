@@ -1,13 +1,38 @@
 [
     {
+        "description": "Marble fireplace gas",
+        "price": "\u00a390",
+        "location": "Chichester, West Sussex"
+    },
+    {
         "description": "Beautiful green marble fireplace with surround",
         "price": "\u00a350",
         "location": "Littlehampton"
     },
     {
+        "description": "Fireplace surround, hearth and back panel",
+        "price": "\u00a380",
+        "location": "Reigate, Surrey"
+    },
+    {
+        "description": "Brand New Marble Fireplace Pieces",
+        "price": "\u00a3150",
+        "location": "Chichester, West Sussex"
+    },
+    {
         "description": "Oak fire surround fire",
         "price": "\u00a380",
         "location": "Polegate"
+    },
+    {
+        "description": "Fire place",
+        "price": "\u00a350",
+        "location": "Saint Leonards, East Sussex, United Kingdom"
+    },
+    {
+        "description": "FREE marble fireplace base. Must collect today before 3pm. 121.5cm x 38cm x 6cm",
+        "price": "Free",
+        "location": "Petersfield"
     },
     {
         "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
@@ -25,11 +50,21 @@
         "location": "Haywards Heath"
     },
     {
+        "description": "Marble hearth. 1-2m long by 380 wide by 30 mm thick",
+        "price": "\u00a330",
+        "location": "Chichester, West Sussex"
+    },
+    {
         "description": "Clock mantle solid marble",
         "price": "\u00a325",
         "location": "Brighton and Hove"
     },
     {
+        "description": "Slate and marble Victorian fireplace surround",
+        "price": "\u00a3130",
+        "location": "Haslemere"
+    },
+    {
         "description": "French Style Marble Fireplace Mantel.",
         "price": "\u00a360",
         "location": "Worthing, West Sussex"
@@ -38,11 +73,26 @@
         "description": "French Style Marble Fireplace Mantel.",
         "price": "\u00a360",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Fireplace - Oak effect/black marble with electric fire",
+        "price": "\u00a3110",
+        "location": "Emsworth"
     },
     {
         "description": "French Style Marble Fireplace Mantel.",
         "price": "\u00a3150",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Fireplace Companion Set. Marble and brass. 4 piece. Very good condition",
+        "price": "\u00a335",
+        "location": "Dorking"
+    },
+    {
+        "description": "Electric fireplace and surround",
+        "price": "Free",
+        "location": "Chichester, West Sussex"
     },
     {
         "description": "Marble Fire Surround & Hearth - by Colin Parker",
@@ -53,70 +103,5 @@
         "description": "Fireplace suite",
         "price": "\u00a3100",
         "location": "Peacehaven"
-    },
-    {
-        "description": "Electric Fireplace",
-        "price": "\u00a330",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Fire place",
-        "price": "\u00a3100",
-        "location": "Burgess Hill"
-    },
-    {
-        "description": "Fireplace Surround",
-        "price": "\u00a3290",
-        "location": "Goring by Sea"
-    },
-    {
-        "description": "Gas fire and surroundings",
-        "price": "\u00a350",
-        "location": "Shoreham-by-Sea"
-    },
-    {
-        "description": "Stone fire surround",
-        "price": "\u00a330",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Gas Fireplace",
-        "price": "\u00a3150",
-        "location": "Horley"
-    },
-    {
-        "description": "Repro Cast iron Victorian fireplace fully intact with fireback",
-        "price": "\u00a3200",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Antique art deco Fireplace tiles & ash tray slot H&G Thynne marble & iridescent shine",
-        "price": "\u00a350",
-        "location": "Lancing, West Sussex"
-    },
-    {
-        "description": "Wood Burning Stove - Arada UK",
-        "price": "\u00a380",
-        "location": "Lewes, East Sussex"
-    },
-    {
-        "description": "Pair of bronze antique table lamps on green marble base",
-        "price": "\u00a3125",
-        "location": "Plumpton, East Sussex"
-    },
-    {
-        "description": "Marble Hearth",
-        "price": "\u00a315",
-        "location": "Horsham"
-    },
-    {
-        "description": "Marble Hearth",
-        "price": "\u00a330",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Marble fire place",
-        "price": "\u00a3150",
-        "location": "Brighton and Hove"
     }
 ]
