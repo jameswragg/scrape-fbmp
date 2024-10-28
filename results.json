@@ -5,11 +5,6 @@
         "location": "Eastbourne, East Sussex"
     },
     {
-        "description": "Vintage lion console legs pair.",
-        "price": "\u00a3500",
-        "location": "Royal Tunbridge Wells"
-    },
-    {
         "description": "Marble fireplace gas",
         "price": "\u00a390",
         "location": "Chichester, West Sussex"
@@ -103,5 +98,25 @@
         "description": "Electric fireplace and surround",
         "price": "Free",
         "location": "Chichester, West Sussex"
+    },
+    {
+        "description": "Marble Fire Surround & Hearth - by Colin Parker",
+        "price": "\u00a3300",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Fireplace suite",
+        "price": "\u00a3100",
+        "location": "Peacehaven"
+    },
+    {
+        "description": "Lovely solid light oak fire surround and marble base",
+        "price": "\u00a3145",
+        "location": "Bexhill, East Sussex"
+    },
+    {
+        "description": "Electric Fireplace",
+        "price": "\u00a330",
+        "location": "Worthing, West Sussex"
     }
 ]
