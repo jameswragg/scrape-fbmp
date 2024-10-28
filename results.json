@@ -1,5 +1,10 @@
 [
     {
+        "description": "Vintage lion console legs pair.",
+        "price": "\u00a3500",
+        "location": "Royal Tunbridge Wells"
+    },
+    {
         "description": "Marble fireplace gas",
         "price": "\u00a390",
         "location": "Chichester, West Sussex"
@@ -113,10 +118,5 @@
         "description": "Electric Fireplace",
         "price": "\u00a330",
         "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Real marble fireplace back panel",
-        "price": "\u00a330",
-        "location": "Haslemere"
     }
 ]
