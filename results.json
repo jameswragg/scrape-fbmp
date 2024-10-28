@@ -103,20 +103,5 @@
         "description": "Fireplace suite",
         "price": "\u00a3100",
         "location": "Peacehaven"
-    },
-    {
-        "description": "Lovely solid light oak fire surround and marble base",
-        "price": "\u00a3145",
-        "location": "Bexhill, East Sussex"
-    },
-    {
-        "description": "Electric Fireplace",
-        "price": "\u00a330",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Real marble fireplace back panel",
-        "price": "\u00a330",
-        "location": "Haslemere"
     }
 ]
