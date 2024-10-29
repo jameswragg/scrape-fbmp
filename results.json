@@ -5,6 +5,11 @@
         "location": "Eastbourne, East Sussex"
     },
     {
+        "description": "Vintage lion console legs pair.",
+        "price": "\u00a3500",
+        "location": "Royal Tunbridge Wells"
+    },
+    {
         "description": "Fire place surround",
         "price": "Free",
         "location": "Brighton and Hove"
@@ -103,5 +108,15 @@
         "description": "French Style Marble Fireplace Mantel.",
         "price": "\u00a3150",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Fireplace Companion Set. Marble and brass. 4 piece. Very good condition",
+        "price": "\u00a335",
+        "location": "Dorking"
+    },
+    {
+        "description": "Electric fireplace and surround",
+        "price": "Free",
+        "location": "Chichester, West Sussex"
     }
 ]
