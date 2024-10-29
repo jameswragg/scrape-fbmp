@@ -5,6 +5,16 @@
         "location": "Eastbourne, East Sussex"
     },
     {
+        "description": "Fire place surround",
+        "price": "Free",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Cast iron fireplace and surround",
+        "price": "\u00a3250",
+        "location": "Haywards Heath"
+    },
+    {
         "description": "Marble fireplace gas",
         "price": "\u00a390",
         "location": "Chichester, West Sussex"
@@ -55,6 +65,11 @@
         "location": "Haywards Heath"
     },
     {
+        "description": "Victorian fireplace",
+        "price": "\u00a3399",
+        "location": "Portsmouth"
+    },
+    {
         "description": "Marble hearth. 1-2m long by 380 wide by 30 mm thick",
         "price": "\u00a330",
         "location": "Chichester, West Sussex"
@@ -87,36 +102,6 @@
     {
         "description": "French Style Marble Fireplace Mantel.",
         "price": "\u00a3150",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Fireplace Companion Set. Marble and brass. 4 piece. Very good condition",
-        "price": "\u00a335",
-        "location": "Dorking"
-    },
-    {
-        "description": "Electric fireplace and surround",
-        "price": "Free",
-        "location": "Chichester, West Sussex"
-    },
-    {
-        "description": "Marble Fire Surround & Hearth - by Colin Parker",
-        "price": "\u00a3300",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Fireplace suite",
-        "price": "\u00a3100",
-        "location": "Peacehaven"
-    },
-    {
-        "description": "Lovely solid light oak fire surround and marble base",
-        "price": "\u00a3145",
-        "location": "Bexhill, East Sussex"
-    },
-    {
-        "description": "Electric Fireplace",
-        "price": "\u00a330",
         "location": "Worthing, West Sussex"
     }
 ]
