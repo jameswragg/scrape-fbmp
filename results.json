@@ -15,6 +15,11 @@
         "location": "Crawley"
     },
     {
+        "description": "Solid fireplace surround. With attractive detail",
+        "price": "\u00a375",
+        "location": "Portsmouth"
+    },
+    {
         "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
         "price": "\u00a365",
         "location": "Eastbourne, East Sussex"
@@ -90,6 +95,11 @@
         "location": "Chichester, West Sussex"
     },
     {
+        "description": "Oak Fire Surround and Marble Hearth and Backboard",
+        "price": "\u00a335",
+        "location": "Waterlooville"
+    },
+    {
         "description": "Clock mantle solid marble",
         "price": "\u00a325",
         "location": "Brighton and Hove"
@@ -103,5 +113,10 @@
         "description": "French Style Marble Fireplace Mantel.",
         "price": "\u00a360",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Fireplace - Oak effect/black marble with electric fire",
+        "price": "\u00a3110",
+        "location": "Emsworth"
     }
 ]
