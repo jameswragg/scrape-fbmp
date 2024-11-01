@@ -1,5 +1,10 @@
 [
     {
+        "description": "FREE - Marble and glass fireplace with fire.",
+        "price": "Free",
+        "location": "Crawley"
+    },
+    {
         "description": "Complete marble and surround fire place with gas affect fire in excellent condition",
         "price": "\u00a380",
         "location": "Woking"
@@ -23,6 +28,11 @@
         "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
         "price": "\u00a365",
         "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Vintage lion console legs pair.",
+        "price": "\u00a3500",
+        "location": "Royal Tunbridge Wells"
     },
     {
         "description": "Fire place surround",
@@ -103,5 +113,10 @@
         "description": "Clock mantle solid marble",
         "price": "\u00a325",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Slate and marble Victorian fireplace surround",
+        "price": "\u00a3100",
+        "location": "Haslemere"
     }
 ]
