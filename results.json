@@ -40,11 +40,6 @@
         "location": "Eastbourne, East Sussex"
     },
     {
-        "description": "Vintage lion console legs pair.",
-        "price": "\u00a3500",
-        "location": "Royal Tunbridge Wells"
-    },
-    {
         "description": "Fire place surround",
         "price": "\u00a375",
         "location": "Brighton and Hove"
@@ -118,5 +113,10 @@
         "description": "Clock mantle solid marble",
         "price": "\u00a325",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Slate and marble Victorian fireplace surround",
+        "price": "\u00a3100",
+        "location": "Haslemere"
     }
 ]
