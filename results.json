@@ -20,6 +20,11 @@
         "location": "Crawley"
     },
     {
+        "description": "Victorian tiles",
+        "price": "\u00a320",
+        "location": "Worthing, West Sussex"
+    },
+    {
         "description": "Solid fireplace surround. With attractive detail",
         "price": "\u00a375",
         "location": "Portsmouth"
@@ -28,11 +33,6 @@
         "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
         "price": "\u00a365",
         "location": "Eastbourne, East Sussex"
-    },
-    {
-        "description": "Vintage lion console legs pair.",
-        "price": "\u00a3500",
-        "location": "Royal Tunbridge Wells"
     },
     {
         "description": "Fire place surround",
@@ -103,20 +103,5 @@
         "description": "Marble hearth. 1-2m long by 380 wide by 30 mm thick",
         "price": "\u00a330",
         "location": "Chichester, West Sussex"
-    },
-    {
-        "description": "Oak Fire Surround and Marble Hearth and Backboard",
-        "price": "\u00a335",
-        "location": "Waterlooville"
-    },
-    {
-        "description": "Clock mantle solid marble",
-        "price": "\u00a325",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Slate and marble Victorian fireplace surround",
-        "price": "\u00a3100",
-        "location": "Haslemere"
     }
 ]
