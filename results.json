@@ -1,15 +1,5 @@
 [
     {
-        "description": "Marble and Glass fireplace -dismantled",
-        "price": "Free",
-        "location": "Crawley"
-    },
-    {
-        "description": "FREE - Marble and glass fireplace with fire.",
-        "price": "Free",
-        "location": "Crawley"
-    },
-    {
         "description": "Complete marble and surround fire place with gas affect fire in excellent condition",
         "price": "\u00a380",
         "location": "Woking"
@@ -118,5 +108,15 @@
         "description": "Slate and marble Victorian fireplace surround",
         "price": "\u00a390",
         "location": "Haslemere"
+    },
+    {
+        "description": "French Style Marble Fireplace Mantel.",
+        "price": "\u00a360",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Fireplace - Oak effect/black marble with electric fire",
+        "price": "\u00a3110",
+        "location": "Emsworth"
     }
 ]
