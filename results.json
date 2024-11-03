@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace oak and marble surround",
+        "price": "\u00a350",
+        "location": "Battle, East Sussex"
+    },
+    {
         "description": "Real marble fireplace back panel and hearth",
         "price": "\u00a315",
         "location": "Bognor Regis"
@@ -113,10 +118,5 @@
         "description": "Electric Fireplace",
         "price": "\u00a3120",
         "location": "Haywards Heath"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3399",
-        "location": "Portsmouth"
     }
 ]
