@@ -55,6 +55,11 @@
         "location": "Eastbourne, East Sussex"
     },
     {
+        "description": "Vintage lion console legs pair.",
+        "price": "\u00a3500",
+        "location": "Royal Tunbridge Wells"
+    },
+    {
         "description": "Fire place surround",
         "price": "\u00a375",
         "location": "Brighton and Hove"
@@ -113,10 +118,5 @@
         "description": "Victorian fireplace",
         "price": "\u00a3399",
         "location": "Portsmouth"
-    },
-    {
-        "description": "Marble hearth. 1-2m long by 380 wide by 30 mm thick",
-        "price": "\u00a330",
-        "location": "Chichester, West Sussex"
     }
 ]
