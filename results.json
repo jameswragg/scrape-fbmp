@@ -25,11 +25,6 @@
         "location": "Plumpton, East Sussex"
     },
     {
-        "description": "Electric Fireplace",
-        "price": "\u00a340",
-        "location": "Biggin Hill, Bromley, United Kingdom"
-    },
-    {
         "description": "Free marble fireplace",
         "price": "Free",
         "location": "Crawley"
@@ -42,6 +37,11 @@
     {
         "description": "Victorian tiles",
         "price": "\u00a320",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Mantelpiece and fire surround",
+        "price": "\u00a31",
         "location": "Worthing, West Sussex"
     },
     {
@@ -58,6 +58,11 @@
         "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
         "price": "\u00a365",
         "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Vintage lion console legs pair.",
+        "price": "\u00a3500",
+        "location": "Royal Tunbridge Wells"
     },
     {
         "description": "Marble fireplace gas",
@@ -98,20 +103,5 @@
         "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
         "price": "\u00a315",
         "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
-        "price": "\u00a315",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Electric Fireplace",
-        "price": "\u00a3120",
-        "location": "Haywards Heath"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3399",
-        "location": "Portsmouth"
     }
 ]
