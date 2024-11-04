@@ -5,11 +5,6 @@
         "location": "Camberley"
     },
     {
-        "description": "Fireplace oak and marble surround",
-        "price": "\u00a350",
-        "location": "Battle, East Sussex"
-    },
-    {
         "description": "Real marble fireplace back panel and hearth",
         "price": "\u00a315",
         "location": "Bognor Regis"
@@ -43,11 +38,6 @@
         "description": "Victorian Tiled Cast Iron Fireplace",
         "price": "\u00a390",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Electric fire",
-        "price": "\u00a340",
-        "location": "East Grinstead"
     },
     {
         "description": "Victorian tiles",
@@ -103,5 +93,15 @@
         "description": "Fire place",
         "price": "\u00a350",
         "location": "Saint Leonards, East Sussex, United Kingdom"
+    },
+    {
+        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
+        "price": "\u00a315",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
+        "price": "\u00a315",
+        "location": "Worthing, West Sussex"
     }
 ]
