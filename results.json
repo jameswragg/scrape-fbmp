@@ -60,11 +60,6 @@
         "location": "Eastbourne, East Sussex"
     },
     {
-        "description": "Vintage lion console legs pair.",
-        "price": "\u00a3500",
-        "location": "Royal Tunbridge Wells"
-    },
-    {
         "description": "Marble fireplace gas",
         "price": "\u00a340",
         "location": "Chichester, West Sussex"
@@ -113,5 +108,10 @@
         "description": "Electric Fireplace",
         "price": "\u00a3120",
         "location": "Haywards Heath"
+    },
+    {
+        "description": "Victorian fireplace",
+        "price": "\u00a3399",
+        "location": "Portsmouth"
     }
 ]
