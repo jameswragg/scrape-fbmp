@@ -15,6 +15,11 @@
         "location": "Bognor Regis"
     },
     {
+        "description": "LPG fire with full Marble surround",
+        "price": "\u00a385",
+        "location": "Uckfield"
+    },
+    {
         "description": "Complete marble and surround fire place with gas affect fire in excellent condition",
         "price": "\u00a380",
         "location": "Woking"
@@ -98,20 +103,5 @@
         "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
         "price": "\u00a315",
         "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
-        "price": "\u00a315",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Electric Fireplace",
-        "price": "\u00a3120",
-        "location": "Haywards Heath"
-    },
-    {
-        "description": "Victorian fireplace",
-        "price": "\u00a3399",
-        "location": "Portsmouth"
     }
 ]
