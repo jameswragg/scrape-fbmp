@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace surround",
+        "price": "\u00a350",
+        "location": "Polegate"
+    },
+    {
         "description": "Wooden fire surround and electric fire, with white marble",
         "price": "\u00a3100",
         "location": "Sevenoaks, Kent"
@@ -70,6 +75,11 @@
         "location": "Eastbourne, East Sussex"
     },
     {
+        "description": "Vintage lion console legs pair.",
+        "price": "\u00a3500",
+        "location": "Royal Tunbridge Wells"
+    },
+    {
         "description": "Marble fireplace gas",
         "price": "\u00a340",
         "location": "Chichester, West Sussex"
@@ -103,15 +113,5 @@
         "description": "Fire place",
         "price": "\u00a350",
         "location": "Saint Leonards, East Sussex, United Kingdom"
-    },
-    {
-        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
-        "price": "\u00a315",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
-        "price": "\u00a315",
-        "location": "Worthing, West Sussex"
     }
 ]
