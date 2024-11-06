@@ -75,11 +75,6 @@
         "location": "Eastbourne, East Sussex"
     },
     {
-        "description": "Vintage lion console legs pair.",
-        "price": "\u00a3500",
-        "location": "Royal Tunbridge Wells"
-    },
-    {
         "description": "Marble fireplace gas",
         "price": "\u00a340",
         "location": "Chichester, West Sussex"
@@ -108,10 +103,5 @@
         "description": "Oak fire surround fire",
         "price": "\u00a350",
         "location": "Polegate"
-    },
-    {
-        "description": "Fire place",
-        "price": "\u00a350",
-        "location": "Saint Leonards, East Sussex, United Kingdom"
     }
 ]
