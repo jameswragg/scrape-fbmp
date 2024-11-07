@@ -1,9 +1,5 @@
 [
-    {
-        "description": "Large piece of marble from a fireplace mantel",
-        "price": "\u00a310",
-        "location": "Portsmouth"
-    },
+    null,
     {
         "description": "Fireplace surround",
         "price": "\u00a350",
@@ -67,5 +63,7 @@
         "description": "Marble fireplace gas",
         "price": "\u00a340",
         "location": "Chichester, West Sussex"
-    }
+    },
+    null,
+    null
 ]
