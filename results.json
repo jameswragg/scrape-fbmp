@@ -1,8 +1,8 @@
 [
     {
-        "description": "Marble fireplace with slate hearth and Dimplex electric fire",
-        "price": "\u00a3350",
-        "location": "Bognor Regis"
+        "description": "Large piece of marble from a fireplace mantel",
+        "price": "\u00a310",
+        "location": "Portsmouth"
     },
     {
         "description": "Fireplace surround",
@@ -71,11 +71,6 @@
         "location": "Eastbourne, East Sussex"
     },
     {
-        "description": "Vintage lion console legs pair.",
-        "price": "\u00a3500",
-        "location": "Royal Tunbridge Wells"
-    },
-    {
         "description": "Marble fireplace gas",
         "price": "\u00a340",
         "location": "Chichester, West Sussex"
@@ -104,10 +99,5 @@
         "description": "Fire place",
         "price": "\u00a350",
         "location": "Saint Leonards, East Sussex, United Kingdom"
-    },
-    {
-        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
-        "price": "\u00a315",
-        "location": "Worthing, West Sussex"
     }
 ]
