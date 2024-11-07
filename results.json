@@ -1,44 +1,24 @@
 [
     null,
-    {
-        "description": "Fireplace surround",
-        "price": "\u00a350",
-        "location": "Polegate"
-    },
-    null,
-    {
-        "description": "Grey electric fire place",
-        "price": "\u00a380",
-        "location": "Hastings, East Sussex"
-    },
-    null,
-    null,
-    {
-        "description": "Fire Surround",
-        "price": "\u00a3200",
-        "location": "Havant"
-    },
     null,
     null,
     null,
     {
-        "description": "LPG fire with full Marble surround",
-        "price": "\u00a385",
-        "location": "Uckfield"
-    },
-    null,
-    null,
-    null,
-    {
-        "description": "Victorian Tiled Cast Iron Fireplace",
-        "price": "\u00a390",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Victorian tiles",
+        "description": "Electric fire place",
         "price": "\u00a320",
-        "location": "Worthing, West Sussex"
+        "location": "Petersfield"
     },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null,
     null,
@@ -47,9 +27,7 @@
         "price": "\u00a365",
         "location": "Eastbourne, East Sussex"
     },
-    {
-        "description": "Marble fireplace gas",
-        "price": "\u00a340",
-        "location": "Chichester, West Sussex"
-    }
+    null,
+    null,
+    null
 ]
