@@ -103,5 +103,15 @@
         "description": "Marble fireplace gas",
         "price": "\u00a340",
         "location": "Chichester, West Sussex"
+    },
+    {
+        "description": "FREE - MUST GO - Beautiful green marble fireplace with surround",
+        "price": "Free",
+        "location": "Littlehampton"
+    },
+    {
+        "description": "Fireplace surround, hearth and back panel",
+        "price": "\u00a380",
+        "location": "Reigate, Surrey"
     }
 ]
