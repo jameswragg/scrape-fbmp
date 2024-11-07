@@ -28,11 +28,7 @@
     },
     null,
     null,
-    {
-        "description": "Free marble fireplace",
-        "price": "Free",
-        "location": "Crawley"
-    },
+    null,
     {
         "description": "Victorian Tiled Cast Iron Fireplace",
         "price": "\u00a390",
@@ -43,17 +39,9 @@
         "price": "\u00a320",
         "location": "Worthing, West Sussex"
     },
-    {
-        "description": "Mantelpiece and fire surround",
-        "price": "\u00a31",
-        "location": "Worthing, West Sussex"
-    },
     null,
-    {
-        "description": "fire and marble surround",
-        "price": "\u00a3150",
-        "location": "Waterlooville"
-    },
+    null,
+    null,
     {
         "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
         "price": "\u00a365",
@@ -63,7 +51,5 @@
         "description": "Marble fireplace gas",
         "price": "\u00a340",
         "location": "Chichester, West Sussex"
-    },
-    null,
-    null
+    }
 ]
