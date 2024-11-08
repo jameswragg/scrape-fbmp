@@ -103,5 +103,15 @@
         "description": "Marble fireplace gas",
         "price": "\u00a340",
         "location": "Chichester, West Sussex"
+    },
+    {
+        "description": "Fireplace surround, hearth and back panel",
+        "price": "\u00a380",
+        "location": "Reigate, Surrey"
+    },
+    {
+        "description": "Brand New Marble Fireplace Pieces",
+        "price": "\u00a3150",
+        "location": "Chichester, West Sussex"
     }
 ]
