@@ -15,6 +15,16 @@
         "location": "Sevenoaks, Kent"
     },
     {
+        "description": "Fire place (for open fire)",
+        "price": "\u00a3200",
+        "location": "Tonbridge, Kent"
+    },
+    {
+        "description": "Electric fire and surround",
+        "price": "\u00a370",
+        "location": "Lewes, East Sussex"
+    },
+    {
         "description": "Grey electric fire place",
         "price": "\u00a380",
         "location": "Hastings, East Sussex"
@@ -35,6 +45,11 @@
         "location": "Havant"
     },
     {
+        "description": "Large Cast Iron Fireplace insert with unopened Shelf - Victorian style",
+        "price": "\u00a3400",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Victorian fireplace and hearth surround",
         "price": "\u00a3350",
         "location": "Arundel, West Sussex"
@@ -48,6 +63,11 @@
         "description": "Whole fireplace",
         "price": "\u00a325",
         "location": "Bognor Regis"
+    },
+    {
+        "description": "Victorian Cast iron fireplace with mantle piece",
+        "price": "\u00a3400",
+        "location": "Sevenoaks, Kent"
     },
     {
         "description": "LPG fire with full Marble surround",
@@ -83,35 +103,5 @@
         "description": "Mantelpiece and fire surround",
         "price": "\u00a31",
         "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Solid fireplace surround. With attractive detail",
-        "price": "\u00a375",
-        "location": "Portsmouth"
-    },
-    {
-        "description": "fire and marble surround",
-        "price": "\u00a3150",
-        "location": "Waterlooville"
-    },
-    {
-        "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
-        "price": "\u00a365",
-        "location": "Eastbourne, East Sussex"
-    },
-    {
-        "description": "Marble fireplace gas",
-        "price": "\u00a340",
-        "location": "Chichester, West Sussex"
-    },
-    {
-        "description": "Fireplace surround, hearth and back panel",
-        "price": "\u00a380",
-        "location": "Reigate, Surrey"
-    },
-    {
-        "description": "Brand New Marble Fireplace Pieces",
-        "price": "\u00a3150",
-        "location": "Chichester, West Sussex"
     }
 ]
