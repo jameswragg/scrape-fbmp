@@ -75,11 +75,6 @@
         "location": "Uckfield"
     },
     {
-        "description": "Complete marble and surround fire place with gas affect fire in excellent condition",
-        "price": "\u00a380",
-        "location": "Woking"
-    },
-    {
         "description": "Pair of bronze antique table lamps on green marble base",
         "price": "\u00a3125",
         "location": "Plumpton, East Sussex"
@@ -103,5 +98,10 @@
         "description": "Mantelpiece and fire surround",
         "price": "\u00a31",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Solid fireplace surround. With attractive detail",
+        "price": "\u00a375",
+        "location": "Portsmouth"
     }
 ]
