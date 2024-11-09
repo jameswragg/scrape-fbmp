@@ -16,7 +16,7 @@
     },
     {
         "description": "Fireplace surround",
-        "price": "\u00a350",
+        "price": "\u00a330",
         "location": "Polegate"
     },
     {
@@ -90,11 +90,6 @@
         "location": "Crawley"
     },
     {
-        "description": "Victorian Tiled Cast Iron Fireplace",
-        "price": "\u00a390",
-        "location": "Brighton and Hove"
-    },
-    {
         "description": "Victorian tiles",
         "price": "\u00a320",
         "location": "Worthing, West Sussex"
@@ -113,5 +108,10 @@
         "description": "fire and marble surround",
         "price": "\u00a3150",
         "location": "Waterlooville"
+    },
+    {
+        "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
+        "price": "\u00a365",
+        "location": "Eastbourne, East Sussex"
     }
 ]
