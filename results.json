@@ -5,6 +5,11 @@
         "location": "Burgess Hill"
     },
     {
+        "description": "Period fireplaces & stoves",
+        "price": "\u00a3650",
+        "location": "Brighton and Hove"
+    },
+    {
         "description": "Large piece of marble from a fireplace mantel",
         "price": "\u00a310",
         "location": "Portsmouth"
@@ -25,24 +30,9 @@
         "location": "Tonbridge, Kent"
     },
     {
-        "description": "Electric fire and surround",
-        "price": "\u00a370",
-        "location": "Lewes, East Sussex"
-    },
-    {
-        "description": "Grey electric fire place",
-        "price": "\u00a380",
-        "location": "Hastings, East Sussex"
-    },
-    {
         "description": "Electric fire place",
         "price": "\u00a320",
         "location": "Petersfield"
-    },
-    {
-        "description": "Fireplace and surround",
-        "price": "\u00a3500",
-        "location": "Liphook"
     },
     {
         "description": "Fire Surround",
@@ -75,6 +65,11 @@
         "location": "Sevenoaks, Kent"
     },
     {
+        "description": "Victorian cast iron fireplace",
+        "price": "\u00a3325",
+        "location": "Cobham, Surrey"
+    },
+    {
         "description": "LPG fire with full Marble surround",
         "price": "\u00a385",
         "location": "Uckfield"
@@ -83,6 +78,16 @@
         "description": "Pair of bronze antique table lamps on green marble base",
         "price": "\u00a3125",
         "location": "Plumpton, East Sussex"
+    },
+    {
+        "description": "Victorian / Edwardian cast iron fire and fireplace surround",
+        "price": "\u00a3250",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Electric Fireplace",
+        "price": "\u00a340",
+        "location": "Biggin Hill, Bromley, United Kingdom"
     },
     {
         "description": "Free marble fireplace",
