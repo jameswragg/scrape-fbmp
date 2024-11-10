@@ -113,5 +113,10 @@
         "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
         "price": "\u00a365",
         "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Marble fireplace gas",
+        "price": "\u00a340",
+        "location": "Chichester, West Sussex"
     }
 ]
