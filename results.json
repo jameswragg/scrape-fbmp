@@ -5,6 +5,11 @@
         "location": "Burgess Hill"
     },
     {
+        "description": "Gorgeous Victorian Fireplace",
+        "price": "\u00a390",
+        "location": "Hastings, East Sussex"
+    },
+    {
         "description": "Period fireplaces & stoves",
         "price": "\u00a3650",
         "location": "Brighton and Hove"
@@ -13,6 +18,11 @@
         "description": "Large piece of marble from a fireplace mantel",
         "price": "\u00a310",
         "location": "Portsmouth"
+    },
+    {
+        "description": "VICTORIAN CAST IRON FIREPLACE INSERT",
+        "price": "\u00a3195",
+        "location": "Cobham, Surrey"
     },
     {
         "description": "Fireplace surround",
@@ -30,19 +40,14 @@
         "location": "Petersfield"
     },
     {
+        "description": "Fireplace and surround",
+        "price": "\u00a3500",
+        "location": "Liphook"
+    },
+    {
         "description": "Fire Surround",
         "price": "\u00a3200",
         "location": "Havant"
-    },
-    {
-        "description": "Large Cast Iron Fireplace insert with unopened Shelf - Victorian style",
-        "price": "\u00a3400",
-        "location": "Brighton and Hove"
-    },
-    {
-        "description": "Victorian fireplace and hearth surround",
-        "price": "\u00a3350",
-        "location": "Arundel, West Sussex"
     },
     {
         "description": "Real marble fireplace back panel and hearth",
@@ -58,6 +63,11 @@
         "description": "Victorian Cast iron fireplace with mantle piece",
         "price": "\u00a3400",
         "location": "Sevenoaks, Kent"
+    },
+    {
+        "description": "Exquisite Cast Iron Fireplace Complete Ready To Fit",
+        "price": "\u00a3260",
+        "location": "Eastbourne, East Sussex"
     },
     {
         "description": "Victorian cast iron fireplace",
@@ -108,15 +118,5 @@
         "description": "fire and marble surround",
         "price": "\u00a3150",
         "location": "Waterlooville"
-    },
-    {
-        "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
-        "price": "\u00a365",
-        "location": "Eastbourne, East Sussex"
-    },
-    {
-        "description": "Vintage lion console legs pair.",
-        "price": "\u00a3500",
-        "location": "Royal Tunbridge Wells"
     }
 ]
