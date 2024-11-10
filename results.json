@@ -103,5 +103,20 @@
         "description": "Solid fireplace surround. With attractive detail",
         "price": "\u00a375",
         "location": "Portsmouth"
+    },
+    {
+        "description": "fire and marble surround",
+        "price": "\u00a3150",
+        "location": "Waterlooville"
+    },
+    {
+        "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
+        "price": "\u00a365",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Vintage lion console legs pair.",
+        "price": "\u00a3500",
+        "location": "Royal Tunbridge Wells"
     }
 ]
