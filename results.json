@@ -10,6 +10,11 @@
         "location": "Mayfield, East Sussex, United Kingdom"
     },
     {
+        "description": "Fire with decorative oak and solid Marble surround",
+        "price": "\u00a375",
+        "location": "Willingdon, East Sussex, United Kingdom"
+    },
+    {
         "description": "Marble fireplace surround",
         "price": "\u00a320",
         "location": "Burgess Hill"
@@ -35,11 +40,6 @@
         "location": "Polegate"
     },
     {
-        "description": "Fire place (for open fire)",
-        "price": "\u00a3200",
-        "location": "Tonbridge, Kent"
-    },
-    {
         "description": "Electric fire place",
         "price": "\u00a320",
         "location": "Petersfield"
@@ -53,6 +53,11 @@
         "description": "Fire Surround",
         "price": "\u00a3200",
         "location": "Havant"
+    },
+    {
+        "description": "Victorian fireplace and hearth surround",
+        "price": "\u00a3350",
+        "location": "Arundel, West Sussex"
     },
     {
         "description": "Real marble fireplace back panel and hearth",
@@ -103,5 +108,15 @@
         "description": "Free marble fireplace",
         "price": "Free",
         "location": "Crawley"
+    },
+    {
+        "description": "Victorian tiles",
+        "price": "\u00a320",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Mantelpiece and fire surround",
+        "price": "\u00a31",
+        "location": "Worthing, West Sussex"
     }
 ]
