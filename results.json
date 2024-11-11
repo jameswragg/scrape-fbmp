@@ -1,5 +1,10 @@
 [
     {
+        "description": "Fireplace - Oak effect/black marble with electric fire",
+        "price": "\u00a3110",
+        "location": "Emsworth"
+    },
+    {
         "description": "Mantlepiece /fireplace",
         "price": "Free",
         "location": "Purley, London"
@@ -112,11 +117,6 @@
     {
         "description": "Victorian tiles",
         "price": "\u00a320",
-        "location": "Worthing, West Sussex"
-    },
-    {
-        "description": "Mantelpiece and fire surround",
-        "price": "\u00a31",
         "location": "Worthing, West Sussex"
     }
 ]
