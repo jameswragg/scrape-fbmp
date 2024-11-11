@@ -1,5 +1,10 @@
 [
     {
+        "description": "Wood Fireplace Surround with Marble Inset",
+        "price": "\u00a3150",
+        "location": "Mayfield, East Sussex, United Kingdom"
+    },
+    {
         "description": "Marble fireplace surround",
         "price": "\u00a320",
         "location": "Burgess Hill"
@@ -103,5 +108,15 @@
         "description": "Mantelpiece and fire surround",
         "price": "\u00a31",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Solid fireplace surround. With attractive detail",
+        "price": "\u00a375",
+        "location": "Portsmouth"
+    },
+    {
+        "description": "fire and marble surround",
+        "price": "\u00a3150",
+        "location": "Waterlooville"
     }
 ]
