@@ -25,14 +25,14 @@
         "location": "Polegate"
     },
     {
+        "description": "Venetian Chequer White and Nero Marble tiles",
+        "price": "\u00a360",
+        "location": "Worthing, West Sussex"
+    },
+    {
         "description": "Exquisite Cast Iron Fireplace Complete Ready To Fit",
         "price": "\u00a3260",
         "location": "Eastbourne, East Sussex"
-    },
-    {
-        "description": "LPG fire with full Marble surround",
-        "price": "\u00a385",
-        "location": "Uckfield"
     },
     {
         "description": "Pair of bronze antique table lamps on green marble base",
@@ -68,11 +68,6 @@
         "description": "Stone fire place",
         "price": "\u00a312,345",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Stunning Original Art Nouveau Cast Iron Fireplace Complete Ready to Fit",
-        "price": "\u00a3350",
-        "location": "Eastbourne, East Sussex"
     },
     {
         "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
@@ -118,5 +113,10 @@
         "description": "Gas fire and surroundings",
         "price": "\u00a350",
         "location": "Shoreham-by-Sea"
+    },
+    {
+        "description": "Gas Fireplace",
+        "price": "\u00a3150",
+        "location": "Horley"
     }
 ]
