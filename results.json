@@ -1,10 +1,5 @@
 [
     {
-        "description": "Electric fire (surround not included)",
-        "price": "\u00a330",
-        "location": "Emsworth"
-    },
-    {
         "description": "Mantlepiece /fireplace",
         "price": "Free",
         "location": "Purley, London"
@@ -117,6 +112,11 @@
     {
         "description": "Victorian tiles",
         "price": "\u00a320",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Mantelpiece and fire surround",
+        "price": "\u00a31",
         "location": "Worthing, West Sussex"
     }
 ]
