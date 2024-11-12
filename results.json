@@ -103,5 +103,20 @@
         "description": "Victorian / Edwardian cast iron fire and fireplace surround",
         "price": "\u00a3250",
         "location": "Brighton and Hove"
+    },
+    {
+        "description": "Electric Fireplace",
+        "price": "\u00a340",
+        "location": "Biggin Hill, Bromley, United Kingdom"
+    },
+    {
+        "description": "Free marble fireplace",
+        "price": "Free",
+        "location": "Crawley"
+    },
+    {
+        "description": "Victorian tiles",
+        "price": "\u00a320",
+        "location": "Worthing, West Sussex"
     }
 ]
