@@ -1,15 +1,5 @@
 [
     {
-        "description": "Mantlepiece /fireplace",
-        "price": "Free",
-        "location": "Purley, London"
-    },
-    {
-        "description": "Wood Fireplace Surround with Marble Inset",
-        "price": "\u00a3150",
-        "location": "Mayfield, East Sussex, United Kingdom"
-    },
-    {
         "description": "Fire with decorative oak and solid Marble surround",
         "price": "\u00a375",
         "location": "Willingdon, East Sussex, United Kingdom"
@@ -20,19 +10,9 @@
         "location": "Burgess Hill"
     },
     {
-        "description": "Gorgeous Victorian Fireplace",
-        "price": "\u00a390",
-        "location": "Hastings, East Sussex"
-    },
-    {
         "description": "Period fireplaces & stoves",
         "price": "\u00a3650",
         "location": "Brighton and Hove"
-    },
-    {
-        "description": "Large piece of marble from a fireplace mantel",
-        "price": "\u00a310",
-        "location": "Portsmouth"
     },
     {
         "description": "Fireplace surround",
@@ -40,49 +20,9 @@
         "location": "Polegate"
     },
     {
-        "description": "Electric fire place",
-        "price": "\u00a320",
-        "location": "Petersfield"
-    },
-    {
-        "description": "Fireplace and surround",
-        "price": "\u00a3500",
-        "location": "Liphook"
-    },
-    {
-        "description": "Fire Surround",
-        "price": "\u00a3200",
-        "location": "Havant"
-    },
-    {
-        "description": "Victorian fireplace and hearth surround",
-        "price": "\u00a3350",
-        "location": "Arundel, West Sussex"
-    },
-    {
-        "description": "Real marble fireplace back panel and hearth",
-        "price": "\u00a315",
-        "location": "Bognor Regis"
-    },
-    {
-        "description": "Whole fireplace",
-        "price": "\u00a325",
-        "location": "Bognor Regis"
-    },
-    {
-        "description": "Victorian Cast iron fireplace with mantle piece",
-        "price": "\u00a3400",
-        "location": "Sevenoaks, Kent"
-    },
-    {
         "description": "Exquisite Cast Iron Fireplace Complete Ready To Fit",
         "price": "\u00a3260",
         "location": "Eastbourne, East Sussex"
-    },
-    {
-        "description": "Victorian cast iron fireplace",
-        "price": "\u00a3325",
-        "location": "Cobham, Surrey"
     },
     {
         "description": "LPG fire with full Marble surround",
@@ -100,11 +40,6 @@
         "location": "Brighton and Hove"
     },
     {
-        "description": "Electric Fireplace",
-        "price": "\u00a340",
-        "location": "Biggin Hill, Bromley, United Kingdom"
-    },
-    {
         "description": "Free marble fireplace",
         "price": "Free",
         "location": "Crawley"
@@ -118,5 +53,70 @@
         "description": "Mantelpiece and fire surround",
         "price": "\u00a31",
         "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Beautiful wooden fireplace with marble surround. \ud83d\udd25",
+        "price": "\u00a365",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "Stone fire place",
+        "price": "\u00a312,345",
+        "location": "Brighton and Hove"
+    },
+    {
+        "description": "Stunning Original Art Nouveau Cast Iron Fireplace Complete Ready to Fit",
+        "price": "\u00a3350",
+        "location": "Eastbourne, East Sussex"
+    },
+    {
+        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
+        "price": "\u00a315",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "8.5m x45cm black marble fablon sticky back plastic marble effect fireplace upcycle",
+        "price": "\u00a315",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Electric Fireplace",
+        "price": "\u00a3120",
+        "location": "Haywards Heath"
+    },
+    {
+        "description": "French Style Marble Fireplace Mantel.",
+        "price": "\u00a3150",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Electric Fireplace",
+        "price": "\u00a330",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Fire place",
+        "price": "\u00a375",
+        "location": "Burgess Hill"
+    },
+    {
+        "description": "Stone fireplace",
+        "price": "\u00a3300",
+        "location": "East Grinstead"
+    },
+    {
+        "description": "Fireplace Surround",
+        "price": "\u00a3290",
+        "location": "Goring by Sea"
+    },
+    {
+        "description": "Gas fire and surroundings",
+        "price": "\u00a350",
+        "location": "Shoreham-by-Sea"
+    },
+    {
+        "description": "Gas Fireplace",
+        "price": "\u00a3150",
+        "location": "Horley"
     }
 ]
