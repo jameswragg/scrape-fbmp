@@ -103,5 +103,20 @@
         "description": "Electric Fireplace",
         "price": "\u00a340",
         "location": "Biggin Hill, Bromley, United Kingdom"
+    },
+    {
+        "description": "Free marble fireplace",
+        "price": "Free",
+        "location": "Crawley"
+    },
+    {
+        "description": "Victorian tiles",
+        "price": "\u00a320",
+        "location": "Worthing, West Sussex"
+    },
+    {
+        "description": "Mantelpiece and fire surround",
+        "price": "\u00a31",
+        "location": "Worthing, West Sussex"
     }
 ]
